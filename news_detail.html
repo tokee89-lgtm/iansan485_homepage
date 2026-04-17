@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="경기도지체장애인협회 안산시지회의 소식을 상세히 확인하세요.">
+  <meta name="keywords" content="안산시지회 소식 상세, 알림마당 내용, 장애인협회 보도내용">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="경기도지체장애인협회 안산시지회">
+  <meta property="og:title" content="게시글 상세보기 | 경기도지체장애인협회 안산시지회">
+  <meta property="og:description" content="안산시지회 알림마당의 상세 내용을 확인하실 수 있습니다.">
+  <meta property="og:image" content="images/logo.png">
+  <meta property="og:url" content="https://kappdansan.netlify.app/news_detail.html">
+  <title>게시글 보기 | 경기도지체장애인협회 안산시지회</title>
+  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Detail View Styling overrides */
+    .detail-header {
+      margin-bottom: 30px;
+    }
+    
+    .detail-header h1 {
+      font-size: 2.2rem;
+      color: var(--dark-color);
+      margin-bottom: 15px;
+      line-height: 1.4;
+    }
+    
+    .detail-date {
+      color: var(--gray-medium);
+      font-size: 1.1rem;
+      display: inline-block;
+      margin-bottom: 20px;
+    }
+    
+    .detail-header hr {
+      border: none;
+      border-bottom: 2px solid var(--primary-color);
+      margin-top: 20px;
+      width: 100px;
+    }
+    
+    .detail-body {
+      font-size: 1.1rem;
+      line-height: 1.9;
+      color: var(--text-main);
+      padding: 20px 0;
+    }
+    
+    .detail-body h2 {
+      font-size: 1.6rem;
+      color: var(--dark-color);
+      margin-bottom: 20px;
+    }
+    
+    .detail-body img {
+      max-width: 100%;
+      border-radius: 12px;
+      margin: 30px 0;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    #detail-container {
+      background: var(--light-color);
+      border-radius: 12px;
+      padding: 50px;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--gray-light);
+      max-width: 900px;
+    }
+
+    @media (max-width: 768px) {
+      #detail-container {
+        padding: 30px 20px;
+      }
+      .detail-header h1 {
+        font-size: 1.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="container header-container">
+      <a href="index.html" class="logo">
+        <img src="images/logo.png" alt="경기도지체장애인협회 안산시지회 로고" class="logo-img">
+        <div class="logo-divider"></div>
+        <div class="logo-branch-text">안산시지회</div>
+      </a>
+      
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="about.html">기관 소개</a></li>
+          <li><a href="projects.html">주요 사업</a></li>
+          <li><a href="news.html" class="active">알림마당</a></li>
+          <li><a href="location.html">오시는 길</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Banner -->
+  <div class="page-banner fade-in">
+    <div class="container">
+      <h1>알림마당 상세</h1>
+      <p>지회의 최근 소식을 상세히 확인하세요.</p>
+    </div>
+  </div>
+
+  <section class="section-padding" style="background-color: var(--gray-light);">
+    <div class="container">
+      <div id="detail-container">
+        <!-- 동적 주입 영역 -->
+        <div style="text-align:center; padding: 50px;">
+          <p style="font-size:1.5rem;"><i class="fa-solid fa-spinner fa-spin" style="color: var(--primary-color);"></i></p>
+          <p style="margin-top: 20px; color: var(--text-muted);">게시물을 불러오는 중입니다...</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-content fade-in">
+        <div class="footer-info">
+          <div class="footer-logo">경기도지체장애인협회 안산시지회</div>
+          <p style="margin-bottom: 20px; line-height: 1.8;">장애인에 대한 사회인식개선, 사회참여확대, 권익 및 자립을 도모하여 장애인의 "삶의 질" 향상을 목적을 위한 단체입니다.</p>
+          <ul class="contact-info">
+            <li><i class="fa-solid fa-phone" style="margin-top: 5px;"></i> <span>전화번호: 031-485-4518~9 (팩스: 031-485-4521)</span></li>
+            <li><i class="fa-solid fa-location-dot" style="margin-top: 5px;"></i> <span>주소: 경기도 안산시 상록구 오목로7길 15</span></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col" style="padding-left: 20px;">
+          <h4>바로가기</h4>
+          <ul>
+            <li><a href="about.html">기관 소개</a></li>
+            <li><a href="projects.html">주요 사업</a></li>
+            <li><a href="news.html">알림마당</a></li>
+            <li><a href="location.html">오시는 길</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col">
+          <h4>관련 링크</h4>
+          <ul>
+            <li><a href="https://blog.naver.com/iansan485" target="_blank">안산시지회 네이버 블로그</a></li>
+            <li><a href="http://www.kappd.or.kr/" target="_blank">한국지체장애인협회</a></li>
+            <li><a href="https://www.kgppd.or.kr/" target="_blank">경기도지체장애인협회</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2026 경기도지체장애인협회 안산시지회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/newsData.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

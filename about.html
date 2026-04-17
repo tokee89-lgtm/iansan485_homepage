@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="경기도지체장애인협회 안산시지회의 설립 목적, 지회장 인사말, 그리고 지회 연혁과 조직도를 소개합니다.">
+  <meta name="keywords" content="안산시지회 소개, 안산장애인협회사 인사말, 안산시지회 연혁, 조직도, 장애인협회 비전">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="경기도지체장애인협회 안산시지회">
+  <meta property="og:title" content="기관 소개 | 경기도지체장애인협회 안산시지회">
+  <meta property="og:description" content="경기도지체장애인협회 안산시지회의 목적과 비전을 상세히 소개합니다.">
+  <meta property="og:image" content="images/logo.png">
+  <meta property="og:url" content="https://kappdansan.netlify.app/about.html">
+  <title>기관 소개 | 경기도지체장애인협회 안산시지회</title>
+  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .about-content {
+      display: flex;
+      gap: 50px;
+      align-items: center;
+      margin-top: 40px;
+    }
+    
+    .about-text {
+      flex: 1;
+    }
+    
+    .about-text h2 {
+      font-size: 2rem;
+      color: var(--primary-color);
+      margin-bottom: 20px;
+    }
+    
+    .about-text p {
+      font-size: 1.1rem;
+      margin-bottom: 15px;
+      color: var(--text-main);
+    }
+    
+    .about-image {
+      flex: 1;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: var(--shadow-md);
+    }
+    
+    .about-features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+      margin-top: 60px;
+    }
+    
+    .feature-box {
+      background: var(--light-color);
+      padding: 30px;
+      border-left: 4px solid var(--primary-color);
+      border-radius: 4px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .feature-box h4 {
+      font-size: 1.2rem;
+      color: var(--dark-color);
+      margin-bottom: 10px;
+    }
+
+    /* Organization Chart HTML/CSS Styles */
+    .org-chart-wrap {
+      margin-top: 40px;
+      padding: 50px 20px;
+      background: #f8faff;
+      border-radius: 16px;
+      overflow-x: auto;
+      border: 1px solid #eef2f8;
+    }
+
+    .org-tree {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-width: 1000px;
+    }
+
+    .org-level {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      width: 100%;
+      margin-bottom: 40px;
+      position: relative;
+    }
+
+    .org-node {
+      background: #fff;
+      border: 2px solid #dae1e9;
+      border-radius: 8px;
+      padding: 12px 20px;
+      text-align: center;
+      min-width: 140px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+      z-index: 2;
+    }
+
+    .org-node.primary {
+      background: #0056b3;
+      border-color: #0056b3;
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .org-node.secondary {
+      background: #eef5ff;
+      border-color: #bcd4f5;
+      color: #0056b3;
+      font-weight: 600;
+    }
+
+    .org-node .role {
+      font-size: 0.8rem;
+      font-weight: 400;
+      color: inherit;
+      opacity: 0.85;
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .org-node .name, 
+    .org-node .name-list {
+      font-size: 0.95rem;
+      font-weight: 500;
+      display: block;
+      line-height: 1.6;
+    }
+
+    .org-node.primary .name {
+      font-weight: 700;
+    }
+
+    /* Connection Lines */
+    .org-level::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      width: 2px;
+      height: 40px;
+      background: #dae1e9;
+    }
+
+    .org-level.last-level::after {
+      display: none;
+    }
+
+    .org-group {
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+    }
+
+    /* Branch Grid Style */
+    .branch-section {
+      margin-top: 60px;
+      padding-top: 40px;
+      border-top: 1px dashed #dae1e9;
+    }
+
+    .branch-section h3 {
+      text-align: center;
+      margin-bottom: 25px;
+      color: var(--dark-color);
+      font-size: 1.3rem;
+    }
+
+    .branch-grid {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 10px;
+    }
+
+    .branch-node {
+      background: #fff;
+      border: 1px solid #e0e6ed;
+      padding: 10px;
+      text-align: center;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+
+    .branch-node .location {
+      color: #4a5568;
+      font-weight: 600;
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    .branch-node .name {
+      color: #718096;
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+
+    @media (max-width: 1024px) {
+      .branch-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .about-content {
+        flex-direction: column;
+      }
+      
+      .org-chart-wrap {
+        padding: 30px 15px;
+      }
+      
+      .org-tree {
+        min-width: auto;
+      }
+      
+      .org-level {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        margin-bottom: 30px;
+      }
+
+      .org-level::after {
+        left: 50%;
+        transform: translateX(-50%);
+        height: 30px;
+      }
+
+      .org-group {
+        flex-direction: column;
+        width: 100%;
+        max-width: 500px;
+        gap: 10px;
+      }
+
+      .org-node {
+        width: 100%;
+        min-width: auto;
+      }
+
+      .branch-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 480px) {
+      .branch-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .org-node .name-list {
+        font-size: 0.85rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="container header-container">
+      <a href="index.html" class="logo">
+        <img src="images/logo.png" alt="경기도지체장애인협회 안산시지회 로고" class="logo-img">
+        <div class="logo-divider"></div>
+        <div class="logo-branch-text">안산시지회</div>
+      </a>
+      
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="about.html" class="active">기관 소개</a></li>
+          <li><a href="projects.html">주요 사업</a></li>
+          <li><a href="news.html">알림마당</a></li>
+          <li><a href="location.html">오시는 길</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Banner -->
+  <div class="page-banner fade-in">
+    <div class="container">
+      <h1>기관 소개</h1>
+      <p>경기도지체장애인협회 안산시지회의 설립 목적과 비전을 확인하세요.</p>
+    </div>
+  </div>
+
+  <section class="section-padding">
+    <div class="container">
+      <div class="about-content fade-in">
+        <div class="about-text">
+          <h2>따뜻한 동행, 희망찬 내일</h2>
+          <p><strong>사단법인 경기도지체장애인협회 안산시지회</strong>는 장애인에 대한 사회적 인식을 개선하고, 사회참여 확대를 도모하기 위해 설립된 단체입니다.</p>
+          <p>우리 지회는 장애인의 권익 및 자립을 지원하여 궁극적으로 장애인들의 <strong>"삶의 질 향상"</strong>을 실현하는 것을 목표로 삼고 있습니다. 교육, 문화, 체육 활동 등 다방면에서의 지원 사업을 전개하고 있으며, 장애인과 비장애인이 차별 없이 어울려 살아가는 온전한 복지사회를 만들기 위해 끊임없이 노력하겠습니다.</p>
+          <p>앞으로도 여러분의 따뜻한 관심과 성원을 부탁드립니다. 감사합니다.</p>
+        </div>
+        <div class="about-image">
+          <img src="images/about_meeting.png" alt="2026년 신년 월례회">
+        </div>
+      </div>
+      
+      <div class="section-title fade-in" style="margin-top: 80px;">
+        <h2>조직도</h2>
+        <p style="text-align: center; color: var(--text-light); margin-top: 10px;">안산시지회의 투명하고 효율적인 조직 체계를 소개합니다.</p>
+      </div>
+      
+      <div class="org-chart-wrap fade-in">
+        <div class="org-tree">
+          <!-- Level 1: 지회장 -->
+          <div class="org-level">
+            <div class="org-node primary">
+              <span class="role">지회장</span>
+              <span class="name" id="org-president">권태익</span>
+            </div>
+          </div>
+
+          <!-- Level 2: 자문/의결/동호회 -->
+          <div class="org-level">
+            <div class="org-group">
+              <div class="org-node secondary">
+                <span class="role">운영위원회</span>
+                <span class="name" id="org-committee-name">위원장 권태익</span>
+                <div class="name-list" id="org-committee-list">위원 한치영 / 나병국 / 박춘지 /<br>김동진 / 백인숙 / 김영숙 /<br>송승희 / 원유현</div>
+              </div>
+              <div class="org-node secondary">
+                <span class="role">고문</span>
+                <span class="name" id="org-advisor">한갑수</span>
+              </div>
+              <div class="org-node secondary">
+                <span class="role">부회장</span>
+                <span class="name" id="org-vp">박춘지 / 나병국</span>
+              </div>
+              <div class="org-node secondary">
+                <span class="role">감사</span>
+                <span class="name" id="org-auditor">김현태 / 김수진</span>
+              </div>
+              <div class="org-node secondary">
+                <span class="role">후원회장</span>
+                <span class="name" id="org-sponsor">한치영</span>
+              </div>
+              <div class="org-node secondary">
+                <span class="role">자이언트 동호회</span>
+                <div class="name-list" id="org-clubs" style="text-align: left;">
+                  • 파크골프(회장): 박상초<br>
+                  • 게이트볼(회장): 송승희<br>
+                  • 산악회(회장): 김수진
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Level 3: 사무국장 -->
+          <div class="org-level">
+            <div class="org-node primary" style="background: #2c3e50; border-color: #2c3e50;">
+              <span class="role">사무국장</span>
+              <span class="name" id="org-director">김재활</span>
+            </div>
+          </div>
+
+          <!-- Level 4: 각 센터 및 사업 -->
+          <div class="org-level last-level">
+            <div class="org-group" style="flex-wrap: wrap;">
+              <div class="org-node">
+                <span class="role">장애인종합민원상담센터</span>
+                <span class="name" id="org-center1">사무국장 김재활 /<br>대리 최경미</span>
+              </div>
+              <div class="org-node">
+                <span class="role">편의증진기술지원센터</span>
+                <div class="name-list" id="org-center2">부장 최덕현 / 팀장 이지현 /<br>대리 이서연</div>
+              </div>
+              <div class="org-node">
+                <span class="role">이동편의기술지원센터</span>
+                <span class="name" id="org-center3">팀장 김승태</span>
+              </div>
+              <div class="org-node">
+                <span class="role">장애인어르신쉼마루</span>
+                <span class="name" id="org-center4">대리 최경미</span>
+              </div>
+              <div class="org-node">
+                <span class="role">도민촉진센터</span>
+                <div class="name-list" id="org-center5">핵심 권태익<br>일반 김재활 / 김동진 / 원유현</div>
+              </div>
+              <div class="org-node">
+                <span class="role">DB조사요원</span>
+                <span class="name" id="org-center6">이기주 / 남부현</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 5: 동 분회장 그리드 -->
+        <div class="branch-section">
+          <h3>동 분회장 현황 (21개동)</h3>
+          <div class="branch-grid">
+            <div class="branch-node"><span class="location">선부동</span><span class="name" id="org-b1">신현기</span></div>
+            <div class="branch-node"><span class="location">백운동</span><span class="name" id="org-b2">정면영</span></div>
+            <div class="branch-node"><span class="location">와동</span><span class="name" id="org-b3">황민순</span></div>
+            <div class="branch-node"><span class="location">고잔동</span><span class="name" id="org-b4">백삼열</span></div>
+            <div class="branch-node"><span class="location">중앙동</span><span class="name" id="org-b5">김성일</span></div>
+            <div class="branch-node"><span class="location">원곡동</span><span class="name" id="org-b6">안창애</span></div>
+            <div class="branch-node"><span class="location">성포동</span><span class="name" id="org-b7">최미영</span></div>
+            <div class="branch-node"><span class="location">초지동</span><span class="name" id="org-b8">이윤식</span></div>
+            <div class="branch-node"><span class="location">이동</span><span class="name" id="org-b9">김영숙</span></div>
+            <div class="branch-node"><span class="location">대부동</span><span class="name" id="org-b10">임주연</span></div>
+            <div class="branch-node"><span class="location">수암동</span><span class="name" id="org-b11">원유현</span></div>
+            <div class="branch-node"><span class="location">장상동</span><span class="name" id="org-b12">고창화</span></div>
+            <div class="branch-node"><span class="location">월피동</span><span class="name" id="org-b13">정한국</span></div>
+            <div class="branch-node"><span class="location">부곡동</span><span class="name" id="org-b14">송승희</span></div>
+            <div class="branch-node"><span class="location">일동</span><span class="name" id="org-b15">김동진</span></div>
+            <div class="branch-node"><span class="location">사동</span><span class="name" id="org-b16">이정이</span></div>
+            <div class="branch-node"><span class="location">사이동</span><span class="name" id="org-b17">배철</span></div>
+            <div class="branch-node"><span class="location">본오동</span><span class="name" id="org-b18">함경숙</span></div>
+            <div class="branch-node"><span class="location">팔곡동</span><span class="name" id="org-b19">백인숙</span></div>
+            <div class="branch-node"><span class="location">호수동</span><span class="name" id="org-b20">조수헌</span></div>
+            <div class="branch-node"><span class="location">신길동</span><span class="name" id="org-b21">신상열</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-content fade-in">
+        <div class="footer-info">
+          <div class="footer-logo">경기도지체장애인협회 안산시지회</div>
+          <p style="margin-bottom: 20px; line-height: 1.8;">장애인에 대한 사회인식개선, 사회참여확대, 권익 및 자립을 도모하여 장애인의 "삶의 질" 향상을 목적을 위한 단체입니다.</p>
+          <ul class="contact-info">
+            <li><i class="fa-solid fa-phone" style="margin-top: 5px;"></i> <span>전화번호: 031-485-4518~9 (팩스: 031-485-4521)</span></li>
+            <li><i class="fa-solid fa-location-dot" style="margin-top: 5px;"></i> <span>주소: 경기도 안산시 상록구 오목로7길 15</span></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col" style="padding-left: 20px;">
+          <h4>바로가기</h4>
+          <ul>
+            <li><a href="about.html">기관 소개</a></li>
+            <li><a href="projects.html">주요 사업</a></li>
+            <li><a href="news.html">알림마당</a></li>
+            <li><a href="location.html">오시는 길</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col">
+          <h4>관련 링크</h4>
+          <ul>
+            <li><a href="https://blog.naver.com/iansan485" target="_blank">안산시지회 네이버 블로그</a></li>
+            <li><a href="http://www.kappd.or.kr/" target="_blank">한국지체장애인협회</a></li>
+            <li><a href="https://www.kgppd.or.kr/" target="_blank">경기도지체장애인협회</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2026 경기도지체장애인협회 안산시지회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/orgData.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      let data = defaultOrgData;
+      const localData = localStorage.getItem('orgData');
+      if (localData) {
+        try {
+          data = JSON.parse(localData);
+        } catch(e) {}
+      }
+
+      function setEl(id, val) {
+        const el = document.getElementById(id);
+        if (el && val !== undefined) el.innerHTML = val;
+      }
+
+      setEl('org-president', data.president?.name);
+      setEl('org-director', data.director?.name);
+      setEl('org-committee-name', data.level2?.committee?.name);
+      setEl('org-committee-list', data.level2?.committee?.list);
+      setEl('org-advisor', data.level2?.advisor?.name);
+      setEl('org-vp', data.level2?.vp?.name);
+      setEl('org-auditor', data.level2?.auditor?.name);
+      setEl('org-sponsor', data.level2?.sponsor?.name);
+      setEl('org-clubs', data.level2?.clubs?.list);
+
+      if (data.centers) {
+        for (let i=1; i<=6; i++) {
+          const c = data.centers['center'+i];
+          setEl('org-center'+i, c?.name || c?.list);
+        }
+      }
+
+      if (data.branches) {
+        for (let i=1; i<=21; i++) {
+          setEl('org-b'+i, data.branches['b'+i]?.name);
+        }
+      }
+    });
+  </script>
+</body>
+</html>

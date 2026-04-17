@@ -1,0 +1,45 @@
+name: Naver Blog Sync
+
+on:
+  schedule:
+    # Runs every 1 hour (KST = UTC+9)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # To allow committing changes back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # We will refactor the script to use standard library, 
+          # so no extra dependencies should be needed.
+
+      - name: Run synchronization script
+        run: python sync_naver_blog.py
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git commit -m "Auto-sync: Update blog posts from Naver Blog"
+          git push

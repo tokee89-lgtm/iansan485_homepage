@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="경기도지체장애인협회 안산시지회 오시는 길 안내입니다. 상록구 오목로7길 15에 위치하고 있습니다.">
+  <meta name="keywords" content="안산시지회 위치, 안산장애인협회사 주소, 안산시지회 길찾기, 장애인협회 오시는길">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="경기도지체장애인협회 안산시지회">
+  <meta property="og:title" content="오시는 길 | 경기도지체장애인협회 안산시지회">
+  <meta property="og:description" content="경기도지체장애인협회 안산시지회의 위치와 대중교통 이용 방법을 안내해 드립니다.">
+  <meta property="og:image" content="images/logo.png">
+  <meta property="og:url" content="https://lucent-youtiao-d17ba8.netlify.app/location.html">
+  <title>오시는 길 | 경기도지체장애인협회 안산시지회</title>
+  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .map-container {
+      width: 100%;
+      height: 500px;
+      background: #e5e7eb;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 40px;
+      box-shadow: var(--shadow-md);
+      position: relative;
+    }
+    
+    .map-placeholder {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .map-placeholder i {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      color: var(--primary-color);
+    }
+    
+    .contact-card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 30px;
+    }
+    
+    .contact-card {
+      background: var(--light-color);
+      padding: 30px;
+      border-radius: 12px;
+      border: 1px solid var(--gray-light);
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      transition: var(--transition);
+    }
+
+    .contact-card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-5px);
+    }
+    
+    .contact-icon {
+      width: 50px;
+      height: 50px;
+      background: var(--primary-color);
+      color: var(--light-color);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+    
+    .contact-info h3 {
+      font-size: 1.25rem;
+      color: var(--dark-color);
+      margin-bottom: 10px;
+    }
+    
+    .contact-info p {
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="container header-container">
+      <a href="index.html" class="logo">
+        <img src="images/logo.png" alt="경기도지체장애인협회 안산시지회 로고" class="logo-img">
+        <div class="logo-divider"></div>
+        <div class="logo-branch-text">안산시지회</div>
+      </a>
+      
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="index.html">홈</a></li>
+          <li><a href="about.html">기관 소개</a></li>
+          <li><a href="projects.html">주요 사업</a></li>
+          <li><a href="news.html">알림마당</a></li>
+          <li><a href="location.html" class="active">오시는 길</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Banner -->
+  <div class="page-banner fade-in">
+    <div class="container">
+      <h1>오시는 길</h1>
+      <p>안산시지회로 찾아오시는 방법을 안내해 드립니다.</p>
+    </div>
+  </div>
+
+  <section class="section-padding">
+    <div class="container">
+      <div class="map-container fade-in">
+        <iframe src="https://maps.google.com/maps?q=경기도 안산시 상록구 오목로7길 15&t=&z=16&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      </div>
+      
+      <div class="contact-card-grid fade-in">
+        <div class="contact-card">
+          <div class="contact-icon"><i class="fa-solid fa-location-dot"></i></div>
+          <div class="contact-info">
+            <h3>주소</h3>
+            <p>경기도 안산시 상록구 오목로7길 15<br>안산시지회 사무실</p>
+          </div>
+        </div>
+        
+        <div class="contact-card">
+          <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
+          <div class="contact-info">
+            <h3>연락처</h3>
+            <p><strong>전화:</strong> 031-485-4518~9<br>
+               <strong>팩스:</strong> 031-485-4521</p>
+          </div>
+        </div>
+        
+        <div class="contact-card">
+          <div class="contact-icon"><i class="fa-solid fa-bus"></i></div>
+          <div class="contact-info">
+            <h3>대중교통 이용 안내</h3>
+            <p><strong>지하철:</strong> 수인분당선 사리역 (1번 출구) 하차 후 도보 약 10분 이내<br>
+               <strong>버스:</strong> 사리역 또는 인근 정류장 하차</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-content fade-in">
+        <div class="footer-info">
+          <div class="footer-logo">경기도지체장애인협회 안산시지회</div>
+          <p style="margin-bottom: 20px; line-height: 1.8;">장애인에 대한 사회인식개선, 사회참여확대, 권익 및 자립을 도모하여 장애인의 "삶의 질" 향상을 목적을 위한 단체입니다.</p>
+          <ul class="contact-info">
+            <li><i class="fa-solid fa-phone" style="margin-top: 5px;"></i> <span>전화번호: 031-485-4518~9 (팩스: 031-485-4521)</span></li>
+            <li><i class="fa-solid fa-location-dot" style="margin-top: 5px;"></i> <span>주소: 경기도 안산시 상록구 오목로7길 15</span></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col" style="padding-left: 20px;">
+          <h4>바로가기</h4>
+          <ul>
+            <li><a href="about.html">기관 소개</a></li>
+            <li><a href="projects.html">주요 사업</a></li>
+            <li><a href="news.html">알림마당</a></li>
+            <li><a href="location.html">오시는 길</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-col">
+          <h4>관련 링크</h4>
+          <ul>
+            <li><a href="https://blog.naver.com/iansan485" target="_blank">안산시지회 네이버 블로그</a></li>
+            <li><a href="http://www.kappd.or.kr/" target="_blank">한국지체장애인협회</a></li>
+            <li><a href="https://www.kgppd.or.kr/" target="_blank">경기도지체장애인협회</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2026 경기도지체장애인협회 안산시지회. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
