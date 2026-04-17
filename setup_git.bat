@@ -6,9 +6,9 @@ echo.
 git init
 
 :: Link to GitHub
-git remote set-url origin https://github.com/kappdansan/iansan485_homepage.git >nul 2>nul
+git remote set-url origin https://github.com/tokee89-lgtm/iansan485_homepage.git >nul 2>nul
 if %errorlevel% neq 0 (
-    git remote add origin https://github.com/kappdansan/iansan485_homepage.git
+    git remote add origin https://github.com/tokee89-lgtm/iansan485_homepage.git
 )
 
 :: Fetch from GitHub
