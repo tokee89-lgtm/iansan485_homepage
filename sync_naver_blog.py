@@ -13,6 +13,10 @@ IMAGE_DIR = 'images/blog'
 DATA_FILE = "js/newsData.js"
 DEFAULT_IMG = "images/static/notice_placeholder.png"
 
+def clean_cdata(text):
+    if not text: return ""
+    return re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', text, flags=re.DOTALL).strip()
+
 def ensure_dirs():
     # Use generic paths for cross-platform compatibility
     dirs = [
@@ -138,8 +142,8 @@ def sync():
         if clean_link in existing_links:
             continue
 
-        title_match = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', item) or re.search(r'<title>(.*?)</title>', item)
-        title = title_match.group(1).strip() if title_match else "No Title"
+        title_match = re.search(r'<title>(.*?)</title>', item, re.DOTALL)
+        title = clean_cdata(title_match.group(1)) if title_match else "No Title"
 
         date_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
         date_str = date_match.group(1) if date_match else ""
@@ -151,11 +155,11 @@ def sync():
         except:
             formatted_date = "Unknown"
 
-        category_match = re.search(r'<category><!\[CDATA\[(.*?)\]\]></category>', item) or re.search(r'<category>(.*?)</category>', item)
-        category = category_match.group(1) if category_match else "알림마당"
+        category_match = re.search(r'<category>(.*?)</category>', item, re.DOTALL)
+        category = clean_cdata(category_match.group(1)) if category_match else "알림마당"
         
-        desc_match = re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', item, re.DOTALL) or re.search(r'<description>(.*?)</description>', item, re.DOTALL)
-        desc_raw = desc_match.group(1) if desc_match else ""
+        desc_match = re.search(r'<description>(.*?)</description>', item, re.DOTALL)
+        desc_raw = clean_cdata(desc_match.group(1)) if desc_match else ""
         
         # Normalize HTML entities
         desc_text = desc_raw.replace('&lt;', '<').replace('&gt;', '>').replace('&quot;', '"').replace('&amp;', '&').replace('&nbsp;', ' ')
@@ -185,7 +189,7 @@ def sync():
             "image": img_path,
             "summary": summary,
             "content": desc_text,
-            "link": link
+            "link": clean_cdata(link)
         })
 
     # --- 3. Save Data ---
