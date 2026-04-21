@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs every 1 hour (KST = UTC+9)
     - cron: '0 * * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -23,12 +26,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
+          python3 -m pip install --upgrade pip
           # We will refactor the script to use standard library, 
           # so no extra dependencies should be needed.
 
       - name: Run synchronization script
-        run: python sync_naver_blog.py
+        run: python3 sync_naver_blog.py
 
       - name: Check for changes
         id: git-check

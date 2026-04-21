@@ -30,9 +30,11 @@ def fetch_rss():
     req = urllib.request.Request(RSS_URL, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=20) as response:
-            return response.read().decode('utf-8')
+            data = response.read().decode('utf-8')
+            print(f"✅ Successfully fetched RSS ({len(data)} bytes).")
+            return data
     except Exception as e:
-        print(f"Error fetching RSS: {e}")
+        print(f"❌ Error fetching RSS: {e}")
         return None
 
 def download_image(url):
@@ -118,6 +120,7 @@ def sync():
             print(f"Warning: Could not load existing data: {e}")
     
     existing_links = {item.get('link').split('?')[0] for item in existing_data if item.get('link')}
+    print(f"Loaded {len(existing_data)} existing posts. Latest ID: {max_id}")
 
     # --- 2. Fetch and parse RSS ---
     xml_data = fetch_rss()
@@ -212,9 +215,9 @@ def sync():
             js_content = f"const newsData = {json.dumps(existing_data, ensure_ascii=False, indent=2)};\n"
             with open(DATA_FILE, "w", encoding="utf-8") as f:
                 f.write(js_content)
-            print(f"✅ Repaired {repair_count} images.")
+            print(f"✅ Repaired {repair_count} images in existing posts.")
         else:
-            print("No new posts and no images to repair.")
+            print("✨ No new posts found and all existing images are healthy.")
 
 if __name__ == "__main__":
     sync()
