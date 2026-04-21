@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 65,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                      \"웃음치료 교실\"",
+    "date": "2026.04.21",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA0MjFfNjQg/MDAxNzc2NzUyMzMxNDE3.1YcxIabgwT60HlmKBoqn3w1TUFTQwdVlMSW1m7JojBIg.dPfB1GaXD8pKuKR6WC0x9qFHOH38uDXnNRbmGmCRQr4g.JPEG/KakaoTalk_20260421_134842630_01.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 04.21.(화) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 웃음치료 교실 9회차 수업을 진행하였습니다. 오늘 수업은 봄바람 휘날리며입니다. 기분 ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 04.21.(화) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 웃음치료 교실 9회차 수업을 진행하였습니다. 오늘 수업은 봄바람 휘날리며입니다. 기분 좋은 봄바람이 불고 신나는 음악과 함께 리듬을 맞추다보니 어깨춤이 절로 나오네요. 회원님들간에 화합이 좋은 만큼 언제나 활기찬 모습으로 마무리 지었습니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MjFfNjQg/MDAxNzc2NzUyMzMxNDE3.1YcxIabgwT60HlmKBoqn3w1TUFTQwdVlMSW1m7JojBIg.dPfB1GaXD8pKuKR6WC0x9qFHOH38uDXnNRbmGmCRQr4g.JPEG/KakaoTalk_20260421_134842630_01.jpg?type=s3\" />",
+    "link": "<![CDATA[https://blog.naver.com/iansan485/224260046119?fromRss=true&trackingCode=rss]]>"
+  },
+  {
     "id": 64,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                       \"노래 2반교실\"",
