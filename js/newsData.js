@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 66,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 장애어르신 쉼마루                          \"토탈공예 교실\"",
+    "date": "2026.04.23",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA0MjNfMTY2/MDAxNzc2OTA3Nzc5Nzcz.e_mVxFD7rdp-3V6Z5r-Z6hVUsbFSdt6T-sbow0hTM9Qg.FKSTBF--Y9sUxnL7NpttR1J5tmZMJIAHH7qJxuSSJZ4g.JPEG/KakaoTalk_20260422_104723405.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.22.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 8회차 수업을 진행하였습니다. 오늘 수업은 플라워 냅킨 에코백 만들기입니다...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.22.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 8회차 수업을 진행하였습니다. 오늘 수업은 플라워 냅킨 에코백 만들기입니다. 냅킨 위맘에드는 그림을 선택 후 색칠을 칠한 다음 에코백에 접착제를 이용해서 붙여줍니다. 잘 붙게 물티슈로 눌러주고 마감제로 마무리하면 나만의 에코백이 완성됩니다. 실용성 위주로 만들어지고 있는 토탈공예라 회원님들 만족도가 너무 높아 갈수록 인기가 많아지고 있네요 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MjNfMTY2/MDAxNzc2OTA3Nzc5Nzcz.e_mVxFD7rdp-3V6Z5r-Z6hVUsbFSdt6T-sbow0hTM9Qg.FKSTBF--Y9sUxnL7NpttR1J5tmZMJIAHH7qJxuSSJZ4g.JPEG/KakaoTalk_20260422_104723405.jpg?type=s3\" />",
+    "link": "https://blog.naver.com/iansan485/224262184575?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 65,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"웃음치료 교실\"",
