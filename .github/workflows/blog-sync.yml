@@ -2,8 +2,8 @@ name: Naver Blog Sync
 
 on:
   schedule:
-    # Runs every 1 hour (KST = UTC+9)
-    - cron: '0 * * * *'
+    # Runs once a day at 9 AM KST (0:00 UTC)
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
