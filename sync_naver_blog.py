@@ -72,10 +72,12 @@ def download_image(url):
                 shutil.copy2(filepath, dist_filepath)
             return rel_path
 
-        # Optimize Naver image size if possible
+        # Use square thumbnails (type=s3) to fill the card space as preferred by the user
         optimized_url = url
         if 'pstatic.net' in url:
-            optimized_url = url.replace('type=s3', 'type=w800').replace('type=s1', 'type=w800').replace('type=w1', 'type=w800')
+            optimized_url = url.replace('type=w800', 'type=s3').replace('type=s1', 'type=s3').replace('type=w1', 'type=s3')
+            if 'type=' not in optimized_url:
+                optimized_url += '?type=s3' if '?' not in optimized_url else '&type=s3'
         
         print(f"  Downloading: {filename}")
         headers = {
@@ -197,8 +199,8 @@ def sync():
                 req = urllib.request.Request(post_url, headers={'User-Agent': 'Mozilla/5.0'})
                 with urllib.request.urlopen(req, timeout=10) as res:
                     html = res.read().decode('utf-8')
-                    # Find all postfiles images (they often have type=w800 or similar, but we want to capture them all and strip parameters later)
-                    full_images = re.findall(r'src=["\'](https?://postfiles\.pstatic\.net/[^"\']+)["\']', html)
+                    # Find postfiles images
+                    full_images = re.findall(r'src=["\'](https?://postfiles\.pstatic.net/[^"\']+type=w[^"\']*)["\']', html)
                     # Filter out blurs and keep unique
                     full_images = list(dict.fromkeys([img for img in full_images if 'blur' not in img]))
                     # Append missing images to desc_text
