@@ -1,4 +1,4 @@
-/* Base & CSS Variables */
+﻿/* Base & CSS Variables */
 :root {
   --primary-color: #1a4f8b;
   --secondary-color: #f7ab1b; 
@@ -89,7 +89,7 @@ header {
   height: 80px;
 }
 
-/* Logo Design — Official Image + Branch Text */
+/* Logo Design ??Official Image + Branch Text */
 .logo {
   display: flex;
   align-items: center;
@@ -98,7 +98,7 @@ header {
 }
 
 .logo-img {
-  height: 52px; /* 로고 높이 확대 */
+  height: 52px; /* 濡쒓퀬 ?믪씠 ?뺣? */
   width: auto;
   object-fit: contain;
   display: block;
@@ -482,5 +482,5 @@ footer {
   }
 }
 
-.detail-body img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+.detail-body img { max-width: 100% !important; height: auto !important; display: block; margin: 20px auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
 

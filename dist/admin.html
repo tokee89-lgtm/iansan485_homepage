@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>게시글 관리 | 경기도지체장애인협회 안산시지회</title>
+  <title>寃뚯떆湲 愿由?| 寃쎄린?꾩?泥댁옣?좎씤?묓쉶 ?덉궛?쒖???/title>
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=1778422362">
   <style>
     body { background: #f3f4f6; }
 
@@ -395,20 +395,20 @@
   <header>
     <div class="container header-container">
       <a href="index.html" class="logo">
-        <img src="images/logo.png" alt="경기도지체장애인협회" class="logo-img">
+        <img src="images/logo.png" alt="寃쎄린?꾩?泥댁옣?좎씤?묓쉶" class="logo-img">
         <div class="logo-divider"></div>
-        <div class="logo-branch-text">안산시지회</div>
+        <div class="logo-branch-text">?덉궛?쒖???/div>
       </a>
       <div class="menu-toggle">
         <span></span><span></span><span></span>
       </div>
       <nav>
         <ul>
-          <li><a href="index.html">홈</a></li>
-          <li><a href="about.html">기관 소개</a></li>
-          <li><a href="projects.html">주요 사업</a></li>
-          <li><a href="news.html" class="active">알림마당</a></li>
-          <li><a href="location.html">오시는 길</a></li>
+          <li><a href="index.html">??/a></li>
+          <li><a href="about.html">湲곌? ?뚭컻</a></li>
+          <li><a href="projects.html">二쇱슂 ?ъ뾽</a></li>
+          <li><a href="news.html" class="active">?뚮┝留덈떦</a></li>
+          <li><a href="location.html">?ㅼ떆??湲?/a></li>
         </ul>
       </nav>
     </div>
@@ -419,11 +419,11 @@
     <div class="container" id="login-section">
       <div class="login-gate">
         <div class="lock-icon"><i class="fa-solid fa-lock"></i></div>
-        <h2>관리자 로그인</h2>
-        <p>게시글 관리 페이지는 관리자만 접근할 수 있습니다.</p>
-        <input type="password" id="admin-pw" placeholder="비밀번호를 입력하세요" autocomplete="current-password">
-        <button onclick="doLogin()"><i class="fa-solid fa-right-to-bracket" style="margin-right:8px;"></i>로그인</button>
-        <p class="login-error" id="login-error">비밀번호가 올바르지 않습니다.</p>
+        <h2>愿由ъ옄 濡쒓렇??/h2>
+        <p>寃뚯떆湲 愿由??섏씠吏??愿由ъ옄留??묎렐?????덉뒿?덈떎.</p>
+        <input type="password" id="admin-pw" placeholder="鍮꾨?踰덊샇瑜??낅젰?섏꽭?? autocomplete="current-password">
+        <button onclick="doLogin()"><i class="fa-solid fa-right-to-bracket" style="margin-right:8px;"></i>濡쒓렇??/button>
+        <p class="login-error" id="login-error">鍮꾨?踰덊샇媛 ?щ컮瑜댁? ?딆뒿?덈떎.</p>
       </div>
     </div>
 
@@ -431,13 +431,13 @@
     <div id="admin-section" class="admin-panel">
       <div class="admin-header">
         <div class="container">
-          <h1><i class="fa-solid fa-pen-to-square" style="color: var(--primary-color); margin-right: 10px;"></i>게시글 관리자</h1>
+          <h1><i class="fa-solid fa-pen-to-square" style="color: var(--primary-color); margin-right: 10px;"></i>寃뚯떆湲 愿由ъ옄</h1>
           <div class="actions">
             <a href="news.html" class="admin-btn btn-cancel" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-              <i class="fa-solid fa-arrow-left"></i> 알림마당으로
+              <i class="fa-solid fa-arrow-left"></i> ?뚮┝留덈떦?쇰줈
             </a>
             <button class="admin-btn btn-save" onclick="showTab('write')">
-              <i class="fa-solid fa-plus"></i> 새 글 작성
+              <i class="fa-solid fa-plus"></i> ??湲 ?묒꽦
             </button>
           </div>
         </div>
@@ -449,21 +449,21 @@
           <div class="stat-card">
             <div class="stat-icon blue"><i class="fa-solid fa-file-lines"></i></div>
             <div>
-              <div class="stat-label">전체 게시물</div>
+              <div class="stat-label">?꾩껜 寃뚯떆臾?/div>
               <div class="stat-number" id="stat-total">-</div>
             </div>
           </div>
           <div class="stat-card">
             <div class="stat-icon blue"><i class="fa-solid fa-pencil"></i></div>
             <div>
-              <div class="stat-label">직접 작성</div>
+              <div class="stat-label">吏곸젒 ?묒꽦</div>
               <div class="stat-number" id="stat-local">-</div>
             </div>
           </div>
           <div class="stat-card">
             <div class="stat-icon green"><i class="fa-brands fa-naver"></i></div>
             <div>
-              <div class="stat-label">네이버 블로그</div>
+              <div class="stat-label">?ㅼ씠踰?釉붾줈洹?/div>
               <div class="stat-number" id="stat-naver">-</div>
             </div>
           </div>
@@ -472,10 +472,10 @@
         <!-- Tabs -->
         <div class="tab-bar">
           <button class="tab-btn active" id="tab-list-btn" onclick="showTab('list')">
-            <i class="fa-solid fa-list" style="margin-right:6px;"></i>게시글 목록
+            <i class="fa-solid fa-list" style="margin-right:6px;"></i>寃뚯떆湲 紐⑸줉
           </button>
           <button class="tab-btn" id="tab-write-btn" onclick="showTab('write')">
-            <i class="fa-solid fa-pen" style="margin-right:6px;"></i>새 글 작성
+            <i class="fa-solid fa-pen" style="margin-right:6px;"></i>??湲 ?묒꽦
           </button>
         </div>
 
@@ -486,16 +486,16 @@
               <thead>
                 <tr>
                   <th style="width:50px;">No.</th>
-                  <th>제목</th>
-                  <th style="width:100px;">출처</th>
-                  <th style="width:120px;">카테고리</th>
-                  <th style="width:110px;">작성일</th>
-                  <th style="width:160px;">관리</th>
+                  <th>?쒕ぉ</th>
+                  <th style="width:100px;">異쒖쿂</th>
+                  <th style="width:120px;">移댄뀒怨좊━</th>
+                  <th style="width:110px;">?묒꽦??/th>
+                  <th style="width:160px;">愿由?/th>
                 </tr>
               </thead>
               <tbody id="post-table-body">
                 <tr><td colspan="6" style="text-align:center; padding:40px; color:var(--text-muted);">
-                  <i class="fa-solid fa-spinner fa-spin"></i> 불러오는 중...
+                  <i class="fa-solid fa-spinner fa-spin"></i> 遺덈윭?ㅻ뒗 以?..
                 </td></tr>
               </tbody>
             </table>
@@ -508,69 +508,69 @@
             <input type="hidden" id="edit-post-id" value="">
             <div class="form-row">
               <div class="form-group">
-                <label>카테고리 <span>*</span></label>
+                <label>移댄뀒怨좊━ <span>*</span></label>
                 <select id="post-category">
-                  <option value="안산시지회 뉴스">안산시지회 뉴스</option>
-                  <option value="장애어르신 쉼마루">장애어르신 쉼마루</option>
-                  <option value="장애인복지정보">장애인복지정보</option>
-                  <option value="공지사항">공지사항</option>
+                  <option value="?덉궛?쒖????댁뒪">?덉궛?쒖????댁뒪</option>
+                  <option value="?μ븷?대Ⅴ???쇰쭏猷?>?μ븷?대Ⅴ???쇰쭏猷?/option>
+                  <option value="?μ븷?몃났吏?뺣낫">?μ븷?몃났吏?뺣낫</option>
+                  <option value="怨듭??ы빆">怨듭??ы빆</option>
                 </select>
               </div>
               <div class="form-group">
-                <label>작성일</label>
+                <label>?묒꽦??/label>
                 <input type="date" id="post-date">
               </div>
             </div>
             <div class="form-group">
-              <label>제목 <span>*</span></label>
-              <input type="text" id="post-title" placeholder="게시글 제목을 입력하세요">
+              <label>?쒕ぉ <span>*</span></label>
+              <input type="text" id="post-title" placeholder="寃뚯떆湲 ?쒕ぉ???낅젰?섏꽭??>
             </div>
             <div class="form-group">
-              <label>대표 이미지</label>
+              <label>????대?吏</label>
               <div class="image-upload-area" id="upload-area">
                 <input type="file" id="post-image-file" accept="image/*" onchange="previewImage(this)">
                 <i class="fa-solid fa-cloud-arrow-up"></i>
-                <p>이미지를 클릭하거나 드래그하여 업로드하세요</p>
-                <p style="font-size:0.8rem; color: #9ca3af; margin-top:4px;">JPG, PNG, GIF (최대 5MB)</p>
+                <p>?대?吏瑜??대┃?섍굅???쒕옒洹명븯???낅줈?쒗븯?몄슂</p>
+                <p style="font-size:0.8rem; color: #9ca3af; margin-top:4px;">JPG, PNG, GIF (理쒕? 5MB)</p>
               </div>
               <div class="image-preview" id="image-preview-box">
-                <img id="image-preview-img" src="" alt="미리보기">
+                <img id="image-preview-img" src="" alt="誘몃━蹂닿린">
                 <button onclick="clearImage()" style="margin-top:8px; background:#f3f4f6; border:none; padding:6px 14px; border-radius:6px; cursor:pointer; font-family:inherit;">
-                  <i class="fa-solid fa-xmark"></i> 이미지 제거
+                  <i class="fa-solid fa-xmark"></i> ?대?吏 ?쒓굅
                 </button>
               </div>
             </div>
             <div class="form-group">
-              <label>본문 내용 <span>*</span></label>
+              <label>蹂몃Ц ?댁슜 <span>*</span></label>
               <div class="editor-toolbar">
                 <select class="toolbar-select" onchange="execCmd('formatBlock', this.value); this.value=''">
-                  <option value="">본문 스타일</option>
-                  <option value="h2">제목 (H2)</option>
-                  <option value="h3">소제목 (H3)</option>
-                  <option value="h4">소소제목 (H4)</option>
-                  <option value="p">본문</option>
+                  <option value="">蹂몃Ц ?ㅽ???/option>
+                  <option value="h2">?쒕ぉ (H2)</option>
+                  <option value="h3">?뚯젣紐?(H3)</option>
+                  <option value="h4">?뚯냼?쒕ぉ (H4)</option>
+                  <option value="p">蹂몃Ц</option>
                 </select>
                 <div class="toolbar-separator"></div>
-                <button class="toolbar-btn" onclick="execCmd('bold')" title="굵게"><i class="fa-solid fa-bold"></i></button>
-                <button class="toolbar-btn" onclick="execCmd('italic')" title="기울임"><i class="fa-solid fa-italic"></i></button>
-                <button class="toolbar-btn" onclick="execCmd('underline')" title="밑줄"><i class="fa-solid fa-underline"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('bold')" title="援듦쾶"><i class="fa-solid fa-bold"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('italic')" title="湲곗슱??><i class="fa-solid fa-italic"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('underline')" title="諛묒쨪"><i class="fa-solid fa-underline"></i></button>
                 <div class="toolbar-separator"></div>
-                <button class="toolbar-btn" onclick="execCmd('justifyLeft')" title="왼쪽 정렬"><i class="fa-solid fa-align-left"></i></button>
-                <button class="toolbar-btn" onclick="execCmd('justifyCenter')" title="가운데 정렬"><i class="fa-solid fa-align-center"></i></button>
-                <button class="toolbar-btn" onclick="execCmd('justifyRight')" title="오른쪽 정렬"><i class="fa-solid fa-align-right"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('justifyLeft')" title="?쇱そ ?뺣젹"><i class="fa-solid fa-align-left"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('justifyCenter')" title="媛?대뜲 ?뺣젹"><i class="fa-solid fa-align-center"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('justifyRight')" title="?ㅻⅨ履??뺣젹"><i class="fa-solid fa-align-right"></i></button>
                 <div class="toolbar-separator"></div>
-                <button class="toolbar-btn" onclick="execCmd('insertUnorderedList')" title="글머리 기호"><i class="fa-solid fa-list-ul"></i></button>
-                <button class="toolbar-btn" onclick="execCmd('insertOrderedList')" title="번호 목록"><i class="fa-solid fa-list-ol"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('insertUnorderedList')" title="湲癒몃━ 湲고샇"><i class="fa-solid fa-list-ul"></i></button>
+                <button class="toolbar-btn" onclick="execCmd('insertOrderedList')" title="踰덊샇 紐⑸줉"><i class="fa-solid fa-list-ol"></i></button>
                 <div class="toolbar-separator"></div>
-                <button class="toolbar-btn" onclick="insertLink()" title="링크 삽입"><i class="fa-solid fa-link"></i></button>
-                <button class="toolbar-btn" onclick="insertHR()" title="구분선">—</button>
+                <button class="toolbar-btn" onclick="insertLink()" title="留곹겕 ?쎌엯"><i class="fa-solid fa-link"></i></button>
+                <button class="toolbar-btn" onclick="insertHR()" title="援щ텇??>??/button>
               </div>
-              <div id="content-editor" contenteditable="true" data-placeholder="게시글 내용을 여기에 입력하세요..."></div>
+              <div id="content-editor" contenteditable="true" data-placeholder="寃뚯떆湲 ?댁슜???ш린???낅젰?섏꽭??.."></div>
             </div>
             <div class="btn-group">
-              <button class="admin-btn btn-cancel" onclick="cancelWrite()">취소</button>
-              <button class="admin-btn btn-preview" onclick="openPreview()"><i class="fa-regular fa-eye" style="margin-right:6px;"></i>미리보기</button>
-              <button class="admin-btn btn-save" onclick="savePost()"><i class="fa-solid fa-floppy-disk" style="margin-right:6px;"></i>저장하기</button>
+              <button class="admin-btn btn-cancel" onclick="cancelWrite()">痍⑥냼</button>
+              <button class="admin-btn btn-preview" onclick="openPreview()"><i class="fa-regular fa-eye" style="margin-right:6px;"></i>誘몃━蹂닿린</button>
+              <button class="admin-btn btn-save" onclick="savePost()"><i class="fa-solid fa-floppy-disk" style="margin-right:6px;"></i>??ν븯湲?/button>
             </div>
           </div>
         </div>
@@ -595,7 +595,7 @@
 
   <script src="js/newsData.js"></script>
   <script>
-    // ── 비밀번호 (간단한 클라이언트 사이드 보안) ──────────────────────────
+    // ?? 鍮꾨?踰덊샇 (媛꾨떒???대씪?댁뼵???ъ씠??蹂댁븞) ??????????????????????????
     const ADMIN_PW = 'iansan4519';
 
     function doLogin() {
@@ -621,7 +621,7 @@
       initAdmin();
     }
 
-    // ── localStorage 기반 로컬 게시물 관리 ───────────────────────────────
+    // ?? localStorage 湲곕컲 濡쒖뺄 寃뚯떆臾?愿由????????????????????????????????
     function getLocalPosts() {
       return JSON.parse(localStorage.getItem('localPosts') || '[]');
     }
@@ -634,7 +634,7 @@
       return [...local, ...naver].sort((a, b) => b.id - a.id);
     }
 
-    // ── Admin Init ────────────────────────────────────────────────────────
+    // ?? Admin Init ????????????????????????????????????????????????????????
     function initAdmin() {
       setTodayDate();
       renderPostTable();
@@ -648,7 +648,7 @@
       document.getElementById('post-date').value = `${y}-${m}-${d}`;
     }
 
-    // ── Tab Switching ─────────────────────────────────────────────────────
+    // ?? Tab Switching ?????????????????????????????????????????????????????
     function showTab(name) {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
@@ -657,7 +657,7 @@
       if (name === 'list') renderPostTable();
     }
 
-    // ── Render Post Table ─────────────────────────────────────────────────
+    // ?? Render Post Table ?????????????????????????????????????????????????
     function renderPostTable() {
       const posts = getAllPosts();
       const localPosts = getLocalPosts();
@@ -669,7 +669,7 @@
 
       const tbody = document.getElementById('post-table-body');
       if (posts.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:var(--text-muted);">게시물이 없습니다.</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:var(--text-muted);">寃뚯떆臾쇱씠 ?놁뒿?덈떎.</td></tr>';
         return;
       }
       tbody.innerHTML = posts.map((post, idx) => `
@@ -679,18 +679,18 @@
           <td>
             <span class="post-source-badge ${post.source === 'local' ? 'badge-local' : 'badge-naver'}">
               <i class="fa-solid ${post.source === 'local' ? 'fa-pencil' : 'fa-n'}"></i>
-              ${post.source === 'local' ? '직접작성' : '네이버'}
+              ${post.source === 'local' ? '吏곸젒?묒꽦' : '?ㅼ씠踰?}
             </span>
           </td>
-          <td style="color:var(--text-muted);">${post.category || '기관소식'}</td>
+          <td style="color:var(--text-muted);">${post.category || '湲곌??뚯떇'}</td>
           <td style="color:var(--text-muted);">${post.date}</td>
           <td>
             <div class="post-actions">
               ${post.source === 'local' ? `
-                <button class="action-btn btn-edit" onclick="editPost(${post.id})">수정</button>
-                <button class="action-btn btn-delete" onclick="deletePost(${post.id})">삭제</button>
+                <button class="action-btn btn-edit" onclick="editPost(${post.id})">?섏젙</button>
+                <button class="action-btn btn-delete" onclick="deletePost(${post.id})">??젣</button>
               ` : `
-                <a href="news_detail.html?id=${post.id}" class="action-btn btn-view" style="text-decoration:none;">보기</a>
+                <a href="news_detail.html?id=${post.id}" class="action-btn btn-view" style="text-decoration:none;">蹂닿린</a>
               `}
             </div>
           </td>
@@ -698,7 +698,7 @@
       `).join('');
     }
 
-    // ── Save Post ─────────────────────────────────────────────────────────
+    // ?? Save Post ?????????????????????????????????????????????????????????
     let currentImageBase64 = '';
 
     function savePost() {
@@ -708,8 +708,8 @@
       const dateVal = document.getElementById('post-date').value;
       const editId = document.getElementById('edit-post-id').value;
 
-      if (!title) { showToast('제목을 입력해주세요.', 'error'); return; }
-      if (!content || content === '') { showToast('내용을 입력해주세요.', 'error'); return; }
+      if (!title) { showToast('?쒕ぉ???낅젰?댁＜?몄슂.', 'error'); return; }
+      if (!content || content === '') { showToast('?댁슜???낅젰?댁＜?몄슂.', 'error'); return; }
 
       const d = dateVal ? new Date(dateVal) : new Date();
       const formattedDate = `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`;
@@ -724,21 +724,21 @@
         if (idx > -1) {
           localPosts[idx] = { ...localPosts[idx], title, category, date: formattedDate, content, summary, image: currentImageBase64 || localPosts[idx].image };
           saveLocalPosts(localPosts);
-          showToast('게시글이 수정되었습니다.', 'success');
+          showToast('寃뚯떆湲???섏젙?섏뿀?듬땲??', 'success');
         }
       } else {
         // New post
         const newId = Date.now();
         localPosts.unshift({ id: newId, title, category, date: formattedDate, image: currentImageBase64 || 'images/static/static_f0a251dd7c.jpg', summary, content });
         saveLocalPosts(localPosts);
-        showToast('게시글이 저장되었습니다.', 'success');
+        showToast('寃뚯떆湲????λ릺?덉뒿?덈떎.', 'success');
       }
 
       cancelWrite();
       showTab('list');
     }
 
-    // ── Edit Post ─────────────────────────────────────────────────────────
+    // ?? Edit Post ?????????????????????????????????????????????????????????
     function editPost(id) {
       const localPosts = getLocalPosts();
       const post = localPosts.find(p => p.id === id);
@@ -746,7 +746,7 @@
 
       document.getElementById('edit-post-id').value = id;
       document.getElementById('post-title').value = post.title;
-      document.getElementById('post-category').value = post.category || '기관소식';
+      document.getElementById('post-category').value = post.category || '湲곌??뚯떇';
       document.getElementById('content-editor').innerHTML = post.content;
       currentImageBase64 = post.image || '';
       if (currentImageBase64) {
@@ -757,30 +757,30 @@
       showTab('write');
     }
 
-    // ── Delete Post ───────────────────────────────────────────────────────
+    // ?? Delete Post ???????????????????????????????????????????????????????
     function deletePost(id) {
-      if (!confirm('이 게시글을 삭제하시겠습니까?')) return;
+      if (!confirm('??寃뚯떆湲????젣?섏떆寃좎뒿?덇퉴?')) return;
       const localPosts = getLocalPosts().filter(p => p.id !== id);
       saveLocalPosts(localPosts);
       renderPostTable();
-      showToast('게시글이 삭제되었습니다.', 'success');
+      showToast('寃뚯떆湲????젣?섏뿀?듬땲??', 'success');
     }
 
-    // ── Cancel Write ──────────────────────────────────────────────────────
+    // ?? Cancel Write ??????????????????????????????????????????????????????
     function cancelWrite() {
       document.getElementById('post-title').value = '';
       document.getElementById('content-editor').innerHTML = '';
       document.getElementById('edit-post-id').value = '';
-      document.getElementById('post-category').value = '공지사항';
+      document.getElementById('post-category').value = '怨듭??ы빆';
       clearImage();
       setTodayDate();
     }
 
-    // ── Image Handling ────────────────────────────────────────────────────
+    // ?? Image Handling ????????????????????????????????????????????????????
     function previewImage(input) {
       if (!input.files || !input.files[0]) return;
       const file = input.files[0];
-      if (file.size > 5 * 1024 * 1024) { showToast('이미지 크기는 5MB 이하여야 합니다.', 'error'); return; }
+      if (file.size > 5 * 1024 * 1024) { showToast('?대?吏 ?ш린??5MB ?댄븯?ъ빞 ?⑸땲??', 'error'); return; }
       const reader = new FileReader();
       reader.onload = e => {
         currentImageBase64 = e.target.result;
@@ -796,22 +796,22 @@
       document.getElementById('post-image-file').value = '';
     }
 
-    // ── Editor Commands ───────────────────────────────────────────────────
+    // ?? Editor Commands ???????????????????????????????????????????????????
     function execCmd(cmd, val = null) {
       document.getElementById('content-editor').focus();
       document.execCommand(cmd, false, val);
     }
     function insertLink() {
-      const url = prompt('링크 URL을 입력하세요:', 'https://');
+      const url = prompt('留곹겕 URL???낅젰?섏꽭??', 'https://');
       if (url) execCmd('createLink', url);
     }
     function insertHR() {
       execCmd('insertHTML', '<hr style="border:none;border-top:1px solid #e5e7eb;margin:20px 0;">');
     }
 
-    // ── Preview Modal ─────────────────────────────────────────────────────
+    // ?? Preview Modal ?????????????????????????????????????????????????????
     function openPreview() {
-      const title = document.getElementById('post-title').value || '(제목 없음)';
+      const title = document.getElementById('post-title').value || '(?쒕ぉ ?놁쓬)';
       const body = document.getElementById('content-editor').innerHTML;
       const dateVal = document.getElementById('post-date').value;
       const d = dateVal ? new Date(dateVal) : new Date();
@@ -822,7 +822,7 @@
       document.getElementById('preview-body').innerHTML = body;
 
       if (currentImageBase64) {
-        document.getElementById('preview-image-wrap').innerHTML = `<img src="${currentImageBase64}" class="modal-img" alt="대표이미지">`;
+        document.getElementById('preview-image-wrap').innerHTML = `<img src="${currentImageBase64}" class="modal-img" alt="??쒖씠誘몄?">`;
       } else {
         document.getElementById('preview-image-wrap').innerHTML = '';
       }
@@ -836,7 +836,7 @@
       document.getElementById('preview-modal').classList.remove('active');
     }
 
-    // ── Toast ─────────────────────────────────────────────────────────────
+    // ?? Toast ?????????????????????????????????????????????????????????????
     function showToast(msg, type = '') {
       const t = document.getElementById('toast');
       t.textContent = msg;
