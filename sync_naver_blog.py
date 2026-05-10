@@ -189,8 +189,29 @@ def sync():
         print(f"Processing new post: {title}")
         img_path = download_image(img_url)
 
+        # Fetch full post content from blog.naver.com to get ALL images
+        try:
+            log_no = clean_link.split('/')[-1] if 'blog.naver.com' in clean_link else None
+            if log_no and log_no.isdigit():
+                post_url = f"https://blog.naver.com/PostView.naver?blogId=iansan485&logNo={log_no}"
+                req = urllib.request.Request(post_url, headers={'User-Agent': 'Mozilla/5.0'})
+                with urllib.request.urlopen(req, timeout=10) as res:
+                    html = res.read().decode('utf-8')
+                    # Find postfiles images
+                    full_images = re.findall(r'src=["\'](https?://postfiles\.pstatic\.net/[^"\']+type=w[^"\']*)["\']', html)
+                    # Filter out blurs and keep unique
+                    full_images = list(dict.fromkeys([img for img in full_images if 'blur' not in img]))
+                    # Append missing images to desc_text
+                    for img in full_images:
+                        # Check if similar image is already in desc_text
+                        img_id = img.split('/')[-1].split('?')[0]
+                        if img_id not in desc_text:
+                            desc_text += f'<br><img src="{img}">'
+        except Exception as e:
+            print(f"Failed to fetch full HTML for {clean_link}: {e}")
+
         # Content images handling (replace remote with local in HTML)
-        content_images = re.findall(r'src=["\'](https?://blogthumb\.pstatic\.net/[^"\']+)["\']', desc_text, re.I)
+        content_images = re.findall(r'src=["\'](https?://(?:blogthumb|postfiles)\.pstatic\.net/[^"\']+)["\']', desc_text, re.I)
         for c_url in set(content_images):
             c_path = download_image(c_url)
             desc_text = desc_text.replace(c_url, c_path)
