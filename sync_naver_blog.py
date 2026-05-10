@@ -72,12 +72,12 @@ def download_image(url):
                 shutil.copy2(filepath, dist_filepath)
             return rel_path
 
-        # Use square thumbnails (type=s3) to fill the card space as preferred by the user
+        # Use proportional rectangular images (type=w800) for consistent rectangular cards
         optimized_url = url
         if 'pstatic.net' in url:
-            optimized_url = url.replace('type=w800', 'type=s3').replace('type=s1', 'type=s3').replace('type=w1', 'type=s3')
+            optimized_url = url.replace('type=s3', 'type=w800').replace('type=s1', 'type=w800').replace('type=w1', 'type=w800')
             if 'type=' not in optimized_url:
-                optimized_url += '?type=s3' if '?' not in optimized_url else '&type=s3'
+                optimized_url += '?type=w800' if '?' not in optimized_url else '&type=w800'
         
         print(f"  Downloading: {filename}")
         headers = {

@@ -254,7 +254,7 @@ nav a.active {
 
 .card-img {
   width: 100%;
-  height: 200px;
+  aspect-ratio: 16 / 9; /* 16:9 직사각형 비율로 통일 */
   object-fit: cover;
   border-bottom: 1px solid #f3f4f6;
   background: var(--gray-light);
