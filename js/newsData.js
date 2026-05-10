@@ -1,4 +1,4 @@
-﻿const newsData = [
+const newsData = [
   {
     "id": 56,
     "category": "경기도장애인파크골프대회",
