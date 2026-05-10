@@ -4,9 +4,9 @@ const newsData = [
     "category": "경기도장애인파크골프대회",
     "title": "제6회                                  경기도장애인 파크골프대회",
     "date": "2026.05.08",
-    "image": "https://blogthumb.pstatic.net/MjAyNjA1MDhfMjk0/MDAxNzc4MjI1NTczMzM5.rV9nixF6eLvja4oUa5Wp03r9ESycOZZb_TViSj9-QVgg.4f_skAVOuMt93NIjS2rRl4nUWw-VqXF7cn9ES0yeFdgg.JPEG/KakaoTalk_20260508_145022102_02_-_%BA%B9%BB%E7%BA%BB.jpg?type=s3",
+    "image": "images/blog/blog_d6660637d189.jpg",
     "summary": "(사)경기도지체장애인협회(협회장 김원종)에서 주최하는 제6회 경기도 장애인 파크골프 대회가 양평 강상체육공원 파크골프장에서 참가자 400여명이 참석한 가운데 5월7일~ 8일 개최하였습니다. 이번 대회는 장애인과 비장...",
-    "content": "(사)경기도지체장애인협회(협회장 김원종)에서 주최하는 제6회 경기도 장애인 파크골프 대회가 양평 강상체육공원 파크골프장에서 참가자 400여명이 참석한 가운데 5월7일~ 8일 개최하였습니다. 이번 대회는 장애인과 비장애인이 팀(2인)을 이루어 진행하는 대회로 치뤄졌으며 안산시지회도 좋은 경기를 펼쳤습니다. 비록 아쉬움은 남았지만, 내년에는 더욱 좋은 성적을 거둘 수 있도록 최선을 다하겠습니다. 바쁜 일정 속에서도 대회에 참가해 주신 선수 여러분께 진심으로 감사드리며, 앞으로도 회원 여러분을 위해 더욱 노력하는 안산시지회가 되겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA1MDhfMjk0/MDAxNzc4MjI1NTczMzM5.rV9nixF6eLvja4oUa5Wp03r9ESycOZZb_TViSj9-QVgg.4f_skAVOuMt93NIjS2rRl4nUWw-VqXF7cn9ES0yeFdgg.JPEG/KakaoTalk_20260508_145022102_02_-_%BA%B9%BB%E7%BA%BB.jpg?type=s3\" /><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfODkg/MDAxNzc4MjI1NTgwOTYz.25K1Zz9odlfr45CCiFx38rn2MCfeh2XxdL1HfhjlQZ4g.nqOw-SxUlrxzIyB88dYGBqK-eBf93RMYxzKl4rCkYnsg.JPEG/KakaoTalk_20260508_154644621_08.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfNjYg/MDAxNzc4MjI1NjAwOTQ3.7ywQDj00SyDzKjm-COQTlwDgVVvUBwzP-Anv7ovUtwQg.BLMkNgyncCO5ZuxhGLHXrGjkCY6kc1jd3UrcyTMf7bUg.JPEG/KakaoTalk_20260508_150217535_02.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfNjMg/MDAxNzc4MjI1NTg4MzU0.Mku4d2xfAvfj2fgGN5PDBavQO1myhMq5MrchP-x07H4g.hzDzLdGzmCvD1QdQojaCJtKhAMwGVZlCMRaYFSl7dNUg.JPEG/KakaoTalk_20260508_150217535.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMTk2/MDAxNzc4MjI1NTkyOTgw.mvbYoJuOmJ_9GFRg3rqlq9mAU0OJ7qM2d97274Qg6c4g.wZGVjiteOdLD_2L3U08vvFdw4aQhbCBbTSJH0axXujkg.JPEG/KakaoTalk_20260508_150217535_10_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMjAy/MDAxNzc4MjI1Njc4NjU1.asIajovik6ahzsabPNkcDb3ZPEDeLakzWY4wZSob1ecg.ZGX4sdgcecZrOsEsdvyfceXK0O0OB7D9J1V64w1YBdMg.JPEG/KakaoTalk_20260508_150217535_08.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMTI0/MDAxNzc4MjI1Njk2MTM4.GlTKB_q-cGjIw4AsrEoeqNZ6t_icqcwX7rxQKMffaAIg.NU2MDrPv3ueMVweBpjcP_s4IG6YJKhgZ29r1U2Q7axIg.JPEG/KakaoTalk_20260508_145022102_04.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMTQy/MDAxNzc4MjI1NzAwNzQy.6m4fkAkuAbWtnIsylWTSTAgvxElMTU6gMqKpduU-cGcg.Xm8mfZu0KeyuFjys8MEWXyfo5KONO1pYQVs5EvAsegMg.JPEG/KakaoTalk_20260508_142902473_03.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfNDgg/MDAxNzc4MjI1NzEyNjk2.kt47HkYe2fjgJSF1vAJac8XANNT_-OQDmX5dZ2fnv4Ag.Ha6IuFy3sUPoOz7S8lEGzpIkzRwrLQId-MFuke0Ai1Ug.JPEG/KakaoTalk_20260508_150217535_14.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMjI4/MDAxNzc4MjI1NzU3MDk5.tx7e4nzPbSd3kG1fW2yrElEnbM0y5UXSZOcfycWhjI8g.pp6AcTbkcJBhWQJ3LF3YDXL0Y51seg5062sm_c9wruQg.JPEG/KakaoTalk_20260508_145022102_11.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMTMy/MDAxNzc4MjI1ODMzNTU0.b3cLuPSxOsiwb90tiCTyQzfPxU1W9dACUQdvYVUnLCwg.IAUiIMlLKcgg_YBLlKbJ6EQZznbOa-zOa3dYGaAQpKsg.JPEG/KakaoTalk_20260508_150217535_12.jpg?type=w800\"><br><img src=\"https://postfiles.pstatic.net/MjAyNjA1MDhfMTE4/MDAxNzc4MjI1ODM4OTQ4.9aKjrOSZb5nTHH6oyPlgcC-b81NTAaVd0KGwhgsaaTsg.dzLsRU0UsuAgQi03dJpzUdu2LXs5cbAdcC21N3yqLjog.JPEG/KakaoTalk_20260508_145022102_13.jpg?type=w800\">",
+    "content": "(사)경기도지체장애인협회(협회장 김원종)에서 주최하는 제6회 경기도 장애인 파크골프 대회가 양평 강상체육공원 파크골프장에서 참가자 400여명이 참석한 가운데 5월7일~ 8일 개최하였습니다. 이번 대회는 장애인과 비장애인이 팀(2인)을 이루어 진행하는 대회로 치뤄졌으며 안산시지회도 좋은 경기를 펼쳤습니다. 비록 아쉬움은 남았지만, 내년에는 더욱 좋은 성적을 거둘 수 있도록 최선을 다하겠습니다. 바쁜 일정 속에서도 대회에 참가해 주신 선수 여러분께 진심으로 감사드리며, 앞으로도 회원 여러분을 위해 더욱 노력하는 안산시지회가 되겠습니다. <img src=\"images/blog/blog_d6660637d189.jpg\" /><br><img src=\"images/blog/blog_32e3fd7c1e44.jpg\"><br><img src=\"images/blog/blog_c4b158e61a17.jpg\"><br><img src=\"images/blog/blog_2e28c6788c4a.jpg\"><br><img src=\"images/blog/blog_39184783a378.jpg\"><br><img src=\"images/blog/blog_58f9e8b87cb4.jpg\"><br><img src=\"images/blog/blog_3a93f2e04d3d.jpg\"><br><img src=\"images/blog/blog_90e5f7a914c5.jpg\"><br><img src=\"images/blog/blog_099763724fad.jpg\"><br><img src=\"images/blog/blog_e24430291e22.jpg\"><br><img src=\"images/blog/blog_cace9d7d49ba.jpg\"><br><img src=\"images/blog/blog_4b3375bb481f.jpg\">",
     "link": "https://blog.naver.com/iansan485/224279071626?fromRss=true&trackingCode=rss"
   },
   {
@@ -14,9 +14,9 @@ const newsData = [
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"종이접기 교실\"",
     "date": "2026.04.30",
-    "image": "https://blogthumb.pstatic.net/MjAyNjA0MzBfMTcz/MDAxNzc3NTMxMzYxOTk0.oBbxu76knYWqTI4GmPpjNaO2QXyY0FBQu6XYt6TUECcg.60z4pu95UlGp3n_0fUg0rrca0BCAx5nwtYykPsWcPAAg.JPEG/KakaoTalk_20260430_130816482_02.jpg?type=s3",
+    "image": "images/blog/blog_d129cb4d80f8.jpg",
     "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4. 30.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 10회차 수업을 진행하였습니다. 오늘 수업은 무엇을 담을까~? 나는 수납꽂이 ...",
-    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4. 30.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 10회차 수업을 진행하였습니다. 오늘 수업은 무엇을 담을까~? 나는 수납꽂이 만들기입니다. 양면지를 순서에 맞춰 접고 담을 수 있는 용기 크기로 풀을 이용해 붙입니다. 수납용 크기가 만들어졌다면 손잡이를 붙이고 약간의 장식을 붙이면 나만의 수납꽂이가 만들어집니다. 소근육 발달과 집중력에 도움을 주고 종이만 있으면 어디서든 만들수 있으니 만들어 보시는걸 추천드립니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MzBfMTcz/MDAxNzc3NTMxMzYxOTk0.oBbxu76knYWqTI4GmPpjNaO2QXyY0FBQu6XYt6TUECcg.60z4pu95UlGp3n_0fUg0rrca0BCAx5nwtYykPsWcPAAg.JPEG/KakaoTalk_20260430_130816482_02.jpg?type=s3\" />",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4. 30.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 10회차 수업을 진행하였습니다. 오늘 수업은 무엇을 담을까~? 나는 수납꽂이 만들기입니다. 양면지를 순서에 맞춰 접고 담을 수 있는 용기 크기로 풀을 이용해 붙입니다. 수납용 크기가 만들어졌다면 손잡이를 붙이고 약간의 장식을 붙이면 나만의 수납꽂이가 만들어집니다. 소근육 발달과 집중력에 도움을 주고 종이만 있으면 어디서든 만들수 있으니 만들어 보시는걸 추천드립니다 ~^^ <img src=\"images/blog/blog_d129cb4d80f8.jpg\" />",
     "link": "https://blog.naver.com/iansan485/224270526833?fromRss=true&trackingCode=rss"
   },
   {
@@ -24,9 +24,9 @@ const newsData = [
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"토탈공예 교실\"",
     "date": "2026.04.29",
-    "image": "https://blogthumb.pstatic.net/MjAyNjA0MjlfMTIz/MDAxNzc3NDQ1OTk2NDkz.DQ3SZu7HDjdACOHjziwrIeOuzfcQcmdnZ8lT6nQ815Ig.Fvx4KK1GJdWPN0BWTa2RgtcpK7L_cDYNX2z-GexeUuog.JPEG/KakaoTalk_20260429_113421317_10.jpg?type=s3",
+    "image": "images/blog/blog_31af6a2c1f57.jpg",
     "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.29.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 9회차 수업을 진행하였습니다. 오늘 수업은 미니 가죽필통 파우치 만들기입니...",
-    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.29.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 9회차 수업을 진행하였습니다. 오늘 수업은 미니 가죽필통 파우치 만들기입니다. 원하시는 색상 가죽을 골라 한땀한땀 바느질을 한 다음 평스냅 버튼을 끼우면 나만의 완성 작품이 나옵니다. 가죽필통으로 만들었지만 활용도가 좋아서 안경집으로 쓰셔도 좋을것 같습니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MjlfMTIz/MDAxNzc3NDQ1OTk2NDkz.DQ3SZu7HDjdACOHjziwrIeOuzfcQcmdnZ8lT6nQ815Ig.Fvx4KK1GJdWPN0BWTa2RgtcpK7L_cDYNX2z-GexeUuog.JPEG/KakaoTalk_20260429_113421317_10.jpg?type=s3\" />",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.29.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 9회차 수업을 진행하였습니다. 오늘 수업은 미니 가죽필통 파우치 만들기입니다. 원하시는 색상 가죽을 골라 한땀한땀 바느질을 한 다음 평스냅 버튼을 끼우면 나만의 완성 작품이 나옵니다. 가죽필통으로 만들었지만 활용도가 좋아서 안경집으로 쓰셔도 좋을것 같습니다 ~^^ <img src=\"images/blog/blog_31af6a2c1f57.jpg\" />",
     "link": "https://blog.naver.com/iansan485/224269325542?fromRss=true&trackingCode=rss"
   },
   {
@@ -34,9 +34,9 @@ const newsData = [
     "category": "장애어르신 쉼마루",
     "title": "제46회 \"장애인의 날\" 기념 행사           안산시 지체 장애어르신 쉼마루                        \"작은 음악회\"",
     "date": "2026.04.24",
-    "image": "https://blogthumb.pstatic.net/MjAyNjA0MjRfMjAy/MDAxNzc3MDExNDkwNTgx.kplbcpV3lDDTYX106auLqQqXzbZRgPHqKxRnsbRdmRgg.YPGDJuOTUYEurJCj7wNO8JNh9FXepS9a8JRJx0Q7GE4g.JPEG/KakaoTalk_20260424_142011011_22.jpg?type=s3",
+    "image": "images/blog/blog_619ce155ae78.jpg",
     "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 4월 24일(금) 장애어르신 쉼마루 프로그램실에서 “제46회 장애인의 날 작은 음악회” \"같이와 가치로 이어지는 세상\" 이라는 주제로 진행하였습니다. ...",
-    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 4월 24일(금) 장애어르신 쉼마루 프로그램실에서 “제46회 장애인의 날 작은 음악회” \"같이와 가치로 이어지는 세상\" 이라는 주제로 진행하였습니다. 이번 행사는 장애어르신들의 재활 의욕을 높이고, 문화 활동을 보다 편리하게 누리실 수 있도록 돕는 데 목적이 있다 하겠습니다. 바쁘신 중에도 귀한 시간을 내시고 참석하여 주신 모든분들께 감사드리며 회원님들을 위해 더욱 노력하는 안산시지회가 되겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MjRfMjAy/MDAxNzc3MDExNDkwNTgx.kplbcpV3lDDTYX106auLqQqXzbZRgPHqKxRnsbRdmRgg.YPGDJuOTUYEurJCj7wNO8JNh9FXepS9a8JRJx0Q7GE4g.JPEG/KakaoTalk_20260424_142011011_22.jpg?type=s3\" />",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 4월 24일(금) 장애어르신 쉼마루 프로그램실에서 “제46회 장애인의 날 작은 음악회” \"같이와 가치로 이어지는 세상\" 이라는 주제로 진행하였습니다. 이번 행사는 장애어르신들의 재활 의욕을 높이고, 문화 활동을 보다 편리하게 누리실 수 있도록 돕는 데 목적이 있다 하겠습니다. 바쁘신 중에도 귀한 시간을 내시고 참석하여 주신 모든분들께 감사드리며 회원님들을 위해 더욱 노력하는 안산시지회가 되겠습니다. <img src=\"images/blog/blog_619ce155ae78.jpg\" />",
     "link": "https://blog.naver.com/iansan485/224263762375?fromRss=true&trackingCode=rss"
   },
   {
@@ -44,9 +44,9 @@ const newsData = [
     "category": "장애어르신 쉼마루",
     "title": "안산시 장애어르신 쉼마루                          \"토탈공예 교실\"",
     "date": "2026.04.23",
-    "image": "https://blogthumb.pstatic.net/MjAyNjA0MjNfMTY2/MDAxNzc2OTA3Nzc5Nzcz.e_mVxFD7rdp-3V6Z5r-Z6hVUsbFSdt6T-sbow0hTM9Qg.FKSTBF--Y9sUxnL7NpttR1J5tmZMJIAHH7qJxuSSJZ4g.JPEG/KakaoTalk_20260422_104723405.jpg?type=s3",
+    "image": "images/blog/blog_e4f3485b4cd7.jpg",
     "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.22.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 8회차 수업을 진행하였습니다. 오늘 수업은 플라워 냅킨 에코백 만들기입니다...",
-    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.22.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 8회차 수업을 진행하였습니다. 오늘 수업은 플라워 냅킨 에코백 만들기입니다. 냅킨 위맘에드는 그림을 선택 후 색칠을 칠한 다음 에코백에 접착제를 이용해서 붙여줍니다. 잘 붙게 물티슈로 눌러주고 마감제로 마무리하면 나만의 에코백이 완성됩니다. 실용성 위주로 만들어지고 있는 토탈공예라 회원님들 만족도가 너무 높아 갈수록 인기가 많아지고 있네요 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MjNfMTY2/MDAxNzc2OTA3Nzc5Nzcz.e_mVxFD7rdp-3V6Z5r-Z6hVUsbFSdt6T-sbow0hTM9Qg.FKSTBF--Y9sUxnL7NpttR1J5tmZMJIAHH7qJxuSSJZ4g.JPEG/KakaoTalk_20260422_104723405.jpg?type=s3\" />",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 4.22.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 8회차 수업을 진행하였습니다. 오늘 수업은 플라워 냅킨 에코백 만들기입니다. 냅킨 위맘에드는 그림을 선택 후 색칠을 칠한 다음 에코백에 접착제를 이용해서 붙여줍니다. 잘 붙게 물티슈로 눌러주고 마감제로 마무리하면 나만의 에코백이 완성됩니다. 실용성 위주로 만들어지고 있는 토탈공예라 회원님들 만족도가 너무 높아 갈수록 인기가 많아지고 있네요 ~^^ <img src=\"images/blog/blog_e4f3485b4cd7.jpg\" />",
     "link": "https://blog.naver.com/iansan485/224262184575?fromRss=true&trackingCode=rss"
   },
   {
@@ -54,9 +54,9 @@ const newsData = [
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"웃음치료 교실\"",
     "date": "2026.04.21",
-    "image": "https://blogthumb.pstatic.net/MjAyNjA0MjFfNjQg/MDAxNzc2NzUyMzMxNDE3.1YcxIabgwT60HlmKBoqn3w1TUFTQwdVlMSW1m7JojBIg.dPfB1GaXD8pKuKR6WC0x9qFHOH38uDXnNRbmGmCRQr4g.JPEG/KakaoTalk_20260421_134842630_01.jpg?type=s3",
+    "image": "images/blog/blog_471a91ca59b1.jpg",
     "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 04.21.(화) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 웃음치료 교실 9회차 수업을 진행하였습니다. 오늘 수업은 봄바람 휘날리며입니다. 기분 ...",
-    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 04.21.(화) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 웃음치료 교실 9회차 수업을 진행하였습니다. 오늘 수업은 봄바람 휘날리며입니다. 기분 좋은 봄바람이 불고 신나는 음악과 함께 리듬을 맞추다보니 어깨춤이 절로 나오네요. 회원님들간에 화합이 좋은 만큼 언제나 활기찬 모습으로 마무리 지었습니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA0MjFfNjQg/MDAxNzc2NzUyMzMxNDE3.1YcxIabgwT60HlmKBoqn3w1TUFTQwdVlMSW1m7JojBIg.dPfB1GaXD8pKuKR6WC0x9qFHOH38uDXnNRbmGmCRQr4g.JPEG/KakaoTalk_20260421_134842630_01.jpg?type=s3\" />",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 04.21.(화) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 웃음치료 교실 9회차 수업을 진행하였습니다. 오늘 수업은 봄바람 휘날리며입니다. 기분 좋은 봄바람이 불고 신나는 음악과 함께 리듬을 맞추다보니 어깨춤이 절로 나오네요. 회원님들간에 화합이 좋은 만큼 언제나 활기찬 모습으로 마무리 지었습니다 ~^^ <img src=\"images/blog/blog_471a91ca59b1.jpg\" />",
     "link": "<![CDATA[https://blog.naver.com/iansan485/224260046119?fromRss=true&trackingCode=rss]]>"
   },
   {
@@ -264,9 +264,9 @@ const newsData = [
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"종이접기 교실\"",
     "date": "2026.03.13",
-    "image": "https://blogthumb.pstatic.net/MjAyNjAzMTNfMTU0/MDAxNzczMzY4MjEwODIz.uoIYp_PEYXQk4JC_TDMbLhWeSqYTRur_MQ9cyIzRAHAg.20PrUPBEnh9AVyoz3En5GI7TxTfWo_pQ2wLqXyPBbv0g.JPEG/KakaoTalk_20260312_132006167_02.jpg?type=s3",
+    "image": "images/blog/blog_23dc634bf307.jpg",
     "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 3. 13.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 3회차 수업을 진행하였습니다. 오늘 수업은 꽃중에 꽃은 바로 나! 액자 만들기...",
-    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 3. 13.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 3회차 수업을 진행하였습니다. 오늘 수업은 꽃중에 꽃은 바로 나! 액자 만들기입니다. 버려진 박스 골판지와 색지를 이용해서 틀을 만든 후 사진과 꽃과 잎사귀를 붙였더니 아름다운 나만의 사진 액자가 완성이 되었습니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjAzMTNfMTU0/MDAxNzczMzY4MjEwODIz.uoIYp_PEYXQk4JC_TDMbLhWeSqYTRur_MQ9cyIzRAHAg.20PrUPBEnh9AVyoz3En5GI7TxTfWo_pQ2wLqXyPBbv0g.JPEG/KakaoTalk_20260312_132006167_02.jpg?type=s3\" />",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 3. 13.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 3회차 수업을 진행하였습니다. 오늘 수업은 꽃중에 꽃은 바로 나! 액자 만들기입니다. 버려진 박스 골판지와 색지를 이용해서 틀을 만든 후 사진과 꽃과 잎사귀를 붙였더니 아름다운 나만의 사진 액자가 완성이 되었습니다 ~^^ <img src=\"images/blog/blog_23dc634bf307.jpg\" />",
     "link": "<![CDATA[https://blog.naver.com/iansan485/224214903177?fromRss=true&trackingCode=rss]]>"
   },
   {
@@ -324,9 +324,9 @@ const newsData = [
     "category": "장애인복지정보",
     "title": "제2회 자갈자갈 사진전",
     "date": "2026.03.04",
-    "image": "https://blogthumb.pstatic.net/MjAyNjAzMDRfMTI5/MDAxNzcyNjAzMTk2MzYw.fzqPbss2hm5kAJCjxQAuh67cnTTeUm3mH2YzuShlxuYg.7Dbrd-fO4heWo09etp3P82ciXLCrQZvv8DiXoNk1pEEg.PNG/2.png?type=s3",
+    "image": "images/blog/blog_5aceac3159ad.jpg",
     "summary": "제2회 자갈자갈 사진전 안내드립니다. 자세한 내용은 안산시지회로 문의주시기 바라며 많은 참여 부탁드립니다. 문의 031-485-4519",
-    "content": "제2회 자갈자갈 사진전 안내드립니다. 자세한 내용은 안산시지회로 문의주시기 바라며 많은 참여 부탁드립니다. 문의 031-485-4519 <img src=\"https://blogthumb.pstatic.net/MjAyNjAzMDRfMTI5/MDAxNzcyNjAzMTk2MzYw.fzqPbss2hm5kAJCjxQAuh67cnTTeUm3mH2YzuShlxuYg.7Dbrd-fO4heWo09etp3P82ciXLCrQZvv8DiXoNk1pEEg.PNG/2.png?type=s3\" />",
+    "content": "제2회 자갈자갈 사진전 안내드립니다. 자세한 내용은 안산시지회로 문의주시기 바라며 많은 참여 부탁드립니다. 문의 031-485-4519 <img src=\"images/blog/blog_5aceac3159ad.jpg\" />",
     "link": "<![CDATA[https://blog.naver.com/iansan485/224203985435?fromRss=true&trackingCode=rss]]>"
   },
   {
