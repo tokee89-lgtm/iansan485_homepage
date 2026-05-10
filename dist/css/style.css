@@ -361,6 +361,28 @@ nav a.active {
   box-shadow: 0 6px 16px rgba(26, 79, 139, 0.5);
 }
 
+/* News Detail Specifics */
+.detail-body {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-main);
+  overflow-x: auto;
+}
+
+.detail-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 24px auto;
+  display: block;
+  box-shadow: var(--shadow-sm);
+  object-fit: contain;
+}
+
+.detail-body p {
+  margin-bottom: 20px;
+}
+
 /* Footer */
 footer {
   background-color: var(--dark-color);
@@ -459,3 +481,6 @@ footer {
     font-size: 1rem;
   }
 }
+
+.detail-body img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+
