@@ -117,13 +117,28 @@ def sync():
                 content = f.read()
                 match = re.search(r'const newsData = (\[.*?\]);', content, re.DOTALL)
                 if match:
-                    existing_data = json.loads(match.group(1))
+                    raw_existing = json.loads(match.group(1))
+                    
+                    # Deduplicate existing entries
+                    unique_links = set()
+                    for item in raw_existing:
+                        clink = clean_cdata(item.get('link', '')).split('?')[0]
+                        if clink not in unique_links:
+                            unique_links.add(clink)
+                            existing_data.append(item)
+                        else:
+                            print(f"Removed duplicate post: {clink}")
+                            
+                    # Re-assign contiguous IDs to existing data
+                    for i, item in enumerate(existing_data):
+                        item['id'] = len(existing_data) - i
+                        
                     if existing_data:
                         max_id = max(item.get('id', 0) for item in existing_data)
         except Exception as e:
             print(f"Warning: Could not load existing data: {e}")
     
-    existing_links = {item.get('link').split('?')[0] for item in existing_data if item.get('link')}
+    existing_links = {clean_cdata(item.get('link', '')).split('?')[0] for item in existing_data if item.get('link')}
     print(f"Loaded {len(existing_data)} existing posts. Latest ID: {max_id}")
 
     # --- 2. Fetch and parse RSS ---
@@ -137,7 +152,7 @@ def sync():
     for item in reversed(items):
         link_match = re.search(r'<link>(.*?)</link>', item)
         link = link_match.group(1).strip() if link_match else ""
-        clean_link = link.split('?')[0]
+        clean_link = clean_cdata(link).split('?')[0]
 
         if clean_link in existing_links:
             continue
