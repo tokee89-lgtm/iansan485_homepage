@@ -72,14 +72,10 @@ def download_image(url):
                 shutil.copy2(filepath, dist_filepath)
             return rel_path
 
-        # Prefer original Naver image size
+        # Optimize Naver image size if possible
         optimized_url = url
         if 'pstatic.net' in url:
-            # Strip type parameter to get original full-size image
-            optimized_url = re.sub(r'(\?|&)type=[^&]+', '', url)
-            # If the URL now ends with ? or &, clean it up
-            optimized_url = optimized_url.rstrip('?').rstrip('&')
-            # Fallback to w800 if original is somehow problematic (optional, but let's stick to original as requested)
+            optimized_url = url.replace('type=s3', 'type=w800').replace('type=s1', 'type=w800').replace('type=w1', 'type=w800')
         
         print(f"  Downloading: {filename}")
         headers = {
