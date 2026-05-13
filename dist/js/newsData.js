@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 51,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                      \"토탈공예 교실\"",
+    "date": "2026.05.13",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA1MTNfMjgy/MDAxNzc4NjUzNDM1MTc4.RiHs4U86957ekA5oXZArj0-LdbtB37vDq2OHIq09DCUg.YNHchMNiyapxikrE6oEN8Vf3_XeM0xL7SlaLKrfe9JMg.JPEG/KakaoTalk_20260513_105520038_07.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 5.13.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 11회차 수업을 진행하였습니다. 오늘 수업은 원목타일 티코스터 만들기입니다...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 5.13.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 토탈공예 교실 11회차 수업을 진행하였습니다. 오늘 수업은 원목타일 티코스터 만들기입니다. 원목틀에 시멘트를 바르고 열에 강한 도자기 타일을 붙여서 코팅제를 발라 말려주기만하면 완성품이 나옵니다. 쉽고 간단하면서 활용도가 좋으니 만들어보시는걸 추천 드립니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA1MTNfMjgy/MDAxNzc4NjUzNDM1MTc4.RiHs4U86957ekA5oXZArj0-LdbtB37vDq2OHIq09DCUg.YNHchMNiyapxikrE6oEN8Vf3_XeM0xL7SlaLKrfe9JMg.JPEG/KakaoTalk_20260513_105520038_07.jpg?type=s3\" /><br><img src=\"images/blog/blog_0b9c4a1c6296.jpg\"><br><img src=\"images/blog/blog_e530b426bf25.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224284206663?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 50,
     "category": "경기도장애인파크골프대회",
     "title": "제6회                                  경기도장애인 파크골프대회",
