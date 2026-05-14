@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 52,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                       \"종이접기 교실\"",
+    "date": "2026.05.14",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA1MTRfMzEg/MDAxNzc4NzQwMzU3NDc0.s8b6PkGSYgGewGCa3W733giCtkF5woH8IjtVsKorM-Qg.wypV7W3AlmmsIhr_l1smnL2H_nhnPoxDgZ720wZkHzQg.JPEG/KakaoTalk_20260514_132708790_02.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 5. 14.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 12회차 수업을 진행하였습니다. 오늘 수업은 못난이 세자매 만들기입니다. 첫번...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 5. 14.(목) 안산시 장애어르신 쉼마루 상반기 프로그램 종이접기 교실 12회차 수업을 진행하였습니다. 오늘 수업은 못난이 세자매 만들기입니다. 첫번째로 알록달록 이쁜 색종이와 한지, 풀을 이용해서 밉지않은 예쁜 인형을 만들어보았습니다. 소근육 발달과 집중력에 도움을 주고 종이만 있으면 어디서든 만들수 있으니 집에서 만들어 보시는걸 추천드립니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA1MTRfMzEg/MDAxNzc4NzQwMzU3NDc0.s8b6PkGSYgGewGCa3W733giCtkF5woH8IjtVsKorM-Qg.wypV7W3AlmmsIhr_l1smnL2H_nhnPoxDgZ720wZkHzQg.JPEG/KakaoTalk_20260514_132708790_02.jpg?type=s3\" /><br><img src=\"images/blog/blog_0bd2374e1237.jpg\"><br><img src=\"images/blog/blog_b04bfc5e65df.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224285402864?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 51,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"토탈공예 교실\"",
