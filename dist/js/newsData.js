@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 53,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                       \"이미용 봉사\"",
+    "date": "2026.05.19",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA1MTlfMjE4/MDAxNzc5MTU3MzczOTYz.0O43p0sgR9QAP1iUuoSS4RsycRKspJ4zmn2ZvwWFxOEg.3srvipi1g6lQZO6FqBOOFiiJfbl77GFwsoGC7Ynaozog.JPEG/KakaoTalk_20260519_102507784_03.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 05.19.(화) 안산시 지체 장애어르신 쉼마루 이미용 봉사 3회차 진행을 하였습니다. 지회 이미용봉사를 찾아주셔서 감사드리며 회원님들의 외모 관리 지...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 05.19.(화) 안산시 지체 장애어르신 쉼마루 이미용 봉사 3회차 진행을 하였습니다. 지회 이미용봉사를 찾아주셔서 감사드리며 회원님들의 외모 관리 지원과 자존감 및 만족도 향상을 위해 앞으로도 안산시지회는 회원님들을 위해 더욱 노력하겠습니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA1MTlfMjE4/MDAxNzc5MTU3MzczOTYz.0O43p0sgR9QAP1iUuoSS4RsycRKspJ4zmn2ZvwWFxOEg.3srvipi1g6lQZO6FqBOOFiiJfbl77GFwsoGC7Ynaozog.JPEG/KakaoTalk_20260519_102507784_03.jpg?type=s3\" /><br><img src=\"images/blog/blog_42872f993a9c.jpg\"><br><img src=\"images/blog/blog_0cb0e2b1f451.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224290014314?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 52,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                       \"종이접기 교실\"",
