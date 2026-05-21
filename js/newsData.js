@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 54,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                      \"노래 1반교실\"",
+    "date": "2026.05.20",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA1MjBfOTIg/MDAxNzc5MjU4NzQwODA1.C5KKroo4KdbG4_Q8eDrMb2NdFu56K87UgGo2vEMM04Qg.JAo-5zqDcwhPnP-e0FIVHEPmhY-hp2MQ89LZm_9QRnIg.JPEG/KakaoTalk_20260520_145300465_02.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 5.20.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 노래 1반교실 12차 수업을 진행하였습니다. 오늘의 수업 지도는 김용임님의 평생동안 노래...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 5.20.(수) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 노래 1반교실 12차 수업을 진행하였습니다. 오늘의 수업 지도는 김용임님의 평생동안 노래입니다. 가사를 따라 부르다보면 발음 연습, 리듬 맞추기를 통해 언어 표현과 의사소통 능력 발달에도 긍정적인 영향을 받기 때문에 효과적인 활동 프로그램이라 생각이 듭니다. 성격적인 부분을 개선하고 싶으신분들은 언제든 연락주시기 바랍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA1MjBfOTIg/MDAxNzc5MjU4NzQwODA1.C5KKroo4KdbG4_Q8eDrMb2NdFu56K87UgGo2vEMM04Qg.JAo-5zqDcwhPnP-e0FIVHEPmhY-hp2MQ89LZm_9QRnIg.JPEG/KakaoTalk_20260520_145300465_02.jpg?type=s3\" /><br><img src=\"images/blog/blog_9a209a038262.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224291378981?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 53,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                       \"이미용 봉사\"",
