@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 55,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                      \"노래 2반교실\"",
+    "date": "2026.05.22",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA1MjJfMTg0/MDAxNzc5NDE2ODk0NzEy.2jlXv-fEfhCQ08gzZ2sNZ7cUDCHRTvDU7SEBxx22R_Eg.Iz0r8NNOuqPVS96dYsswnWMUwY7TdYePmkz1Y9mOrmUg.JPEG/KakaoTalk_20260522_112135865.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 05.22.(금) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 노래 2반교실 10회차 수업을 진행하였습니다. 가사를 외우고 박자를 맞추는 과정은 기억...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026. 05.22.(금) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 노래 2반교실 10회차 수업을 진행하였습니다. 가사를 외우고 박자를 맞추는 과정은 기억력과 집중력 향상에 도움이 되고 박수치기와 가벼운 율동은 신체 활동 증가에도 도움을 됩니다. 저희 안산시지회는 언제나 회원님들의 건강을 최우선으로 생각하고 있으니 궁금하신 사항 있으시면 연락주시기 바랍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA1MjJfMTg0/MDAxNzc5NDE2ODk0NzEy.2jlXv-fEfhCQ08gzZ2sNZ7cUDCHRTvDU7SEBxx22R_Eg.Iz0r8NNOuqPVS96dYsswnWMUwY7TdYePmkz1Y9mOrmUg.JPEG/KakaoTalk_20260522_112135865.jpg?type=s3\" /><br><img src=\"images/blog/blog_23185e7e2fec.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224293270534?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 54,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"노래 1반교실\"",
