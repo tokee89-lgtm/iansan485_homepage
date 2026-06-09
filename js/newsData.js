@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 56,
+    "category": "장애인복지기금사업",
+    "title": "재가장애인을 위한                  \"향기를빚는손,꿈을굽는마음\" 개강식",
+    "date": "2026.06.08",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA2MDhfMTMx/MDAxNzgwOTA5NTY5NTMy.iKU4TD-aWx0UBUDEzdm-EGS6s7LazBifDc8aEylIJFsg.2C7pp8VEMmscb40d6RUVdwSu0k7m9kOLeatK9RUSRvUg.JPEG/KakaoTalk_20260608_130744952_14.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 8일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 개강식을 20여명의 재가장애인들이 참여하였습...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 8일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 개강식을 20여명의 재가장애인들이 참여하였습니다. 오늘의 첫수업은 아로마테라피 유분보습 페이스오일입니다. 아로마향기 6종 시향과 페이스 오일 실습을 통해 내가 좋아하는 향을 고른 다음 오일에 첨가를해서 사용하면 끝입니다. 진정 효과에 탁월하며 후각, 촉각등 다양한 경험을 통해 재가 장애인 당사자에게 도움을 드리고자 합니다. 참여하여주신 모든분들께 감사 인사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA2MDhfMTMx/MDAxNzgwOTA5NTY5NTMy.iKU4TD-aWx0UBUDEzdm-EGS6s7LazBifDc8aEylIJFsg.2C7pp8VEMmscb40d6RUVdwSu0k7m9kOLeatK9RUSRvUg.JPEG/KakaoTalk_20260608_130744952_14.jpg?type=s3\" /><br><img src=\"images/blog/blog_f7fa0bd3d454.jpg\"><br><img src=\"images/blog/blog_058be483a6b0.jpg\"><br><img src=\"images/blog/blog_9a24382066b8.jpg\"><br><img src=\"images/blog/blog_134e027cd2f9.jpg\"><br><img src=\"images/blog/blog_afe696713ea9.jpg\"><br><img src=\"images/blog/blog_c942258a23b3.jpg\"><br><img src=\"images/blog/blog_e214a6a2b3fe.jpg\"><br><img src=\"images/blog/blog_5e39fd471cd9.jpg\"><br><img src=\"images/blog/blog_3f0cc6045b4a.jpg\"><br><img src=\"images/blog/blog_10e55bc95ed4.jpg\"><br><img src=\"images/blog/blog_5e177eb45cd3.jpg\"><br><img src=\"images/blog/blog_3f0a9f4aaf5d.jpg\"><br><img src=\"images/blog/blog_a7cb0fccc4e0.jpg\"><br><img src=\"images/blog/blog_adb8521e8958.jpg\"><br><img src=\"images/blog/blog_ac014994fc29.jpg\"><br><img src=\"images/blog/blog_385538b02052.jpg\"><br><img src=\"images/blog/blog_b372c137a98a.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224309728412?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 55,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"노래 2반교실\"",
