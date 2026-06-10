@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 57,
+    "category": "하계수련회",
+    "title": "\"2026년 안산시지회 하계수련회\"",
+    "date": "2026.06.09",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA2MDlfMjc0/MDAxNzgwOTkyMDkxMjgz.dp75vkWH3c9L4q6_YEpLqNRQRZ5O3UGPe6Y1HvI-UdUg.7E1YmzLtA1ZDj6H_HtlzGBXkB3ONX2aanqMnu_PwCf0g.JPEG/KakaoTalk_20260609_144951825_05.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 9일(화) 여주 푸르메소셜팜(경기 여주시 도예로 247 푸르메소셜팜)으로 하계수련회를 진행하였습니다. 이번 행사는 60여명의 회원 및 자원봉사자가...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 9일(화) 여주 푸르메소셜팜(경기 여주시 도예로 247 푸르메소셜팜)으로 하계수련회를 진행하였습니다. 이번 행사는 60여명의 회원 및 자원봉사자가 참여하였고, 모임 참여가 어려운 지체장애인들이 다른 사람들과 만나 교류하며 사회적 관계를 형성하는데 도움을 주기 위한 취지로 마련하게 되었습니다. 회원님들은 스마트팜 운영 시스템과 작물 재배 과정을 살펴본 뒤 직접 토마토를 수확하며 첨단 농업기술을 이해하고 수확의 즐거움을 나누는 뜻깊은 시간을 보내고 왔습니다. 여러 일정에도 불구하고 많은 분들이 참석해주셔서 성황리에 마무리되었으며 내년 하계수련회때는....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA2MDlfMjc0/MDAxNzgwOTkyMDkxMjgz.dp75vkWH3c9L4q6_YEpLqNRQRZ5O3UGPe6Y1HvI-UdUg.7E1YmzLtA1ZDj6H_HtlzGBXkB3ONX2aanqMnu_PwCf0g.JPEG/KakaoTalk_20260609_144951825_05.jpg?type=s3\" /><br><img src=\"images/blog/blog_c6d6a14294cd.jpg\"><br><img src=\"images/blog/blog_bf1d4a601045.jpg\"><br><img src=\"images/blog/blog_d21dfa8cf8ea.jpg\"><br><img src=\"images/blog/blog_598e3a0cc025.jpg\"><br><img src=\"images/blog/blog_7bac70a7ac75.jpg\"><br><img src=\"images/blog/blog_c82841d789ee.jpg\"><br><img src=\"images/blog/blog_6d897e2f3282.jpg\"><br><img src=\"images/blog/blog_a72f2b222495.jpg\"><br><img src=\"images/blog/blog_45837e7fb475.jpg\"><br><img src=\"images/blog/blog_0c67e3a615df.jpg\"><br><img src=\"images/blog/blog_de09460c01ba.jpg\"><br><img src=\"images/blog/blog_91133aaee2af.jpg\"><br><img src=\"images/blog/blog_33bb5af4f72b.jpg\"><br><img src=\"images/blog/blog_c0bf0cbf37ae.jpg\"><br><img src=\"images/blog/blog_06485ae272f6.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224310779124?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 56,
     "category": "장애인복지기금사업",
     "title": "재가장애인을 위한                  \"향기를빚는손,꿈을굽는마음\" 개강식",
