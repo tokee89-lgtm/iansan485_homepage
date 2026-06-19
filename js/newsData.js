@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 59,
+    "category": "공지사항",
+    "title": "안산시 지체 장애어르신 쉼마루                         \"7월 일정표\"",
+    "date": "2026.06.19",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA2MTlfMjE2/MDAxNzgxODMyMDU4OTAx.GQAlaGQlmbPI71pZJCrA_8lUuT1Yq57_cwPq4JXDqzAg.jyxbD7qVhLLyTsYgitmbMpk5trMSkUuhQen-phgCLUMg.JPEG/7%BF%F9_%C0%CF%C1%A4%C7%A5.jpg?type=s3",
+    "summary": "2026년 안산시 지체 장애어르신 쉼마루 7월 일정표입니다. 일정표 참고하시고 궁금한 사항 있으시면 언제든지 연락주시기 바랍니다 ~^^",
+    "content": "2026년 안산시 지체 장애어르신 쉼마루 7월 일정표입니다. 일정표 참고하시고 궁금한 사항 있으시면 언제든지 연락주시기 바랍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA2MTlfMjE2/MDAxNzgxODMyMDU4OTAx.GQAlaGQlmbPI71pZJCrA_8lUuT1Yq57_cwPq4JXDqzAg.jyxbD7qVhLLyTsYgitmbMpk5trMSkUuhQen-phgCLUMg.JPEG/7%BF%F9_%C0%CF%C1%A4%C7%A5.jpg?type=s3\" /><br><img src=\"images/blog/blog_87fb50d2df95.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224320635523?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 58,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                        \"이미용 봉사\"",
