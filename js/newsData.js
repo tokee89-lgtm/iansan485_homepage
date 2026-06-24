@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 60,
+    "category": "안산시지회 뉴스",
+    "title": "2026년 안산시지회 6월 월례회의",
+    "date": "2026.06.23",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA2MjNfODIg/MDAxNzgyMjAwOTI2NzQz.o7B8yCGOvgCMFAQ42gWjjuxjxfH_o1qDdVOo9KhiaCwg.kidgoS0PgtlLLYhvQ6julddBdjzC3Kb_eel4vViKwcIg.JPEG/KakaoTalk_20260623_144820584.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 6월 23일(화) 6월 월례회의를 개최하였습니다. 이번 월례회의에서는 2026년 상반기 사업보고와 함께 다가오는 하반기 사업계획에 대한 심도 있는 보고와 논의가 ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 6월 23일(화) 6월 월례회의를 개최하였습니다. 이번 월례회의에서는 2026년 상반기 사업보고와 함께 다가오는 하반기 사업계획에 대한 심도 있는 보고와 논의가 진행되었습니다. 특히 이날 회의에서는 기쁜 소식도 함께 나누었습니다. 지난 6.3 지방선거에서 권태익 지회장님께서 경기도의회 의원으로 당선되었습니다. 그동안 안산시지회 발전을 위해 헌신하고 수고해 주신 감사의 마음을 담아 공로패도 전달되었습니다. 지회장님께서는 \"장애인 인권보호 및 사회개선인식, 사회참여확대 등 장애인에 대한 편견을 없애고 사회 활동을 활성화하기 위해 도의회에서 작은 도움이 되도록....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA2MjNfODIg/MDAxNzgyMjAwOTI2NzQz.o7B8yCGOvgCMFAQ42gWjjuxjxfH_o1qDdVOo9KhiaCwg.kidgoS0PgtlLLYhvQ6julddBdjzC3Kb_eel4vViKwcIg.JPEG/KakaoTalk_20260623_144820584.jpg?type=s3\" /><br><img src=\"images/blog/blog_0dc961d6d2a5.jpg\"><br><img src=\"images/blog/blog_e50104d07cd3.jpg\"><br><img src=\"images/blog/blog_046f6028c547.jpg\"><br><img src=\"images/blog/blog_0fd21cc50911.jpg\"><br><img src=\"images/blog/blog_4ad6ccf8e50e.jpg\"><br><img src=\"images/blog/blog_d8b292541b23.jpg\"><br><img src=\"images/blog/blog_b9727746fdcd.jpg\"><br><img src=\"images/blog/blog_45b81ac47237.jpg\"><br><img src=\"images/blog/blog_f86655f847f4.jpg\"><br><img src=\"images/blog/blog_754f3a9a57d0.jpg\"><br><img src=\"images/blog/blog_846543caad7b.jpg\"><br><img src=\"images/blog/blog_ff979dac044e.jpg\"><br><img src=\"images/blog/blog_00d9c27005c9.jpg\"><br><img src=\"images/blog/blog_55675d4cd2e8.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224324740971?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 59,
     "category": "공지사항",
     "title": "안산시 지체 장애어르신 쉼마루                         \"7월 일정표\"",
