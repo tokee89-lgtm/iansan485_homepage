@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 61,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루               \"문화탐방(벽초지수목원)\"",
+    "date": "2026.06.25",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA2MjVfNjMg/MDAxNzgyMzUzOTEzMTcw.7ePc3d-bQnjfwq2nonmCW6WaaRD9478roj3rsHe1NI8g.d5fhu2ERFA5ffv6y1ay6OnU4Xua5c9GCEHc9KVcbqQIg.JPEG/IMG_2889.JPG?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 24일(수) 장애어르신 쉼마루에서 문화탐방 벽초지수목원 (경기도 파주시 광탄면 부흥로 242)에 다녀왔습니다. 1000여종의 식물들로 가꾸어진 2...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 24일(수) 장애어르신 쉼마루에서 문화탐방 벽초지수목원 (경기도 파주시 광탄면 부흥로 242)에 다녀왔습니다. 1000여종의 식물들로 가꾸어진 26개의 아름다운 동서양 정원에서 꽃향기를 맡으며 걸으니 자연의 아름다움에 더 빠져드는것 같습니다. 여러 일정에도 불구하고 많은 분들이 참석해주셔서 성황리에 마무리되었습니다. 문화탐방에 참여하여주신 모든 분들께 다시 한번 감사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA2MjVfNjMg/MDAxNzgyMzUzOTEzMTcw.7ePc3d-bQnjfwq2nonmCW6WaaRD9478roj3rsHe1NI8g.d5fhu2ERFA5ffv6y1ay6OnU4Xua5c9GCEHc9KVcbqQIg.JPEG/IMG_2889.JPG?type=s3\" /><br><img src=\"images/blog/blog_1fb28c306fde.jpg\"><br><img src=\"images/blog/blog_9f1981da0c50.jpg\"><br><img src=\"images/blog/blog_2548e3cfb5c5.jpg\"><br><img src=\"images/blog/blog_9d65cb359e43.jpg\"><br><img src=\"images/blog/blog_65e866e79f56.jpg\"><br><img src=\"images/blog/blog_db719f57081a.jpg\"><br><img src=\"images/blog/blog_7a53feb33ad9.jpg\"><br><img src=\"images/blog/blog_3d3e8ad0ce1c.jpg\"><br><img src=\"images/blog/blog_26589ff2af6d.jpg\"><br><img src=\"images/blog/blog_818375b598b0.jpg\"><br><img src=\"images/blog/blog_397d7904ef02.jpg\"><br><img src=\"images/blog/blog_4cae969f9067.jpg\"><br><img src=\"images/blog/blog_7fc3af8b153f.jpg\"><br><img src=\"images/blog/blog_1243cf6cc531.jpg\"><br><img src=\"images/blog/blog_4edd8797116c.jpg\"><br><img src=\"images/blog/blog_3247f499e705.jpg\"><br><img src=\"images/blog/blog_2ff1d67fd8aa.jpg\"><br><img src=\"images/blog/blog_bb82955f3b5a.jpg\"><br><img src=\"images/blog/blog_01e7e06a6fd7.jpg\"><br><img src=\"images/blog/blog_bde3597b7b01.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224326734081?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 60,
     "category": "안산시지회 뉴스",
     "title": "2026년 안산시지회 6월 월례회의",
