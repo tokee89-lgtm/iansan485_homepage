@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 62,
+    "category": "장애인복지기금사업",
+    "title": "재가장애인을 위한                  \"향기를빚는손,꿈을굽는마음\" 2회",
+    "date": "2026.06.29",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA2MjlfMTUw/MDAxNzgyNzIyMzMwNDI5.1lqYx1qVqaDGr7-b3VdL3ifl2whLQZFDe08RdDd8WKgg.IJZie-747vICTM2K7c_yZ2xAFZyq8R1yWBraAZ7rvEgg.JPEG/1.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 29일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 2회차 수업을 20여명의 재가장애인들과 참...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 권태익)는 2026년 6월 29일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 2회차 수업을 20여명의 재가장애인들과 참여하였습니다. 오늘 수업은 아로마테라피 한방비누입니다. 13가지 아로마블랜딩과 50가지 재료로 만든 오일이 첨가가 되서 호흡기, 천식, 기관지 및 피부노화 예방에 탁월하여 아이,어른 상관없이 쓰시기에 좋습니다. 저희 지회는 다양한 경험을 통해 재가 장애인 당사자에게 도움을 드리고자 합니다. 참여하여주신 모든분들께 감사 인사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA2MjlfMTUw/MDAxNzgyNzIyMzMwNDI5.1lqYx1qVqaDGr7-b3VdL3ifl2whLQZFDe08RdDd8WKgg.IJZie-747vICTM2K7c_yZ2xAFZyq8R1yWBraAZ7rvEgg.JPEG/1.jpg?type=s3\" /><br><img src=\"images/blog/blog_24220f3dcceb.jpg\"><br><img src=\"images/blog/blog_fd033204135f.jpg\"><br><img src=\"images/blog/blog_d04cf133bc4c.jpg\"><br><img src=\"images/blog/blog_d39720190909.jpg\"><br><img src=\"images/blog/blog_552355745562.jpg\"><br><img src=\"images/blog/blog_37991ed7ce16.jpg\"><br><img src=\"images/blog/blog_cf2403eaa91f.jpg\"><br><img src=\"images/blog/blog_b10388ac18f6.jpg\"><br><img src=\"images/blog/blog_7a5c0027bff8.jpg\"><br><img src=\"images/blog/blog_ccc168d2fbd7.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224330829535?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 61,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루               \"문화탐방(벽초지수목원)\"",
