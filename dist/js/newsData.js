@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 64,
+    "category": "장애인복지정보",
+    "title": "2026년 장애인식개선                    신규강사 양성교육 모집 안내",
+    "date": "2026.07.06",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MDZfMTY4/MDAxNzgzMzIxNzYwMTIw.DbyspxbwddJ7TUS-erIRsgdjGmssD62GqtBakDDWg10g.2JCt1XZUmqOYv7afiLzZbfkaew26vHScx4DfaqzN5BQg.JPEG/%BA%D9%C0%D32_%C8%AB%BA%B8%C6%F7%BD%BA%C5%CD_%C0%E5%BE%D6%C0%CE%BD%C4%B0%B3%BC%B1_%BD%C5%B1%D4%B0%AD%BB%E7_%BE%E7%BC%BA%B1%B3%C0%B0_%B8%F0%C1%FD%BE%C8%B3%BB%B9%AE.jpg?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA3MDZfMTY4/MDAxNzgzMzIxNzYwMTIw.DbyspxbwddJ7TUS-erIRsgdjGmssD62GqtBakDDWg10g.2JCt1XZUmqOYv7afiLzZbfkaew26vHScx4DfaqzN5BQg.JPEG/%BA%D9%C0%D32_%C8%AB%BA%B8%C6%F7%BD%BA%C5%CD_%C0%E5%BE%D6%C0%CE%BD%C4%B0%B3%BC%B1_%BD%C5%B1%D4%B0%AD%BB%E7_%BE%E7%BC%BA%B1%B3%C0%B0_%B8%F0%C1%FD%BE%C8%B3%BB%B9%AE.jpg?type=s3\" /><br><img src=\"images/blog/blog_a65445939016.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224338172207?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 63,
+    "category": "장애인복지정보",
+    "title": "2026년 차차통통 장애인 정책 공모전",
+    "date": "2026.07.06",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MDZfOTYg/MDAxNzgzMzIxNjI0MDQ3.fdl9JDLAAAs_24HD6X2C4pScR-OIn5vJU682_A4BR98g.8MUMnQlxvOF7-WJJsG9RwI7JN7is9ckRFVacUHKXa-Ag.JPEG/260629_%C1%A4%C3%A5_%B0%F8%B8%F0%C0%FC_%C6%F7%BD%BA%C5%CD.jpg?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA3MDZfOTYg/MDAxNzgzMzIxNjI0MDQ3.fdl9JDLAAAs_24HD6X2C4pScR-OIn5vJU682_A4BR98g.8MUMnQlxvOF7-WJJsG9RwI7JN7is9ckRFVacUHKXa-Ag.JPEG/260629_%C1%A4%C3%A5_%B0%F8%B8%F0%C0%FC_%C6%F7%BD%BA%C5%CD.jpg?type=s3\" /><br><img src=\"images/blog/blog_70c4cac9b5cf.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224338165804?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 62,
     "category": "장애인복지기금사업",
     "title": "재가장애인을 위한                  \"향기를빚는손,꿈을굽는마음\" 2회",
