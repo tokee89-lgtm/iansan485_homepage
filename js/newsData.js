@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 67,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루             \"한궁, 슐런 토너먼트 시상식\"",
+    "date": "2026.07.13",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MTNfMTQg/MDAxNzgzOTMwNTcxNjgx.iBOcPN03BykvOFX3Jmf2mMq_x2Faw6SkyeQgh5xE3Hsg.gaXYqaKKnUjDq3dkM0DQ2qlmxEJVfXyCLBnoGG0zgfQg.JPEG/KakaoTalk_20260713_145030097_03.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.13.(월) 안산시 장애어르신 쉼마루 프로그램실에서 상반기 한궁, 슐런 토너먼트 시상식을 진행하였습니다. 5개월간 열심히 경기에 임해주셨...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.13.(월) 안산시 장애어르신 쉼마루 프로그램실에서 상반기 한궁, 슐런 토너먼트 시상식을 진행하였습니다. 5개월간 열심히 경기에 임해주셨고 응원과 함께 박수를 보내주신 회원님들께 진심으로 감사 인사 드립니다. 하반기 프로그램 수업 및 다시 시작하는 토너먼트도 잘 부탁드리며 더욱 노력하는 안산시지회가 되겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MTNfMTQg/MDAxNzgzOTMwNTcxNjgx.iBOcPN03BykvOFX3Jmf2mMq_x2Faw6SkyeQgh5xE3Hsg.gaXYqaKKnUjDq3dkM0DQ2qlmxEJVfXyCLBnoGG0zgfQg.JPEG/KakaoTalk_20260713_145030097_03.jpg?type=s3\" /><br><img src=\"images/blog/blog_f515db4845f3.jpg\"><br><img src=\"images/blog/blog_e0106a0d4ed1.jpg\"><br><img src=\"images/blog/blog_b2354f8d8e4b.jpg\"><br><img src=\"images/blog/blog_4285259e99fd.jpg\"><br><img src=\"images/blog/blog_17a037c8bebf.jpg\"><br><img src=\"images/blog/blog_6ea0f39a60b7.jpg\"><br><img src=\"images/blog/blog_9e320b699400.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224345328294?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 66,
+    "category": "장애인복지기금사업",
+    "title": "재가장애인을 위한                    \"향기를빚는손,꿈을굽는마음\" 4회",
+    "date": "2026.07.13",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MTNfMTQ5/MDAxNzgzOTI5NTI3MTQ0.CtZBaCK9ckkQaAoAZnJh9rNg73DzSKRi6hlE_G1rDmEg.gu_EAA5Vg1VTFQgmK6lrtay2G3rnN9y1uJ4qPQNnQvQg.JPEG/KakaoTalk_20260706_131207319.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026년 7월 13일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 4회차 수업을 20여명의 재가장애...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026년 7월 13일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 4회차 수업을 20여명의 재가장애인들과 참여하였습니다. 오늘 수업은 아로마테라피 자연향기 시향과 방향제 만들기입니다. 향수 브랜드의 다양한 향을 시향하고 유리용기에 스티커로 꾸민 다음 선택한 향을 용기에 채워주고 이쁘게 포장하면 끝입니다. 저희 지회는 다양한 경험을 통해 재가 장애인 당사자에게 도움을 드리고자 합니다. 참여하여주신 모든분들께 감사 인사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MTNfMTQ5/MDAxNzgzOTI5NTI3MTQ0.CtZBaCK9ckkQaAoAZnJh9rNg73DzSKRi6hlE_G1rDmEg.gu_EAA5Vg1VTFQgmK6lrtay2G3rnN9y1uJ4qPQNnQvQg.JPEG/KakaoTalk_20260706_131207319.jpg?type=s3\" /><br><img src=\"images/blog/blog_00df142177a0.jpg\"><br><img src=\"images/blog/blog_bfaac750ada2.jpg\"><br><img src=\"images/blog/blog_3030cff99fb9.jpg\"><br><img src=\"images/blog/blog_45ee94b6d4db.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224345307449?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 65,
     "category": "공지사항",
     "title": "안산시지회 사무국장 채용공고",
