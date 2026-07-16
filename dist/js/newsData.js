@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 68,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                          \"컵타교실\"",
+    "date": "2026.07.15",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MTVfMTQw/MDAxNzg0MDk2MjMyNDIx.d7QPz2pQQVZA2gsa_QmKomhH64DMnyuXTZh8XJmNGMIg.1Sw8DsTBzKp87ukN7LaDZGF-wCV227uYyD1eIjooQQsg.JPEG/KakaoTalk_20260715_131147765_02.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.15.(수) 안산시 장애어르신 쉼마루 하반기 프로그램 컵타교실 첫 개강을 하였습니다. 컵타는 소근육 발달과 뇌건강에 좋은 프로그램으로 책...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.15.(수) 안산시 장애어르신 쉼마루 하반기 프로그램 컵타교실 첫 개강을 하였습니다. 컵타는 소근육 발달과 뇌건강에 좋은 프로그램으로 책상이 없어도 가능하고 바닥에 앉아도 가능한 운동입니다. 플라스틱 컵2개와 음악만 있으면 자유롭게 표현하면서 두드릴 수 있기 때문에 안해 본 사람은 있어도 한번 해보신분은 다시 해보고 싶은 마음이 드는 프로그램이니 경험을 해보시는걸 추천드립니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MTVfMTQw/MDAxNzg0MDk2MjMyNDIx.d7QPz2pQQVZA2gsa_QmKomhH64DMnyuXTZh8XJmNGMIg.1Sw8DsTBzKp87ukN7LaDZGF-wCV227uYyD1eIjooQQsg.JPEG/KakaoTalk_20260715_131147765_02.jpg?type=s3\" /><br><img src=\"images/blog/blog_d40fe7967589.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224347487342?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 67,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루             \"한궁, 슐런 토너먼트 시상식\"",
