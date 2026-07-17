@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 69,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
+    "date": "2026.07.16",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MTZfMjQ5/MDAxNzg0MTkxNjYyMDk0.tVm5otOcSLcvcNerpgwCe0BSbLGs6nBYDpmHuJf7mSQg.WbEi8NQZp5zCNKEpWl-PLVrxtMQ4UduA0L4N9KbXUGYg.JPEG/KakaoTalk_20260716_132146229_01.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.16.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 2회 수업을 진행 하였습니다. 오늘 작품은 돔형입니다. 낮은 화기에 플로랄...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.16.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 2회 수업을 진행 하였습니다. 오늘 작품은 돔형입니다. 낮은 화기에 플로랄 폼을 넣어 꽃을 반구형으로 꽂고 정중앙부터 시작으로 2시, 6시, 10시 방향으로 테이블과 평행이 되도록 꽂은 다음 작은꽃은 짧게 넣고 잎은 둥근 모양이 되도록 꽂으면 완성 작품이 나옵니다. 생화로 하다보니 향도 좋고 꽃을 다듬으며 마음의 안정도 되니 회원님들 얼굴이 꽃보다 더 화사해지는것 같습니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MTZfMjQ5/MDAxNzg0MTkxNjYyMDk0.tVm5otOcSLcvcNerpgwCe0BSbLGs6nBYDpmHuJf7mSQg.WbEi8NQZp5zCNKEpWl-PLVrxtMQ4UduA0L4N9KbXUGYg.JPEG/KakaoTalk_20260716_132146229_01.jpg?type=s3\" /><br><img src=\"images/blog/blog_6d4bc3882f37.jpg\"><br><img src=\"images/blog/blog_a3565a6ac3ed.jpg\"><br><img src=\"images/blog/blog_65aecd95d339.jpg\"><br><img src=\"images/blog/blog_723ac9d95d24.jpg\"><br><img src=\"images/blog/blog_5e165a1c6b65.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224348695851?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 68,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                          \"컵타교실\"",
