@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 70,
+    "category": "장애인복지기금사업",
+    "title": "재가장애인을 위한                   \"향기를빚는손,꿈을굽는마음\" 5회",
+    "date": "2026.07.20",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MjBfMTAg/MDAxNzg0NTI4ODU3NTU0.sf_ZOmhvzod5S_8-D-hnPSeI8vvzess5tKX4G-u7QU0g.CLxFJyF94BVYyQ3EUyuNRTdOj8DxvxTHPYoo0hdWeywg.JPEG/KakaoTalk_20260720_133944096.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026년 7월 20일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 5회차 수업을 20여명의 재가장애...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026년 7월 20일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 5회차 수업을 20여명의 재가장애인들과 참여하였습니다. 오늘 수업은 건강 한방비누 만들기입니다. 일상 속 손씻기는 다들 잘하시지만 비누를 쓰더라도 좋은 재료로 만든 비누로 사용하시라고 다양하게 준비하였습니다. 저희 지회는 다양한 경험을 통해 재가 장애인 당사자에게 도움을 드리고자 합니다. 참여하여주신 모든분들께 감사 인사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MjBfMTAg/MDAxNzg0NTI4ODU3NTU0.sf_ZOmhvzod5S_8-D-hnPSeI8vvzess5tKX4G-u7QU0g.CLxFJyF94BVYyQ3EUyuNRTdOj8DxvxTHPYoo0hdWeywg.JPEG/KakaoTalk_20260720_133944096.jpg?type=s3\" /><br><img src=\"images/blog/blog_c144ab39d0c4.jpg\"><br><img src=\"images/blog/blog_702d66d6f680.jpg\"><br><img src=\"images/blog/blog_082295dd62a6.jpg\"><br><img src=\"images/blog/blog_374c75a1ae07.jpg\"><br><img src=\"images/blog/blog_93b62c105a8e.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224352106607?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 69,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
