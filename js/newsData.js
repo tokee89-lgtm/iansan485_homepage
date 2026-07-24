@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 72,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
+    "date": "2026.07.23",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MjNfMjg4/MDAxNzg0Nzg4MzE4ODMw.NoGBiE4Q35-E8QgYYoTfCMgVeQf51HXqxKojoKcCG6Eg.GrQWRq-oh3_o1s-aDdIDWd1iyHFQLMoZh_IQg9j-wggg.JPEG/KakaoTalk_20260723_152044514.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.23.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 3회 수업을 진행 하였습니다. 오늘 작품은 화병꽃이입니다. 화병에 물을 반...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.23.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 3회 수업을 진행 하였습니다. 오늘 작품은 화병꽃이입니다. 화병에 물을 반쯤 채우고 꽃을 다듬은 다음 꽃이 물에 잠기는 부분의 잎은 모두 제거해줍니다. 가장 크고 존재감있는 꽃을 골라 중심에 꽂아주고 나머지 꽃들의 길이를 잘라가며 하나씩 추가해주면 완성 작품이 나옵니다. 마음의 안정도 되고 편안해지는 화훼교실 궁금하신분들은 문의 주시기 바랍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MjNfMjg4/MDAxNzg0Nzg4MzE4ODMw.NoGBiE4Q35-E8QgYYoTfCMgVeQf51HXqxKojoKcCG6Eg.GrQWRq-oh3_o1s-aDdIDWd1iyHFQLMoZh_IQg9j-wggg.JPEG/KakaoTalk_20260723_152044514.jpg?type=s3\" /><br><img src=\"images/blog/blog_44d1316e39a3.jpg\"><br><img src=\"images/blog/blog_1fe94161499e.jpg\"><br><img src=\"images/blog/blog_0f3fb88505d4.jpg\"><br><img src=\"images/blog/blog_5b0c56df2008.jpg\"><br><img src=\"images/blog/blog_372a59f775f5.jpg\"><br><img src=\"images/blog/blog_80cd47853a90.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224355521544?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 71,
+    "category": "안산시지회 뉴스",
+    "title": "한국지체장애인협회                   \"제2회 상곡장학금 수여식\"성료",
+    "date": "2026.07.23",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MjNfMTky/MDAxNzg0Nzg1OTAwNTg4.loYV26LX-68p0m-SM0TiYZhA1W0skjFfYdsS1z2AzvMg.d0z4Ie0P5rIDO3QUvxrSYiZa8q4IKw7AGcjaFdtdUGIg.JPEG/KakaoTalk_20260723_123459572.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 한국지체장애인협회(중앙회장 황재연) HW컨벤션센터에서 2026년 7월 23일(목) \"제2회 상곡장학금 수여식\"'을 다녀왔습니다. 이번 수여식에서는 엄격한...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 한국지체장애인협회(중앙회장 황재연) HW컨벤션센터에서 2026년 7월 23일(목) \"제2회 상곡장학금 수여식\"'을 다녀왔습니다. 이번 수여식에서는 엄격한 심사를 거친 인재(고등학생 6명과 대학생 9명, 총 15명)학생들에게 장학생으로 선정되는 기쁨과 함께 장학금을 전달하였습니다. '상곡장학회'는 한국지체장애인협회 초대 회장인 故 상곡 장기철 회장의 숭고한 뜻을 계승하여 설립되었습니다. 장애인 복지 발전과 미래 세대의 배움 및 성장을 지원하기 위해 매년 장학 사업을 이어나가고 있습니다. 황재연 중앙회장은 \"선발된 장학생 모두 진심으....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MjNfMTky/MDAxNzg0Nzg1OTAwNTg4.loYV26LX-68p0m-SM0TiYZhA1W0skjFfYdsS1z2AzvMg.d0z4Ie0P5rIDO3QUvxrSYiZa8q4IKw7AGcjaFdtdUGIg.JPEG/KakaoTalk_20260723_123459572.jpg?type=s3\" /><br><img src=\"images/blog/blog_77d9cd092327.jpg\"><br><img src=\"images/blog/blog_8272318b064a.jpg\"><br><img src=\"images/blog/blog_df22ced11a91.jpg\"><br><img src=\"images/blog/blog_a9045dde2c49.jpg\"><br><img src=\"images/blog/blog_9ddd9e550d63.jpg\"><br><img src=\"images/blog/blog_8f4de5bdbf1b.jpg\"><br><img src=\"images/blog/blog_f67ff03091c1.jpg\"><br><img src=\"images/blog/blog_93c73eabc7de.jpg\"><br><img src=\"images/blog/blog_6902755f2eb9.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224355475746?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 70,
     "category": "장애인복지기금사업",
     "title": "재가장애인을 위한                   \"향기를빚는손,꿈을굽는마음\" 5회",
