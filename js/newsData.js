@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 74,
+    "category": "장애인복지기금사업",
+    "title": "재가장애인을 위한                   \"향기를빚는손,꿈을굽는마음\" 6회",
+    "date": "2026.07.27",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MjdfNTUg/MDAxNzg1MTQxOTE1NDM4.PBPsvSW4KJgDCbTHb9y11quaU_7ifutvwo58zBzg6scg.Hmev1sWVlMIKNW0_T0ZmCv4CwxEh5_Rmz3Pcqhj4I9Yg.JPEG/KakaoTalk_20260727_131136051_01.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026년 7월 27일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 6회차 수업을 20여명의 재가장애...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026년 7월 27일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 6회차 수업을 20여명의 재가장애인들과 참여하였습니다. 오늘 수업은 향균 맞춤 디자인비누 만들기입니다. 비누베이스를 선택하여 피부에 좋은 판테놀 및 아로마에센셜오일과 플러그런스향을 고르게 넣고 굳히기를 기다리면 완성 작품이 나옵니다. 저희 지회는 다양한 경험을 통해 재가 장애인 당사자에게 도움을 드리고자 합니다. 참여하여주신 모든분들께 감사 인사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MjdfNTUg/MDAxNzg1MTQxOTE1NDM4.PBPsvSW4KJgDCbTHb9y11quaU_7ifutvwo58zBzg6scg.Hmev1sWVlMIKNW0_T0ZmCv4CwxEh5_Rmz3Pcqhj4I9Yg.JPEG/KakaoTalk_20260727_131136051_01.jpg?type=s3\" /><br><img src=\"images/blog/blog_94fef2e3aed8.jpg\"><br><img src=\"images/blog/blog_d75db194a880.jpg\"><br><img src=\"images/blog/blog_7de2aff8f38b.jpg\"><br><img src=\"images/blog/blog_89fb039c770e.jpg\"><br><img src=\"images/blog/blog_7c1c3ad7bbc6.jpg\"><br><img src=\"images/blog/blog_28ae01855667.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224359551529?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 73,
     "category": "공지사항",
     "title": "안산 지체 장애어르신 쉼마루                          \"8월 일정표\"",
