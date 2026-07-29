@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 75,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                      \"건강체조 교실\"",
+    "date": "2026.07.28",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MjhfNjQg/MDAxNzg1MjE2NjU4MTM2.5zS12twVyXr7zD1PwJrtt_3TZhWWj_PpB_d6614yEOgg.QIdYNP8gfeykj10AJuYEsI_H7B91Yi48IEYs3_HVe98g.JPEG/KakaoTalk_20260728_111131576.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.28.(화) 안산시 지체 장애어르신 쉼마루 하반기 프로그램 건강체조 교실 3회차를 진행하였습니다. 오늘 수업은 좌뇌, 우뇌에 좋은 손가락...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.28.(화) 안산시 지체 장애어르신 쉼마루 하반기 프로그램 건강체조 교실 3회차를 진행하였습니다. 오늘 수업은 좌뇌, 우뇌에 좋은 손가락 체조와 율동으로 이뤄진 어깨운동 및 스트레칭 운동을 접목한 체조로 진행이 되었습니다. 앉아서만 하는 동작이 아닌 서서하는 동작들도 많아서 배운 동작을 음악에 맞춰 집에서도 연습해보시는걸 추천 드립니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MjhfNjQg/MDAxNzg1MjE2NjU4MTM2.5zS12twVyXr7zD1PwJrtt_3TZhWWj_PpB_d6614yEOgg.QIdYNP8gfeykj10AJuYEsI_H7B91Yi48IEYs3_HVe98g.JPEG/KakaoTalk_20260728_111131576.jpg?type=s3\" /><br><img src=\"images/blog/blog_dfadbda38aec.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224360505729?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 74,
     "category": "장애인복지기금사업",
     "title": "재가장애인을 위한                   \"향기를빚는손,꿈을굽는마음\" 6회",
