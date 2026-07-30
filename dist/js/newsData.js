@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 76,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                          \"컵타 교실\"",
+    "date": "2026.07.29",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MjlfMTU3/MDAxNzg1MzAyMTE2NjQ3.qXXaD4p7VIgC2ZlqqqA1LfuIhJ5UbBj8PdQ6x4fqKRYg.0ZqK29F36MFw3tnh5t9QsZYyu3rsXAYHqQ2crqvx50Ag.JPEG/KakaoTalk_20260729_134409972.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.29.(수) 안산시 장애어르신 쉼마루 하반기 프로그램 컵타 3회차 수업을 진행 하였습니다. 컵을 이용하여 기본 리듬을 배우고 배운 리듬을...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 업무대행 김재활)는 2026. 07.29.(수) 안산시 장애어르신 쉼마루 하반기 프로그램 컵타 3회차 수업을 진행 하였습니다. 컵을 이용하여 기본 리듬을 배우고 배운 리듬을 노래에 맞춰 연주를 해보았는데 음악이 나오니 긴장되었던 몸이 풀리면서 너무 잘 따라하셨습니다. 컵과 노래만 있으면 가능하니 집에서 배운 리듬을 이용해 연습하시는걸 추천 드립니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MjlfMTU3/MDAxNzg1MzAyMTE2NjQ3.qXXaD4p7VIgC2ZlqqqA1LfuIhJ5UbBj8PdQ6x4fqKRYg.0ZqK29F36MFw3tnh5t9QsZYyu3rsXAYHqQ2crqvx50Ag.JPEG/KakaoTalk_20260729_134409972.jpg?type=s3\" /><br><img src=\"images/blog/blog_0a02697123f2.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224361684388?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 75,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"건강체조 교실\"",
