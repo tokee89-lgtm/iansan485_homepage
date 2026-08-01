@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 77,
+    "category": "안산시지회 뉴스",
+    "title": "경기도지체장애인협회                       안산시지회 지회장 임명장",
+    "date": "2026.07.31",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA3MzFfMjYw/MDAxNzg1NDYyMzM4MTI5.U4uzasl5UYZu-DUEDXAvNrY3JLvFle5cEwug-BpnC_og.vPodWTDldb_KkmztgAfS_CwWqCJIKLrLs8TJCgSzO1cg.JPEG/KakaoTalk_20260731_102015564.jpg?type=s3",
+    "summary": "[새로운 출발, 안산시지체장애인 회원님들의 복지를 위해 뛰겠습니다] (사)경기도지체장애인협회 안산시지회 지회장(김재활)이라는 중책을 맡게 되었습니다. 막중한 책임감을 느끼는 동시에, 회원 여러분의 권익 증진과 복지 ...",
+    "content": "[새로운 출발, 안산시지체장애인 회원님들의 복지를 위해 뛰겠습니다] (사)경기도지체장애인협회 안산시지회 지회장(김재활)이라는 중책을 맡게 되었습니다. 막중한 책임감을 느끼는 동시에, 회원 여러분의 권익 증진과 복지 향상을 위해 봉사할 수 있게 되어 깊은 영광입니다. 회원 여러분의 소중한 목소리를 가슴에 담고 발로 뛰는 안산시지회가 되겠습니다. 장애인이 당당한 사회 구성원으로 함께 동행하는 안산시지회을 만들어 가겠습니다. 앞으로 따뜻한 격려와 성원, 그리고 아낌없는 조언을 부탁드립니다. 감사합니다. (사)경기도지체장애인협회 안산시지회장 김재활 올림 <img src=\"https://blogthumb.pstatic.net/MjAyNjA3MzFfMjYw/MDAxNzg1NDYyMzM4MTI5.U4uzasl5UYZu-DUEDXAvNrY3JLvFle5cEwug-BpnC_og.vPodWTDldb_KkmztgAfS_CwWqCJIKLrLs8TJCgSzO1cg.JPEG/KakaoTalk_20260731_102015564.jpg?type=s3\" /><br><img src=\"images/blog/blog_beb3a71b95ed.jpg\"><br><img src=\"images/blog/blog_8cfe810381ec.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224363637289?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 76,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                          \"컵타 교실\"",
