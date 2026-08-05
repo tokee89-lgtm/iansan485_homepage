@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 78,
+    "category": "장애인복지기금사업",
+    "title": "재가장애인을 위한                 \"향기를빚는손,꿈을굽는마음\" 종강식",
+    "date": "2026.08.04",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MDRfMTAz/MDAxNzg1ODEyMDg1NzU0.B3wo348YDV8aI9UOaDcj4pFx_AnFY_vdiE6TuWcdXrUg.o32YIHrgS5bzLVMsqihJ6xyHVb7UDuiLqTFmDevnE80g.JPEG/KakaoTalk_20260803_152313488.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 3일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 종강식 겸 수료증 전달식까지 20여명의 재가...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 3일(월) 안산시지회 회의실에서 장애인복지기금사업으로 재가장애인들을 위한 \"향기를빚는손,꿈을굽는마음\" 종강식 겸 수료증 전달식까지 20여명의 재가장애인들과 참여하였습니다. 오늘 수업은 아로마 탈모관리 두피비누입니다. 건강한 두피관리법과 저자극 혈액순환에 좋은 창포약재 및 페파민트 티트리 아로마에션셜 오일을 활용한 실습시간을 가져보았습니다. 저희 지회는 다양한 경험을 통해 재가 장애인 당사자에게 도움을 드리고자 합니다. 참여하여주신 모든분들께 감사 인사드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MDRfMTAz/MDAxNzg1ODEyMDg1NzU0.B3wo348YDV8aI9UOaDcj4pFx_AnFY_vdiE6TuWcdXrUg.o32YIHrgS5bzLVMsqihJ6xyHVb7UDuiLqTFmDevnE80g.JPEG/KakaoTalk_20260803_152313488.jpg?type=s3\" /><br><img src=\"images/blog/blog_d2a0b9d68213.jpg\"><br><img src=\"images/blog/blog_c7d2196e8d54.jpg\"><br><img src=\"images/blog/blog_91c1ccc9cc2c.jpg\"><br><img src=\"images/blog/blog_1f1fcea77a59.jpg\"><br><img src=\"images/blog/blog_bafc2048f9ad.jpg\"><br><img src=\"images/blog/blog_72c01e163d17.jpg\"><br><img src=\"images/blog/blog_08f0c8dab79d.jpg\"><br><img src=\"images/blog/blog_bc51559ea7a2.jpg\"><br><img src=\"images/blog/blog_f1b72d93a8f0.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224367641232?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 77,
     "category": "안산시지회 뉴스",
     "title": "경기도지체장애인협회                       안산시지회 지회장 임명장",
