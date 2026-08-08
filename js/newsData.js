@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": 81,
+    "category": "장애인복지정보",
+    "title": "2026년 경기도 장애인복지서비스                        누림 플랫폼",
+    "date": "2026.08.07",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MDdfNzMg/MDAxNzg2MDkyNjMxMjc2.Mu-230kes1EyMCjVaNhH_0TgPVYUSc6kzAIgJc0qalAg.gVTep9RJ8jbfV9wx00pq479lUhiA8AijB3ZqCjkVq9wg.JPEG/20260807180335_00001.jpg?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA4MDdfNzMg/MDAxNzg2MDkyNjMxMjc2.Mu-230kes1EyMCjVaNhH_0TgPVYUSc6kzAIgJc0qalAg.gVTep9RJ8jbfV9wx00pq479lUhiA8AijB3ZqCjkVq9wg.JPEG/20260807180335_00001.jpg?type=s3\" />",
+    "link": "https://blog.naver.com/iansan485/224371319654?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 80,
+    "category": "장애인복지정보",
+    "title": "2026년 팔도 누림카",
+    "date": "2026.08.07",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MDdfMTky/MDAxNzg2MDkyMzYxMjM0.Zd7CJWFSjnlB0KeNR76kSOetXFhjFC3OuZ9Zb7I_71Eg.HJdfaK6NzL-mRBcoJhtw5CzaRCStGaP20xRO_znf7S8g.PNG/%A1%B8%C6%C8%B5%B5%B4%A9%B8%B2%C4%AB%A1%B9_%C8%AB%BA%B8%B9%B0.png?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA4MDdfMTky/MDAxNzg2MDkyMzYxMjM0.Zd7CJWFSjnlB0KeNR76kSOetXFhjFC3OuZ9Zb7I_71Eg.HJdfaK6NzL-mRBcoJhtw5CzaRCStGaP20xRO_znf7S8g.PNG/%A1%B8%C6%C8%B5%B5%B4%A9%B8%B2%C4%AB%A1%B9_%C8%AB%BA%B8%B9%B0.png?type=s3\" /><br><img src=\"images/blog/blog_37e7d8faeb6e.png\">",
+    "link": "https://blog.naver.com/iansan485/224371314885?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 79,
+    "category": "안산시지회 뉴스",
+    "title": "2026년 안산시지회 8월 월례회의",
+    "date": "2026.08.07",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MDdfMTkw/MDAxNzg2MDkxMTcxNTcy.yoEspErhB58CdDC_ZwgrLXIQGTzedOLSGauQS-jyAsUg.BW-rwVpPhdpNW91-hvvl5stizsHeTozzz4GjR_-_3eMg.JPEG/KakaoTalk_20260806_160231309_04.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 6일(목), 8월 월례회의를 개최하였습니다. 이번 월례회의는 새로 취임한 김재활 지회장님의 첫 공식 회의로 진행되었으며, 2026년 하반기 사업계...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 6일(목), 8월 월례회의를 개최하였습니다. 이번 월례회의는 새로 취임한 김재활 지회장님의 첫 공식 회의로 진행되었으며, 2026년 하반기 사업계획 보고와 함께 신임 사무국장 소개 및 인사, 주요 현안에 대한 논의가 이루어졌습니다. 김재활 지회장은 \"장애인 인권 보호와 사회 인식 개선, 사회참여 확대를 통해 장애인에 대한 편견을 없애고, 장애인의 사회활동 활성화와 지역 장애인복지 발전을 위해 최선을 다하겠습니다.\"라고 포부를 밝혔습니다. 바쁘신 가운데에도 참석해 주신 임원 여러분께 깊이 감사드리며, 안산시지회는 앞으로도 회원들의 권익 증진과 복....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MDdfMTkw/MDAxNzg2MDkxMTcxNTcy.yoEspErhB58CdDC_ZwgrLXIQGTzedOLSGauQS-jyAsUg.BW-rwVpPhdpNW91-hvvl5stizsHeTozzz4GjR_-_3eMg.JPEG/KakaoTalk_20260806_160231309_04.jpg?type=s3\" /><br><img src=\"images/blog/blog_54efcaa1595b.jpg\"><br><img src=\"images/blog/blog_8ec65f336ff6.jpg\"><br><img src=\"images/blog/blog_72dcea91ec73.jpg\"><br><img src=\"images/blog/blog_23eba7441d75.jpg\"><br><img src=\"images/blog/blog_e8560de25b76.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224371297182?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 78,
     "category": "장애인복지기금사업",
     "title": "재가장애인을 위한                 \"향기를빚는손,꿈을굽는마음\" 종강식",
