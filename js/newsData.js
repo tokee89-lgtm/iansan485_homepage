@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 83,
+    "category": "공지사항",
+    "title": "안산시지회장 이·취임식 안내",
+    "date": "2026.08.13",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MTNfMTQ5/MDAxNzg2NjAyODUxODM5.dbbdOvp156QA-6oOYuQk8cMvGGcqjeyD53So8EDgU04g.qQveMSThqXdJjsdlmgUorLbHUBsQCzZLIqWXqD0fBpYg.JPEG/KakaoTalk_20260811_122437551.jpg?type=s3",
+    "summary": "경기도지체장애인협회 안산시지회 지회장 이·취임식 안내입니다. 회원님들의 많은 관심과 참여바랍니다",
+    "content": "경기도지체장애인협회 안산시지회 지회장 이·취임식 안내입니다. 회원님들의 많은 관심과 참여바랍니다 <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MTNfMTQ5/MDAxNzg2NjAyODUxODM5.dbbdOvp156QA-6oOYuQk8cMvGGcqjeyD53So8EDgU04g.qQveMSThqXdJjsdlmgUorLbHUBsQCzZLIqWXqD0fBpYg.JPEG/KakaoTalk_20260811_122437551.jpg?type=s3\" />",
+    "link": "https://blog.naver.com/iansan485/224377502857?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 82,
+    "category": "안산시지회 뉴스",
+    "title": "한국열린사이버대학교 업무협약식",
+    "date": "2026.08.13",
+    "image": "images/static/notice_placeholder.png",
+    "summary": "배워서 남주자!!! 지금도 늦지않습니다. https://www.kgppd.or.kr/kgppd/bbs/board.php?bo_table=bo_10&wr_id=935",
+    "content": "배워서 남주자!!! 지금도 늦지않습니다. https://www.kgppd.or.kr/kgppd/bbs/board.php?bo_table=bo_10&wr_id=935",
+    "link": "https://blog.naver.com/iansan485/224377484198?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 81,
     "category": "장애인복지정보",
     "title": "2026년 경기도 장애인복지서비스                        누림 플랫폼",
