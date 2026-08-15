@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 84,
+    "category": "안산시지회 뉴스",
+    "title": "2026년 권태익의원님과                               정책 간담회",
+    "date": "2026.08.14",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MTRfMTAw/MDAxNzg2NjgzMjY1NzY4.kkLvFcnUuoSNYh-90kU7niY7N-85XxT_HLndSnY1g1gg.qMHXt4au35h__NiuvaLeYoY8c-Ml1bjN_yTlT3TW4Qcg.JPEG/KakaoTalk_20260814_121634247.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 14일(금) 권태익의원님 및 부회장님들과 함께 정책 간담회를 경기도 의회에서 진행하였습니다. 이번 간담회에서는 장애인 당사자 중심의 정책 마련 및...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 14일(금) 권태익의원님 및 부회장님들과 함께 정책 간담회를 경기도 의회에서 진행하였습니다. 이번 간담회에서는 장애인 당사자 중심의 정책 마련 및 서비스 제공 과정중 제도적 한계와 다양한 어려움이 발생하고 있어 지속적인 협의가 필요한 부분임을 강조하였습니다. 저희 안산시지회는 회원님들을 위해 권익 증진과 복지 향상을 위해 더욱 노력하겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MTRfMTAw/MDAxNzg2NjgzMjY1NzY4.kkLvFcnUuoSNYh-90kU7niY7N-85XxT_HLndSnY1g1gg.qMHXt4au35h__NiuvaLeYoY8c-Ml1bjN_yTlT3TW4Qcg.JPEG/KakaoTalk_20260814_121634247.jpg?type=s3\" /><br><img src=\"images/blog/blog_68dafa21ca42.jpg\"><br><img src=\"images/blog/blog_09174d300d4f.png\">",
+    "link": "https://blog.naver.com/iansan485/224378476406?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 83,
     "category": "공지사항",
     "title": "안산시지회장 이·취임식 안내",
