@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 85,
+    "category": "안산시지회 뉴스",
+    "title": "서호임팩트(주)                      지체 장애어르신 쉼마루 후원 나눔",
+    "date": "2026.08.18",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MThfMjk1/MDAxNzg3MDE1Njg3MDg1.CV9BKVm_6MgPbZN5nUHUNnLIp6t3PIsSDwPh-7lZnWYg.Rd9fsfxKeA_ROgycHtpXhs6pyjfCqOPKMZhFhualU7Mg.JPEG/KakaoTalk_20260814_121333383.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 13일(목) 서호임팩트(주)에서 지체 장애어르신 쉼마루로 제주망고찹쌀떡 및 도넛(경기도 단원구 신길동 행정복지센터)을 나눔해주셔서 다녀왔습니다. ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 8월 13일(목) 서호임팩트(주)에서 지체 장애어르신 쉼마루로 제주망고찹쌀떡 및 도넛(경기도 단원구 신길동 행정복지센터)을 나눔해주셔서 다녀왔습니다. 보내주신 후원 물품은 어려운 이웃과 어르신들에게 맛있는 간식을 드실수 있는 기쁨 및 행복을 주셨습니다. 또한 세심한 배려와 함께 모두가 기분 좋은 하루를 보낼 수 있었습니다. 후원 나눔을 해주신 서호임팩트(주)대표 남기찬님께 다시 한번 감사인사 드립니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MThfMjk1/MDAxNzg3MDE1Njg3MDg1.CV9BKVm_6MgPbZN5nUHUNnLIp6t3PIsSDwPh-7lZnWYg.Rd9fsfxKeA_ROgycHtpXhs6pyjfCqOPKMZhFhualU7Mg.JPEG/KakaoTalk_20260814_121333383.jpg?type=s3\" /><br><img src=\"images/blog/blog_0d9e7d8dbc64.jpg\"><br><img src=\"images/blog/blog_3a4a24359ff6.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224381922413?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 84,
     "category": "안산시지회 뉴스",
     "title": "2026년 권태익의원님과                               정책 간담회",
