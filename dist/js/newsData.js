@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 87,
+    "category": "장애인복지정보",
+    "title": "2026년 장애인택시운전원양성사업 홍보",
+    "date": "2026.08.27",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfMTY4/MDAxNzg3ODA2NjgyNjc1.i_3XEy15dx5lnOdUqXV2Luus0oHLnlH1gw7mnbNiA9wg.-1yWqlA-_lgI42tEgw-ERS6lRsUZEcI2j27klPFk6Sgg.PNG/%C0%E5%BE%D6%C0%CE%C5%C3%BD%C3%BF%EE%C0%FC%BF%F8%BE%E7%BC%BA%BB%E7%BE%F7_%C0%A5_%C6%F7%BD%BA%C5%CD.png?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA4MjdfMTY4/MDAxNzg3ODA2NjgyNjc1.i_3XEy15dx5lnOdUqXV2Luus0oHLnlH1gw7mnbNiA9wg.-1yWqlA-_lgI42tEgw-ERS6lRsUZEcI2j27klPFk6Sgg.PNG/%C0%E5%BE%D6%C0%CE%C5%C3%BD%C3%BF%EE%C0%FC%BF%F8%BE%E7%BC%BA%BB%E7%BE%F7_%C0%A5_%C6%F7%BD%BA%C5%CD.png?type=s3\" /><br><img src=\"images/blog/blog_a1b57b1de636.png\">",
+    "link": "https://blog.naver.com/iansan485/224391978327?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 86,
+    "category": "안산시지회 뉴스",
+    "title": "\"안산시 지회장 이.취임식\"",
+    "date": "2026.08.26",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MjZfMTA5/MDAxNzg3NzM0NDc2NTUz.RjhFAVQJh_Vjc4TMYIL_Axm6HNNqIxLv5g5B1Lv1q5cg.EjWbmzPKbwWE_klRX_kDdyGWz9oa4qfDz1-X3ok0HVog.JPEG/IMG_4692.JPG?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)은 2026년 8월 26일(수) 상록구청 시민홀에서 경기도지체장애인협회 김원종 협회장님 외 내빈 및 회원분들 200여명과 함께 신임지회장 이.취임식을 개최하였습니다....",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)은 2026년 8월 26일(수) 상록구청 시민홀에서 경기도지체장애인협회 김원종 협회장님 외 내빈 및 회원분들 200여명과 함께 신임지회장 이.취임식을 개최하였습니다. 김재활 신임지회장님은 바쁘신 일정 중에도 이·취임식에 귀한 걸음으로 자리를 빛내주시고 새로운 출발을 축하하고 격려해 주신 내빈분들과 회원 여러분께 깊은 감사의 말씀을 올립니다. 지난 시간 동안 안산시지회의 발전과 장애인 복지 증진을 위해 헌신적인 노고를 아끼지 않으신 권태익 전임 지회장님의 노고에 깊은 경의와 감사를 표합니다. 아울러 새로 취임하신 김재활 신임 지회장님과 함께, 경기도지체장애인협회 안....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MjZfMTA5/MDAxNzg3NzM0NDc2NTUz.RjhFAVQJh_Vjc4TMYIL_Axm6HNNqIxLv5g5B1Lv1q5cg.EjWbmzPKbwWE_klRX_kDdyGWz9oa4qfDz1-X3ok0HVog.JPEG/IMG_4692.JPG?type=s3\" /><br><img src=\"images/blog/blog_a387a5356036.jpg\"><br><img src=\"images/blog/blog_5c93111985cc.jpg\"><br><img src=\"images/blog/blog_49f6dd8fb483.jpg\"><br><img src=\"images/blog/blog_68014273acd2.jpg\"><br><img src=\"images/blog/blog_069366a6766d.jpg\"><br><img src=\"images/blog/blog_87765ec6ccb6.jpg\"><br><img src=\"images/blog/blog_491dc31af3b6.jpg\"><br><img src=\"images/blog/blog_3d8edefe69e0.jpg\"><br><img src=\"images/blog/blog_b9551669e5d7.jpg\"><br><img src=\"images/blog/blog_41c88c7817a5.jpg\"><br><img src=\"images/blog/blog_3e966d77e410.jpg\"><br><img src=\"images/blog/blog_49caf17c062a.jpg\"><br><img src=\"images/blog/blog_75ef3da2eb1d.jpg\"><br><img src=\"images/blog/blog_2c3560db1cc7.jpg\"><br><img src=\"images/blog/blog_516e9c12d6e9.jpg\"><br><img src=\"images/blog/blog_1a0915127e38.jpg\"><br><img src=\"images/blog/blog_a3d280581a9a.jpg\"><br><img src=\"images/blog/blog_a6ed2d2c527d.jpg\"><br><img src=\"images/blog/blog_a8b69ccbd005.jpg\"><br><img src=\"images/blog/blog_19595297c5f4.jpg\"><br><img src=\"images/blog/blog_713074aa2761.jpg\"><br><img src=\"images/blog/blog_45d97e853c22.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224391108614?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 85,
     "category": "안산시지회 뉴스",
     "title": "서호임팩트(주)                      지체 장애어르신 쉼마루 후원 나눔",
