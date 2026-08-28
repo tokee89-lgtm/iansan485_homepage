@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": 90,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                            \"화훼 교실\"",
+    "date": "2026.08.28",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MjhfMjQy/MDAxNzg3ODg0OTE5Nzc3.Q9L1rLQzTtbG-GIIhr-rNDnnSTaSEOX1HiuklNZGlN8g.mOfFYspWJyd3iTT5gJWHzc6OV2afwHGTEfTb3W1iNj8g.JPEG/KakaoTalk_20260827_132612324_03.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 08.27.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 4회 수업을 진행 하였습니다. 오늘 작품은 타원형, 수평꽃 만들기입니다. 한송이 꽃...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 08.27.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 4회 수업을 진행 하였습니다. 오늘 작품은 타원형, 수평꽃 만들기입니다. 한송이 꽃을 잘라 중앙에 꽂고 두번째 꽃송이 꽃을 조금 길게 잘라서 좌,우로 수평을 만들어줍니다. 그다음 꽃을 잘라 줄기 끝이 정중앙을 향해 사선으로 꽂아 점점 넓혀가면 꽃과 꽃 사이의 공간이 편안하고 전체적인 형태를 확인 할 수 있어서 하나의 완성 작품이 나옵니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA4MjhfMjQy/MDAxNzg3ODg0OTE5Nzc3.Q9L1rLQzTtbG-GIIhr-rNDnnSTaSEOX1HiuklNZGlN8g.mOfFYspWJyd3iTT5gJWHzc6OV2afwHGTEfTb3W1iNj8g.JPEG/KakaoTalk_20260827_132612324_03.jpg?type=s3\" /><br><img src=\"images/blog/blog_6e429be4e37a.jpg\"><br><img src=\"images/blog/blog_eeb762324b02.jpg\"><br><img src=\"images/blog/blog_ca00641a004d.jpg\"><br><img src=\"images/blog/blog_3393bf049a9c.jpg\"><br><img src=\"images/blog/blog_81e7eb27c8f8.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224393000246?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 89,
+    "category": "장애인복지정보",
+    "title": "\"법정의무교육\"                     ( 직장 내 장애인 인식개선교육)무상",
+    "date": "2026.08.27",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA4MjdfMjk4/MDAxNzg3ODIwMDk5OTM5.qU4GCi--GU4ZJDnYBZdAPNK2dzJFr9rzWTfVgILF2wUg.oPGgp_IgIqv8g6i6OBl9fQazda9dWbJ4AqfU8oB8beEg.JPEG/20260827175558_00001.jpg?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA4MjdfMjk4/MDAxNzg3ODIwMDk5OTM5.qU4GCi--GU4ZJDnYBZdAPNK2dzJFr9rzWTfVgILF2wUg.oPGgp_IgIqv8g6i6OBl9fQazda9dWbJ4AqfU8oB8beEg.JPEG/20260827175558_00001.jpg?type=s3\" />",
+    "link": "https://blog.naver.com/iansan485/224392259990?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 88,
+    "category": "안산시지회 뉴스",
+    "title": "(사)경기도지체장애인협회 안산시지회 지회장 이·취임식 영상",
+    "date": "2026.08.27",
+    "image": "images/blog/blog_dd7086e1efd9.jpg",
+    "summary": "",
+    "content": "<img src=\"https://phinf.pstatic.net/image.nmv/blog_2026_08_27_1164/gp9U4DiXOC_08.jpg?type=f480x480\" />",
+    "link": "https://blog.naver.com/iansan485/224392220455?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 87,
     "category": "장애인복지정보",
     "title": "2026년 장애인택시운전원양성사업 홍보",
