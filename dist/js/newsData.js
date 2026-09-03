@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 91,
+    "category": "장애인복지정보",
+    "title": "경기도 경사로 설치 지원사업 안내(무상)",
+    "date": "2026.09.02",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MDNfMTM4/MDAxNzg4MzkxNDMyMTAx.bmy5RNCnVaROnKhYdubREIfaQcS79w5n5ZAjK9PcIzEg.NFgIPuPjDA7x_WQkMLSi7vnNIA_EWlj0BY9eCETsBcIg.PNG/%BA%D9%C0%D31.%2B%B0%E6%B1%E2%B5%B5%2B%B0%E6%BB%E7%B7%CE%2B%BC%B3%C4%A1%2B%C1%F6%BF%F8%2B%BB%E7%BE%F7%2B%B8%AE%C7%C3%B7%BF1%C2%F7%2B%BC%AD%B7%F9_1.png?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA5MDNfMTM4/MDAxNzg4MzkxNDMyMTAx.bmy5RNCnVaROnKhYdubREIfaQcS79w5n5ZAjK9PcIzEg.NFgIPuPjDA7x_WQkMLSi7vnNIA_EWlj0BY9eCETsBcIg.PNG/%BA%D9%C0%D31.%2B%B0%E6%B1%E2%B5%B5%2B%B0%E6%BB%E7%B7%CE%2B%BC%B3%C4%A1%2B%C1%F6%BF%F8%2B%BB%E7%BE%F7%2B%B8%AE%C7%C3%B7%BF1%C2%F7%2B%BC%AD%B7%F9_1.png?type=s3\" /><br><img src=\"images/blog/blog_27a48ee6017d.png\"><br><img src=\"images/blog/blog_f06608ac4ae2.png\">",
+    "link": "https://blog.naver.com/iansan485/224399295350?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 90,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                            \"화훼 교실\"",
