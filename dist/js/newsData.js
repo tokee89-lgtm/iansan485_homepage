@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 92,
+    "category": "안산시지회 뉴스",
+    "title": "2027 저상좌석버스 도입 활성화를 위한 정책 토론회 참석",
+    "date": "2026.09.04",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MDRfNTIg/MDAxNzg4NTE0ODQwMjky.2zIU1nb2RbT6J3Dx8vSgVQ77AhRoihKeBj2kaiScFU4g.tBLfjIALAv3EEZ47lDN_7HsjsfW5RCV7yiLSB2xFi7Yg.JPEG/1.jpg?type=s3",
+    "summary": "사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 4일 국회 의원회관 2층 대회의실에서 열린 정책토론회에 참여했습니다. 이번 토론회는, \"2027 저상좌석버스 도입 활성화\"를 위해 토론회와 함께 실제 저상버스...",
+    "content": "사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 4일 국회 의원회관 2층 대회의실에서 열린 정책토론회에 참여했습니다. 이번 토론회는, \"2027 저상좌석버스 도입 활성화\"를 위해 토론회와 함께 실제 저상버스 탑승 체험 일정으로 구성되었으며, 교통약자의 한 사람으로 직접 버스에 탑승하고 이용환경을 체험하면서, 무엇이 개선되었는지, 추가 보완 사항은 없는지 현장에서 직접 느껴볼 수 있었습니다. 이동권은 특별한 권리가 아니라 누구에게나 보장되어야 할 기본적인 권리입니다. 한국지체장애인협회 황재연 중앙회장은 “저상좌석버스 도입은 단순한 차량 확대가 아니라 장애인과 교통약자가 안전하고 편리하게 이동....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MDRfNTIg/MDAxNzg4NTE0ODQwMjky.2zIU1nb2RbT6J3Dx8vSgVQ77AhRoihKeBj2kaiScFU4g.tBLfjIALAv3EEZ47lDN_7HsjsfW5RCV7yiLSB2xFi7Yg.JPEG/1.jpg?type=s3\" /><br><img src=\"images/blog/blog_35e7730cd3d5.jpg\"><br><img src=\"images/blog/blog_84126fd56c34.jpg\"><br><img src=\"images/blog/blog_631c21a2e8c8.jpg\"><br><img src=\"images/blog/blog_c232a2b2855e.jpg\"><br><img src=\"images/blog/blog_51213118258d.jpg\"><br><img src=\"images/blog/blog_3f9deb5e9767.jpg\"><br><img src=\"images/blog/blog_a8a93b0b04d4.jpg\"><br><img src=\"images/blog/blog_f223eef6c04f.jpg\"><br><img src=\"images/blog/blog_e25c8fa999d6.jpg\"><br><img src=\"images/blog/blog_c1f5237626d1.jpg\"><br><img src=\"images/blog/blog_1350cb45ed11.jpg\"><br><img src=\"images/blog/blog_759aa15c12bb.jpg\"><br><img src=\"images/blog/blog_5772b697ade7.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224401162339?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 91,
     "category": "장애인복지정보",
     "title": "경기도 경사로 설치 지원사업 안내(무상)",
