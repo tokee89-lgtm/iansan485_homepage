@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 93,
+    "category": "장애인복지정보",
+    "title": "장애인 의료,요양 통합돌봄 사업 홍보",
+    "date": "2026.09.07",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MDdfMjE3/MDAxNzg4NzQ5NzQ5OTE2.JTr92Bv-6MKNwGnAbk8OugAgX6XfxKmYWGafbnuuevwg.IcY48o2T9mhSkQjlEaU_gmcqzMV19gvHM1z9k4ZJT40g.JPEG/111-01.jpg?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjA5MDdfMjE3/MDAxNzg4NzQ5NzQ5OTE2.JTr92Bv-6MKNwGnAbk8OugAgX6XfxKmYWGafbnuuevwg.IcY48o2T9mhSkQjlEaU_gmcqzMV19gvHM1z9k4ZJT40g.JPEG/111-01.jpg?type=s3\" /><br><img src=\"images/blog/blog_63fdde736a28.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224403448219?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 92,
     "category": "안산시지회 뉴스",
     "title": "2027 저상좌석버스 도입 활성화를 위한 정책 토론회 참석",
