@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 94,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                          \"화훼 교실\"",
+    "date": "2026.09.10",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MTBfNTAg/MDAxNzg5MDI5MDMxMDcz.cnhL1yFYE_ZFcz42lXa_8brPpMGvYiuMjZWYY2nzRZcg.UX4JJLiD6GbAxYJEwTU1tWSZ-ytHRN2wVkcKlQBM9OIg.JPEG/KakaoTalk_20260910_145023451_04.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 09.10.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 6회 수업을 진행 하였습니다. 오늘 작품은 꽃바구니 만들기입니다.바구니에 폼을 세팅...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 09.10.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 6회 수업을 진행 하였습니다. 오늘 작품은 꽃바구니 만들기입니다.바구니에 폼을 세팅하고 대각선 방향으로 그린 소재를 마주보게 꽂아주고 중심부터 꽃을 꽂으면서 공간을 채워나가면 하나의 완성 작품이 나옵니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MTBfNTAg/MDAxNzg5MDI5MDMxMDcz.cnhL1yFYE_ZFcz42lXa_8brPpMGvYiuMjZWYY2nzRZcg.UX4JJLiD6GbAxYJEwTU1tWSZ-ytHRN2wVkcKlQBM9OIg.JPEG/KakaoTalk_20260910_145023451_04.jpg?type=s3\" /><br><img src=\"images/blog/blog_2b8015e10b8e.jpg\"><br><img src=\"images/blog/blog_5d77910f2d61.jpg\"><br><img src=\"images/blog/blog_86fc6c370ffa.jpg\"><br><img src=\"images/blog/blog_bd87b8f2bf2d.jpg\"><br><img src=\"images/blog/blog_7aee221081f9.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224407376076?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 93,
     "category": "장애인복지정보",
     "title": "장애인 의료,요양 통합돌봄 사업 홍보",
