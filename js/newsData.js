@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 96,
+    "category": "안산시지회 뉴스",
+    "title": "장애인 전용주차구역 인식개선 캠페인 실시",
+    "date": "2026.09.11",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MTFfODYg/MDAxNzg5MTE4ODEzMzU1.GSwg6X_K11PeYOHIb_-J8hJ6kqw263j-zxYSYSXdmo8g.EFCLl8FZ5KSNr-yAzf-Yyk2-NPdS9pnmyOSevsjZOvcg.JPEG/%C4%B7%C6%E4%C0%CE1.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 11일(금) 안산시 중앙역 일대에서 장애인 전용주차구역의 올바른 이용문화 정착을 위한 인식개선 캠페인을 실시했습니다. 이날 캠페인에는 김재활 경기도지체장애인...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 11일(금) 안산시 중앙역 일대에서 장애인 전용주차구역의 올바른 이용문화 정착을 위한 인식개선 캠페인을 실시했습니다. 이날 캠페인에는 김재활 경기도지체장애인협회 안산시지회장(경기도장애인편의시설설치도민촉진단 핵심요원)을 비롯해 일반요원, 직원 및 회원, 안산시청 장애인복지과 관계자 등 약 20여 명이 참여했으며, 현수막과 피켓, 홍보 리플렛 등을 활용해 시민들에게 장애인 전용주차구역의 올바른 이용 방법과 준수사항을 안내하고, 장애인 전용주차구역을 비장애인이 이용하거나 주차를 방해하는 행위를 하지 않도록 시민들의 관심과 협조를 당부하였습니다. 김재활....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MTFfODYg/MDAxNzg5MTE4ODEzMzU1.GSwg6X_K11PeYOHIb_-J8hJ6kqw263j-zxYSYSXdmo8g.EFCLl8FZ5KSNr-yAzf-Yyk2-NPdS9pnmyOSevsjZOvcg.JPEG/%C4%B7%C6%E4%C0%CE1.jpg?type=s3\" /><br><img src=\"images/blog/blog_a2343948ae54.jpg\"><br><img src=\"images/blog/blog_dfa0a7c88843.jpg\"><br><img src=\"images/blog/blog_5aa44369705e.jpg\"><br><img src=\"images/blog/blog_4bd35f36fc99.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224408574425?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 95,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                       \"노래 2반교실\"",
+    "date": "2026.09.11",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MTFfMTg4/MDAxNzg5MTA5NTU3NDY4.OdzmUJet_f1bcIVza09uuXt8AVnTYu9hgeFZ6bD57MMg.XgFs3FnA6-3nlrDQS2sMYNCxIOWoz3UeEd0f2BwaOU0g.JPEG/KakaoTalk_20260911_105540058.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 09.11.(금) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 노래 2반교실 22회차 수업을 진행하였습니다. 입소문이 나서 인원이 늘어나고 있으며 새...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 09.11.(금) 안산시 지체 장애어르신 쉼마루 상반기 프로그램 노래 2반교실 22회차 수업을 진행하였습니다. 입소문이 나서 인원이 늘어나고 있으며 새로운 노래를 배우며 가사를 익히고 있고 함께 박수 레크레이션을 하다보니 어느새 끝나버렸습니다. 저희 안산시지회는 언제나 회원님들의 건강을 최우선으로 생각하고 있으니 궁금하신 사항 있으시면 연락주시기 바랍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MTFfMTg4/MDAxNzg5MTA5NTU3NDY4.OdzmUJet_f1bcIVza09uuXt8AVnTYu9hgeFZ6bD57MMg.XgFs3FnA6-3nlrDQS2sMYNCxIOWoz3UeEd0f2BwaOU0g.JPEG/KakaoTalk_20260911_105540058.jpg?type=s3\" /><br><img src=\"images/blog/blog_7200eae9ee92.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224408406657?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 94,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                          \"화훼 교실\"",
