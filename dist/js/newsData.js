@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 97,
+    "category": "안산시지회 뉴스",
+    "title": "제9회 경기도지체장애인체육대회 출전",
+    "date": "2026.09.14",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MTRfMTYg/MDAxNzg5MzgxNDMwNjYw._WsvO-BSclS3T79Y3bCImxQz0gHZgvBLV4quA7hyGgcg.oixt8_0eSyIb19RlNe-aPVuuq_JHGWGEs7ExnVH_Fv0g.JPEG/KakaoTalk_20260914_184725766_09.jpg?type=s3",
+    "summary": "사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 14일(월) 성남종합운동장에서 열린 ‘제9회 경기도지체장애인체육대회’에 출전하였습니다. 이번 대회에는 경기도지체장애인협회 31개 시·군 지회 선수단이 참여해 ...",
+    "content": "사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 14일(월) 성남종합운동장에서 열린 ‘제9회 경기도지체장애인체육대회’에 출전하였습니다. 이번 대회에는 경기도지체장애인협회 31개 시·군 지회 선수단이 참여해 휠체어 경주, 미니파크골프, 슐런, 한궁, 볼 튀기기, 빅볼 굴리기, 투호 등 7개 종목에서 그동안 갈고닦은 기량을 마음껏 펼쳤습니다. 약 30여명의 안산시지회 선수단도 열정적으로 경기에 임했습니다. 그결과 휠체어 경주에서 3위라는 값진 성과를 거두었으며, 슐런에서도 4위를 기록하며 아쉽지만 의미 있는 결과를 만들어냈습니다. 순위와 기록을 넘어, 서로의 도전을 응원하고 격려하며 스포츠를 통해 하나 되는 교류....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MTRfMTYg/MDAxNzg5MzgxNDMwNjYw._WsvO-BSclS3T79Y3bCImxQz0gHZgvBLV4quA7hyGgcg.oixt8_0eSyIb19RlNe-aPVuuq_JHGWGEs7ExnVH_Fv0g.JPEG/KakaoTalk_20260914_184725766_09.jpg?type=s3\" /><br><img src=\"images/blog/blog_a3a46c509dde.jpg\"><br><img src=\"images/blog/blog_61e6d4c00470.jpg\"><br><img src=\"images/blog/blog_fc77bb39f1aa.jpg\"><br><img src=\"images/blog/blog_ca0aa7234fe0.jpg\"><br><img src=\"images/blog/blog_2e02043dc2cd.jpg\"><br><img src=\"images/blog/blog_0d96fb45fe82.jpg\"><br><img src=\"images/blog/blog_9a3ea019f689.jpg\"><br><img src=\"images/blog/blog_93cb4fde8844.jpg\"><br><img src=\"images/blog/blog_2f504722a954.jpg\"><br><img src=\"images/blog/blog_df0f9d8368ec.jpg\"><br><img src=\"images/blog/blog_b7c3e177d39a.jpg\"><br><img src=\"images/blog/blog_0c4555f73c1a.jpg\"><br><img src=\"images/blog/blog_1382cf5dfb7c.jpg\"><br><img src=\"images/blog/blog_c89de3e71861.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224411581052?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 96,
     "category": "안산시지회 뉴스",
     "title": "장애인 전용주차구역 인식개선 캠페인 실시",
