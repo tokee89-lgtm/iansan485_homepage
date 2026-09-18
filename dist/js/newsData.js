@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 99,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
+    "date": "2026.09.17",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMjE0/MDAxNzg5NjMzMzE4NjU3.ZJ-cAlOEM7XfghnEsBc4IZiHF1_d0fS7m5z0pkFjrNwg.pVQ5gpIypwwslG9-pD_lH7f4tcIzoWRazSWgoXkenUsg.JPEG/KakaoTalk_20260917_142222566.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 09.17.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 7회 수업을 진행 하였습니다. 오늘 작품은 반구형 꽃꽃이 만들기입니다. 5송이의 꽃...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 09.17.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 7회 수업을 진행 하였습니다. 오늘 작품은 반구형 꽃꽃이 만들기입니다. 5송이의 꽃을 같은 길이로 잘라서 중심에 하나 꽂고, 동서남북 방향으로 하나씩 꽂습니다. 화기의 가장자리부분을 둥근 형태로 잡히도록 사이사이 넣어주고 나머지 꽃송이들을 빈공간에 채워주면 반구형 꽃꽃이가 완성이 됩니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MTdfMjE0/MDAxNzg5NjMzMzE4NjU3.ZJ-cAlOEM7XfghnEsBc4IZiHF1_d0fS7m5z0pkFjrNwg.pVQ5gpIypwwslG9-pD_lH7f4tcIzoWRazSWgoXkenUsg.JPEG/KakaoTalk_20260917_142222566.jpg?type=s3\" /><br><img src=\"images/blog/blog_ed820ccca68b.jpg\"><br><img src=\"images/blog/blog_7eec34703621.jpg\"><br><img src=\"images/blog/blog_40285c49ccd3.jpg\"><br><img src=\"images/blog/blog_a2b7a5a9f436.jpg\"><br><img src=\"images/blog/blog_64e21d6968b3.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224415115696?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 98,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                      \"짜장밥 나눔\"행사",
+    "date": "2026.09.17",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MTdfMjY4/MDAxNzg5NjMxNTc2OTQ3.PyEFykbfXFURRW8wdWTTEoQQMPVNZbl2D6gVC9OH-DYg.3-Bi8frV0-xukBae7dgxWBgiHiU2JOjycNZgXt3Hij0g.PNG/KakaoTalk_20260917_165139796.png?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 17일(목) 지체장애어르신 쉼마루 프로그램실에서 「짜장밥 나눔」 행사를 진행하였습니다. 위더스동행봉사단(회장 오준석)이 주관한 이번 행사에는 쉼마루 회원과 ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 9월 17일(목) 지체장애어르신 쉼마루 프로그램실에서 「짜장밥 나눔」 행사를 진행하였습니다. 위더스동행봉사단(회장 오준석)이 주관한 이번 행사에는 쉼마루 회원과 자원봉사자 등 약 120여 명이 함께해 따뜻한 짜장밥을 나누고, 챔버뮤직공연단의 색소폰 연주와 노래 공연을 즐기며 행복한 시간을 보냈습니다. 앞으로도 안산시지회는 지체장애 어르신들의 건강하고 행복한 일상과 더불어 따뜻한 나눔문화 확산을 위해 노력하겠습니다. 짜장밥 나눔 행사에 함께해 주신 모든 분들께 다시한번 감사인사 드립니다. [짜장밥 나눔 행사 영상 링크] https://www.youtube.com/watch?v=yHw....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MTdfMjY4/MDAxNzg5NjMxNTc2OTQ3.PyEFykbfXFURRW8wdWTTEoQQMPVNZbl2D6gVC9OH-DYg.3-Bi8frV0-xukBae7dgxWBgiHiU2JOjycNZgXt3Hij0g.PNG/KakaoTalk_20260917_165139796.png?type=s3\" /><br><img src=\"images/blog/blog_60d6d7846979.png\"><br><img src=\"images/blog/blog_bdddb932aed8.jpg\"><br><img src=\"images/blog/blog_ca7e50fd9f1d.jpg\"><br><img src=\"images/blog/blog_b58568de8459.jpg\"><br><img src=\"images/blog/blog_24dbe08c8014.jpg\"><br><img src=\"images/blog/blog_a3ff8da23286.jpg\"><br><img src=\"images/blog/blog_e448abf01838.jpg\"><br><img src=\"images/blog/blog_03634876a3f8.jpg\"><br><img src=\"images/blog/blog_9f1ba3f4dd1b.jpg\"><br><img src=\"images/blog/blog_6d85f1079c4f.jpg\"><br><img src=\"images/blog/blog_c5e99330a845.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224415090862?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 97,
     "category": "안산시지회 뉴스",
     "title": "제9회 경기도지체장애인체육대회 출전",
