@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 100,
+    "category": "안산시지회 뉴스",
+    "title": "2026년 안산시지회 9월 월례회의",
+    "date": "2026.09.21",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MjFfMTAz/MDAxNzg5OTc2Nzg5NDQ4.YxxLvgKltlQ7TnuoPLMnBpFnWH3ZEpVjBHGn6qRB3vMg.UhPoIMWQZkS7E9VoPqqfuf5BByOGEvrvUtNXSVqm9_og.JPEG/1.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 9월 21일(월), 9월 월례회의를 개최하였습니다. 회의에 앞서, 전임 지회장이신 권태익 경기도의원님이 월례회의에 참석, 추석 명절 인사를 나누는 시간...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 9월 21일(월), 9월 월례회의를 개최하였습니다. 회의에 앞서, 전임 지회장이신 권태익 경기도의원님이 월례회의에 참석, 추석 명절 인사를 나누는 시간을 가졌으며, 이어서 지난 9월 7일(월) 도협회의 정식 승인을 받은 김영찬 사무국장의 임명장 수여가 이루어졌습니다. 이후 지난 9월 14일(월) 경기도지체장애인체육대회의 성과 보고 및 2026년 하반기 사업계획 보고, 주요 현안에 대한 논의와 함께, 추석 명절을 앞두고 덕담을 나누는 시간을 가졌습니다. 안산시지회는 앞으로도 지체장애 어르신들의 건강하고 행복한 일상을 위해 더욱 노력하겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MjFfMTAz/MDAxNzg5OTc2Nzg5NDQ4.YxxLvgKltlQ7TnuoPLMnBpFnWH3ZEpVjBHGn6qRB3vMg.UhPoIMWQZkS7E9VoPqqfuf5BByOGEvrvUtNXSVqm9_og.JPEG/1.jpg?type=s3\" /><br><img src=\"images/blog/blog_7afb2ce85cae.jpg\"><br><img src=\"images/blog/blog_1a1ea23b5672.jpg\"><br><img src=\"images/blog/blog_27de1fe16082.jpg\"><br><img src=\"images/blog/blog_896098b2795c.jpg\"><br><img src=\"images/blog/blog_47543e47fc7a.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224418869349?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 99,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
