@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 101,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루               \"추석맞이 송편 및 떡 \"나눔",
+    "date": "2026.09.23",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MjNfMTU5/MDAxNzkwMTI0OTMzOTcx.gBgCS8w27ZhDtrouObAAR_LOjNXWrp36qdfHw5c_axkg.uKqGGRWvFJBvI50y4zxbwAIKP-nU26MYPNo9iAH9JXwg.PNG/KakaoTalk_20260917_163030373.png?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 9월 21일~22일(2일) 지회 프로그램실에서 자원봉사센터 나눔으로 안산 장애어르신 쉼마루 회원님들을 위한 \"추석맞이 송편 및 떡 나눔\"을 진행하였습니...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 9월 21일~22일(2일) 지회 프로그램실에서 자원봉사센터 나눔으로 안산 장애어르신 쉼마루 회원님들을 위한 \"추석맞이 송편 및 떡 나눔\"을 진행하였습니다. 이번 행사는 90여명의 회원님들에게 어르신들의 밥상을 더욱 든든하게 채워드릴 맛있는 송편과 떡국떡을 전달해 드렸더니 환하게 웃어주시는 어르신들의 모습에 저희 직원들 마음까지 행복으로 가득 차는 하루였습니다. 작은 정성이 담긴 떡국 한 그릇에 서로를 향한 따뜻한 마음과 온기가 가득 전해졌기를 바라며 올해도 쉼마루와 함께 늘 건강하시고, 웃음꽃이 가득한 풍성한 한가위 보내시기를 진심으로 기원합....... <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MjNfMTU5/MDAxNzkwMTI0OTMzOTcx.gBgCS8w27ZhDtrouObAAR_LOjNXWrp36qdfHw5c_axkg.uKqGGRWvFJBvI50y4zxbwAIKP-nU26MYPNo9iAH9JXwg.PNG/KakaoTalk_20260917_163030373.png?type=s3\" /><br><img src=\"images/blog/blog_90eb59812b32.jpg\"><br><img src=\"images/blog/blog_5216ea887ad3.jpg\"><br><img src=\"images/blog/blog_a408774e614a.jpg\"><br><img src=\"images/blog/blog_7536f54b0798.jpg\"><br><img src=\"images/blog/blog_9cee92eac83e.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224420646215?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 100,
     "category": "안산시지회 뉴스",
     "title": "2026년 안산시지회 9월 월례회의",
