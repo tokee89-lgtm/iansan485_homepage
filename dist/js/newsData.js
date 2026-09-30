@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 102,
+    "category": "공지사항",
+    "title": "안산 지체 장애어르신 쉼마루                        \"10월 일정표\"",
+    "date": "2026.09.29",
+    "image": "https://blogthumb.pstatic.net/MjAyNjA5MjlfMjcg/MDAxNzkwNjU0MjMzNjgw._u4HWK9Xwr7yQOuZtJpwPGf7TxJ4Svx3CHgo99-sDp0g.gH-9_8Vjhs1fLS7FelyeSns-9CYose0ZH_oVOV1bEIIg.JPEG/10%BF%F9_%C0%CF%C1%A4%C7%A5.jpg?type=s3",
+    "summary": "2026년 안산시 지체 장애어르신 쉼마루 10월 일정표입니다. 일정표 참고하시고 궁금한 사항 있으시면 언제든지 연락주시기 바랍니다 ~^^",
+    "content": "2026년 안산시 지체 장애어르신 쉼마루 10월 일정표입니다. 일정표 참고하시고 궁금한 사항 있으시면 언제든지 연락주시기 바랍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjA5MjlfMjcg/MDAxNzkwNjU0MjMzNjgw._u4HWK9Xwr7yQOuZtJpwPGf7TxJ4Svx3CHgo99-sDp0g.gH-9_8Vjhs1fLS7FelyeSns-9CYose0ZH_oVOV1bEIIg.JPEG/10%BF%F9_%C0%CF%C1%A4%C7%A5.jpg?type=s3\" /><br><img src=\"images/blog/blog_2662d2d47a32.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224425821000?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 101,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루               \"추석맞이 송편 및 떡 \"나눔",
