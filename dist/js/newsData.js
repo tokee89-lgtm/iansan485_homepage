@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 103,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                          \"화훼 교실\"",
+    "date": "2026.10.01",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMDFfNTQg/MDAxNzkwODMwMDQ4MDg4._pQaV3QoJ3uZi5XdIDbGRrzFU1rk18pxhv8N-OV8VXsg.65BVHIj1BPBtgKP4qQCSrqFNyG9mxl2FdSG144sFm0cg.JPEG/KakaoTalk_20261001_134632785.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.01.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 8회 수업을 진행 하였습니다. 오늘 작품은 파라렐 만들기입니다. 파라렐은 나무와 꽃...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.01.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 8회 수업을 진행 하였습니다. 오늘 작품은 파라렐 만들기입니다. 파라렐은 나무와 꽃을 이용한 \"작은 정원\"이라고 합니다. 줄기가 곧은 소재들은 그룹으로 세워 수직으로 꽂고, 아랫부분에는 면이 강조된 그룹으로 낮게 꽂아 수직을 강조하는 디자인입니다. 꽃이 풍성해지는 만큼 마음도 풍성해진 회원님들의 만족도가 갈수록 높아져가네요 ^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMDFfNTQg/MDAxNzkwODMwMDQ4MDg4._pQaV3QoJ3uZi5XdIDbGRrzFU1rk18pxhv8N-OV8VXsg.65BVHIj1BPBtgKP4qQCSrqFNyG9mxl2FdSG144sFm0cg.JPEG/KakaoTalk_20261001_134632785.jpg?type=s3\" /><br><img src=\"images/blog/blog_f5bfa5598658.jpg\"><br><img src=\"images/blog/blog_e52ee082971a.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224428203406?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 102,
     "category": "공지사항",
     "title": "안산 지체 장애어르신 쉼마루                        \"10월 일정표\"",
