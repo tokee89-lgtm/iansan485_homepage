@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 104,
+    "category": "장애인축제한마당",
+    "title": "제31회 경기도장애인 축제한마당",
+    "date": "2026.10.07",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMDdfMjEz/MDAxNzkxMzY4NDUwNTUw.XqIhojadCZ_zWwPtZakO3KI56NjTuOT-grG78H4N_8wg.P-muq3yndkRnUqCLDERCVepr4D23DXoRJdifUo-TSKwg.JPEG/1.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 7일(수), 하남종합운동장에서 열린「제31회 2026년 경기도장애인축제 한마당」에 참여, 뜻깊은 시간을 함께 했습니다. 그리고 오늘의 기쁜 소식...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 7일(수), 하남종합운동장에서 열린「제31회 2026년 경기도장애인축제 한마당」에 참여, 뜻깊은 시간을 함께 했습니다. 그리고 오늘의 기쁜 소식! \"한궁\" 경기에서 당당히 1위의 쾌거를 달성했습니다! 그동안 함께 연습하며 쌓아온 실력을 마음껏 발휘한 안산시지회 선수들과 한마음으로 응원하고 함께해주신 모든 분들의 열정에 큰 박수를 보냅니다. 안산시지회 선수 여러분, 정말 자랑스럽습니다! 함께라서 더 빛나는 우리! 앞으로도 경기도지체장애인협회 안산시지회는 장애인 체육 활성화와 화합을 위해 힘차게 나아가겠습니다. 안산시지회 파이팅 <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMDdfMjEz/MDAxNzkxMzY4NDUwNTUw.XqIhojadCZ_zWwPtZakO3KI56NjTuOT-grG78H4N_8wg.P-muq3yndkRnUqCLDERCVepr4D23DXoRJdifUo-TSKwg.JPEG/1.jpg?type=s3\" /><br><img src=\"images/blog/blog_edbf9142de3f.jpg\"><br><img src=\"images/blog/blog_78b2b903fda4.jpg\"><br><img src=\"images/blog/blog_0172b729fa97.jpg\"><br><img src=\"images/blog/blog_728480528724.jpg\"><br><img src=\"images/blog/blog_0a76f6ffdab4.jpg\"><br><img src=\"images/blog/blog_ddd2a62d603c.jpg\"><br><img src=\"images/blog/blog_d2dfcd8fce4d.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224434425632?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 103,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                          \"화훼 교실\"",
