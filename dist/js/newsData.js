@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 105,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
+    "date": "2026.10.08",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMDhfMjMz/MDAxNzkxNDQxNzE4OTcy.r4v8pH6wOos49k5LPQFujExOh-s_3rt7fMKh3mzJOLcg.K09V0zAswnHJJawrZchbex1QTJxiPHbIX8d3PvDhGawg.JPEG/KakaoTalk_20261008_154110778_01.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.08.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 9회 수업을 진행 하였습니다. 오늘 작품은 하트꽃꽃이 만들기입니다. 이번 작품은 장...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.08.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 9회 수업을 진행 하였습니다. 오늘 작품은 하트꽃꽃이 만들기입니다. 이번 작품은 장미를 이용하여 핑크톤의 사랑스러운 하트를 만드는 수업입니다. 큰꽃은 중심부터 꽂고, 작은꽃은 가장자리 라임을 잡아주며 잎은 빈 공간을 채워줍니다. 같은 꽃을 드려도 회원님들의 개성에 따라 작품들이 틀려서 보는 재미가 쏠쏠합니다 ^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMDhfMjMz/MDAxNzkxNDQxNzE4OTcy.r4v8pH6wOos49k5LPQFujExOh-s_3rt7fMKh3mzJOLcg.K09V0zAswnHJJawrZchbex1QTJxiPHbIX8d3PvDhGawg.JPEG/KakaoTalk_20261008_154110778_01.jpg?type=s3\" /><br><img src=\"images/blog/blog_bfbc1a59c653.jpg\"><br><img src=\"images/blog/blog_f000bc9a8ff0.jpg\"><br><img src=\"images/blog/blog_38375440ad47.jpg\"><br><img src=\"images/blog/blog_ce291f63e6c7.jpg\"><br><img src=\"images/blog/blog_df0a6f27c549.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224435331363?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 104,
     "category": "장애인축제한마당",
     "title": "제31회 경기도장애인 축제한마당",
