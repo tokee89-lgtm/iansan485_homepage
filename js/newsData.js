@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 106,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                          \"화훼 교실\"",
+    "date": "2026.10.15",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMTVfNDYg/MDAxNzkyMDUzODc0NjQx.UbamLq5Di3ZaV_Kt764kV7sEPYuxeY-mMP7bgJNGdyUg.Ho5TfTFJyfC81opLltvOdMRvVM5l6ZPoDuRBUOW5TSkg.JPEG/KakaoTalk_20261015_133532126.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.15.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 10회 수업을 진행 하였습니다. 오늘 작품은 타원형-수평 만들기입니다. 꽃 재료중 ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.15.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 10회 수업을 진행 하였습니다. 오늘 작품은 타원형-수평 만들기입니다. 꽃 재료중 가장 크고 예쁜꽃을 골라 중심에 꽂고 좌,우로 하나씩 꽂은 다음 앞,뒤로 같은 방식으로 꽂습니다. 꽃과 꽃사이에 잎을 적당히 넣어주고 빈공간에 작은 꽃들을 꽂으면 타원형 꽃 작품이 나옵니다. 각자 본인 취향에 맞게 꽃 바구니가 완성이 되니 보는 재미가 있는 화훼 교실입니다 ^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMTVfNDYg/MDAxNzkyMDUzODc0NjQx.UbamLq5Di3ZaV_Kt764kV7sEPYuxeY-mMP7bgJNGdyUg.Ho5TfTFJyfC81opLltvOdMRvVM5l6ZPoDuRBUOW5TSkg.JPEG/KakaoTalk_20261015_133532126.jpg?type=s3\" /><br><img src=\"images/blog/blog_c430d755bff4.jpg\"><br><img src=\"images/blog/blog_1743ee21c5de.jpg\"><br><img src=\"images/blog/blog_560f69e28031.jpg\"><br><img src=\"images/blog/blog_988857f9c2dc.jpg\"><br><img src=\"images/blog/blog_552fa49659d1.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224442821946?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 105,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
