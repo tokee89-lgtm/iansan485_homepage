@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 108,
+    "category": "안산시지회 뉴스",
+    "title": "2026 안산시장애인 한마음대축제",
+    "date": "2026.10.20",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMjBfMTcx/MDAxNzkyNDc4MzMyMzUw.V82iidcgz0VZ5mUjFjJfbmHpa6dHA8YKa8qeihAgugEg.sZagRVyjm7rqQq-kuTtpIn4T0FLX6FoW5xzVqcwS3DMg.JPEG/1.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 20일(화) 안산 올림픽기념 국민생활관에서 개최된 「2026년 안산시장애인 한마음 대축제」에 참여하였습니다. 안산시지회는 슐런 체험, 경사로 체...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 20일(화) 안산 올림픽기념 국민생활관에서 개최된 「2026년 안산시장애인 한마음 대축제」에 참여하였습니다. 안산시지회는 슐런 체험, 경사로 체험, 임산부 체험, 경기편의시설 앱 “톡톡” 등의 안내 및 체험 부스를 운영, 장애인과 비장애인이 함께 어울리며 서로를 이해하고 마음을 나누는 뜻깊은 시간을 마련하였습니다. 함께해 주신 모든 분께 감사드리며, 앞으로도 장애인의 권익 향상과 복지 증진을 위해 함께 하겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMjBfMTcx/MDAxNzkyNDc4MzMyMzUw.V82iidcgz0VZ5mUjFjJfbmHpa6dHA8YKa8qeihAgugEg.sZagRVyjm7rqQq-kuTtpIn4T0FLX6FoW5xzVqcwS3DMg.JPEG/1.jpg?type=s3\" /><br><img src=\"images/blog/blog_c979e18db55a.jpg\"><br><img src=\"images/blog/blog_5155423562ac.jpg\"><br><img src=\"images/blog/blog_88b57df5a88a.jpg\"><br><img src=\"images/blog/blog_75863448e57c.jpg\"><br><img src=\"images/blog/blog_fbf4d4e3a30d.jpg\"><br><img src=\"images/blog/blog_534a15655920.jpg\"><br><img src=\"images/blog/blog_494e998a2cad.jpg\"><br><img src=\"images/blog/blog_525c0ab1b50a.jpg\"><br><img src=\"images/blog/blog_e12b27131ae2.jpg\"><br><img src=\"images/blog/blog_26a971106082.jpg\"><br><img src=\"images/blog/blog_48c1c79f8e56.jpg\"><br><img src=\"images/blog/blog_e7b57f1437e2.jpg\"><br><img src=\"images/blog/blog_d7be76263333.jpg\"><br><img src=\"images/blog/blog_aecb2099b506.jpg\"><br><img src=\"images/blog/blog_7632d5033ff3.jpg\"><br><img src=\"images/blog/blog_67d53aac906c.jpg\"><br><img src=\"images/blog/blog_a590553e1553.jpg\"><br><img src=\"images/blog/blog_2f4a9f4a0cf7.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224447820233?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 107,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                       \"노래 2반교실\"",
