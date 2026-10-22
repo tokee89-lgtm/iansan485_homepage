@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 109,
+    "category": "국제파크골프대회",
+    "title": "2026년 전국지체장애인체육대회",
+    "date": "2026.10.21",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMjFfMTM1/MDAxNzkyNTY3MzMxMzUx.lJyrOeKCMR_hjAj2oe2dlQAlTbp2mNOcPd8YJa2md3og.fn9T2IucAP2I5t5TP6xCe3c9ZrSCQkuIx26e-W6EV-4g.JPEG/KakaoTalk_20261021_133315929.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 21일 (수) 한국지체장애인협회(중앙회장 황재연)에서 주최한 행사로 전남 광주월드컵경기장에서 열린 「2026 전국지체장애인 체육대회」에 함께하였...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 21일 (수) 한국지체장애인협회(중앙회장 황재연)에서 주최한 행사로 전남 광주월드컵경기장에서 열린 「2026 전국지체장애인 체육대회」에 함께하였습니다. 이번 대회는 전국 시.도,광역시에서 모여 열정적으로 경기에 임하였고 그 결과 경기도가 종합 1위라는 값진 성과를 거두었습니다. 서로 화합하고 소통하며, 도전과 열정으로 하나 되는 뜻깊은 시간을 보내고 왔습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMjFfMTM1/MDAxNzkyNTY3MzMxMzUx.lJyrOeKCMR_hjAj2oe2dlQAlTbp2mNOcPd8YJa2md3og.fn9T2IucAP2I5t5TP6xCe3c9ZrSCQkuIx26e-W6EV-4g.JPEG/KakaoTalk_20261021_133315929.jpg?type=s3\" /><br><img src=\"images/blog/blog_e9770876233c.jpg\"><br><img src=\"images/blog/blog_32f50f06d0fe.jpg\"><br><img src=\"images/blog/blog_fa21f8dd1388.jpg\"><br><img src=\"images/blog/blog_1e70119173d6.jpg\"><br><img src=\"images/blog/blog_b5beab59b61a.jpg\"><br><img src=\"images/blog/blog_ae0c7bd7294f.jpg\"><br><img src=\"images/blog/blog_a978e6d32799.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224449108419?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 108,
     "category": "안산시지회 뉴스",
     "title": "2026 안산시장애인 한마음대축제",
