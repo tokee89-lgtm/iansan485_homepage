@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 110,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
+    "date": "2026.10.22",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMjJfMTAw/MDAxNzkyNjU0MzAyMDIx.4H_WqClIyKoV5lMuplc8-zIdDcErmGqVdx6usLVKENAg.eglNmeXeCKn3-nerjZyFeW46Q4uBKX3kv9RzQXO-WL4g.JPEG/KakaoTalk_20261022_150427708_03.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.22.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 11회 수업을 진행 하였습니다. 오늘 작품은 달항아리 센터피스 만들기입니다. 센터피...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.22.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 11회 수업을 진행 하였습니다. 오늘 작품은 달항아리 센터피스 만들기입니다. 센터피스란 식탁이나 테이블에 중앙에 놓아 분위기를 아름답게 연출하는데 활용되는 장식물입니다. 달항아리에 큰 꽃을 아래쪽에 꽃고, 작은꽃은 위쪽에 꽃아 안정감을 만들어 줍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMjJfMTAw/MDAxNzkyNjU0MzAyMDIx.4H_WqClIyKoV5lMuplc8-zIdDcErmGqVdx6usLVKENAg.eglNmeXeCKn3-nerjZyFeW46Q4uBKX3kv9RzQXO-WL4g.JPEG/KakaoTalk_20261022_150427708_03.jpg?type=s3\" /><br><img src=\"images/blog/blog_043f2fabebbe.jpg\"><br><img src=\"images/blog/blog_b74540ec9191.jpg\"><br><img src=\"images/blog/blog_d1f00c01ebaa.jpg\"><br><img src=\"images/blog/blog_8974679814e7.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224450284186?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 109,
     "category": "국제파크골프대회",
     "title": "2026년 전국지체장애인체육대회",
