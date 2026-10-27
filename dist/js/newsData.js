@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 112,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                          \"한궁 교실\"",
+    "date": "2026.10.26",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMjZfNjcg/MDAxNzkyOTg5MDA4ODc5.a4ozQV8dAXd_OLky1fD4efQy6x4e8B1dQlPZnj3xc9sg.LLOrTZJBVb-UNzgBiZnGIsNT4usxcyfEaaBG6Sa6QQAg.JPEG/KakaoTalk_20261026_125516327.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10. 26.(월) 안산시 장애어르신 쉼마루 프로그램 한궁교실 66회차 수업을 진행하였습니다. 한궁은 안전하면서 높은 접근성이 좋고 좌우 균형 및 코어...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10. 26.(월) 안산시 장애어르신 쉼마루 프로그램 한궁교실 66회차 수업을 진행하였습니다. 한궁은 안전하면서 높은 접근성이 좋고 좌우 균형 및 코어 강화에 좋아 오십견 예방이나 관절 유연성 유지에 도움을 줍니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMjZfNjcg/MDAxNzkyOTg5MDA4ODc5.a4ozQV8dAXd_OLky1fD4efQy6x4e8B1dQlPZnj3xc9sg.LLOrTZJBVb-UNzgBiZnGIsNT4usxcyfEaaBG6Sa6QQAg.JPEG/KakaoTalk_20261026_125516327.jpg?type=s3\" /><br><img src=\"images/blog/blog_81ab2055855c.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224454074220?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 111,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                      \"노래 2반교실\"",
