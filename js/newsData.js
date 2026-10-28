@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 113,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루           \"찾아가는 문화 연극 공연\" 나눔",
+    "date": "2026.10.27",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMjdfMTA0/MDAxNzkzMDg3OTQ2NDk2.x4bisxfbK-w8ALhp7C47tTkuU6rC0QgRXal87KttBjAg.pixZ9Srobu0D51spo6trOAnAgA7RPXvnbmhTse09t_0g.JPEG/KakaoTalk_20261027_133409238.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 27일(화) 지체장애어르신 쉼마루 프로그램실에서 회원들을 위한 특별한 연극 공연을 진행하였습니다. 이번 행사는 문화예술 접점이 상대적으로 부족한...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 10월 27일(화) 지체장애어르신 쉼마루 프로그램실에서 회원들을 위한 특별한 연극 공연을 진행하였습니다. 이번 행사는 문화예술 접점이 상대적으로 부족한 회원들에게 기회를 제공하고, 스트레스를 해소하며 활력을 불어넣기 위해 마련 되었습니다. 흥미로운 스토리로 진행되었으며, 배우들의 열정적인 연기가 더해져 쉼마루 프로그램실을 찾은 회원들에게 큰 웃음과 깊은 울림을 주었습니다. 저희 안산시지회는 이번 문화 행사를 통해 회원들의 정서적 안정과 사회 참여 확대를 위한 다양한 프로그램을 지속적으로 펼쳐나갈 계획입니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMjdfMTA0/MDAxNzkzMDg3OTQ2NDk2.x4bisxfbK-w8ALhp7C47tTkuU6rC0QgRXal87KttBjAg.pixZ9Srobu0D51spo6trOAnAgA7RPXvnbmhTse09t_0g.JPEG/KakaoTalk_20261027_133409238.jpg?type=s3\" /><br><img src=\"images/blog/blog_64335c379b1e.jpg\"><br><img src=\"images/blog/blog_6e7bef2d7a62.jpg\"><br><img src=\"images/blog/blog_64f243db06c8.jpg\"><br><img src=\"images/blog/blog_76a9c9b0f35e.jpg\"><br><img src=\"images/blog/blog_5edcabc9e9b8.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224455609239?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 112,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                          \"한궁 교실\"",
