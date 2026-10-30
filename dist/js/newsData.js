@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 114,
+    "category": "장애어르신 쉼마루",
+    "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
+    "date": "2026.10.29",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMjlfMzAw/MDAxNzkzMjU5NTkxMjc3.wiPQKlRGdmO2eFUbMXGE-7KlsNWjoq4pw7xyJCI36u0g.CfcR_Tb56Nf3a17sSUgOr2FiwjhmMR0H1ggc9ccIIYAg.JPEG/KakaoTalk_20261029_132653998.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.29.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 12회 수업을 진행 하였습니다. 오늘 작품은 그루핑 만들기입니다. 향기로운 꽃 스톡...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10.29.(목) 안산시 장애어르신 쉼마루 하반기 프로그램 화훼교실 12회 수업을 진행 하였습니다. 오늘 작품은 그루핑 만들기입니다. 향기로운 꽃 스톡과 가을국화를 이용한 그루핑기법으로 같은 종류의 성질을 가진 꽃을 모아 높낮이를 달리하여 꽂으면 입체감도 줄 수 있고 또한, 잎이나 열매를 넣어주면 풍성하면서 자연스럽고 멋스러운 하나의 완성품이 나옵니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMjlfMzAw/MDAxNzkzMjU5NTkxMjc3.wiPQKlRGdmO2eFUbMXGE-7KlsNWjoq4pw7xyJCI36u0g.CfcR_Tb56Nf3a17sSUgOr2FiwjhmMR0H1ggc9ccIIYAg.JPEG/KakaoTalk_20261029_132653998.jpg?type=s3\" /><br><img src=\"images/blog/blog_f137c7c77704.jpg\"><br><img src=\"images/blog/blog_747c32f28883.jpg\"><br><img src=\"images/blog/blog_e68d6e513055.jpg\"><br><img src=\"images/blog/blog_888176c6001a.jpg\"><br><img src=\"images/blog/blog_02c7963ad193.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224457970545?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 113,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루           \"찾아가는 문화 연극 공연\" 나눔",
