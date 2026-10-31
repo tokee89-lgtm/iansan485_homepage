@@ -1,5 +1,25 @@
 const newsData = [
   {
+    "id": 116,
+    "category": "공지사항",
+    "title": "\"한국열린사이버대학교를 통해                 새로운 배움에 도전하세요\"",
+    "date": "2026.10.30",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMzBfNjEg/MDAxNzkzMzQ1MDMyOTI2.LEIoUswJClec4ZQohz4i2o--ZsHdaCQLu47T6M5iox4g.85_4sprzve-d8wjDq_dpJwOYaua7AEVZs82WevFmrj8g.PNG/%28%BA%D9%C0%D3%29%C8%AB%BA%B8_%C6%F7%BD%BA%C5%CD.png?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjEwMzBfNjEg/MDAxNzkzMzQ1MDMyOTI2.LEIoUswJClec4ZQohz4i2o--ZsHdaCQLu47T6M5iox4g.85_4sprzve-d8wjDq_dpJwOYaua7AEVZs82WevFmrj8g.PNG/%28%BA%D9%C0%D3%29%C8%AB%BA%B8_%C6%F7%BD%BA%C5%CD.png?type=s3\" /><br><img src=\"images/blog/blog_e1f74141df17.png\">",
+    "link": "https://blog.naver.com/iansan485/224459194514?fromRss=true&trackingCode=rss"
+  },
+  {
+    "id": 115,
+    "category": "경기도장애인파크골프대회",
+    "title": "제8회 한국지체장애인스포츠연맹회장배 전국지체장애인 파크골프대회",
+    "date": "2026.10.30",
+    "image": "https://blogthumb.pstatic.net/MjAyNjEwMzBfNSAg/MDAxNzkzMzM2ODQ1MDM2.b26Wviu5089AZJrQ26ENYiO2BPqOs4aiaX-xkxUIfjMg.EuJoh7j4liaATB3HjZHiPFnHFFTvAy_X_SwvxS8oDd8g.JPEG/0.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10. 29.(목) ~ 30.(금), 전남 화순파크골프장에서 개최한「제8회 한국지체장애인스포츠연맹회장배 전국지체장애인 파크골프대회」2일차에 참여 중입니...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 10. 29.(목) ~ 30.(금), 전남 화순파크골프장에서 개최한「제8회 한국지체장애인스포츠연맹회장배 전국지체장애인 파크골프대회」2일차에 참여 중입니다. 이번 대회는, 파크골프를 통한 장애인의 건강증진 및 여가선용, 파크골프의 국내 활성화 및 전라남도 위상 제고, 장애인 생활체육 인구의 저변 확대 및 전문체육선수 간 교류, 장애인 스포츠에 대한 사회 일반의 이해 제고 및 장애인체육 진흥 기여를 위해 마련되었습니다. 선수 여러분의 열정과 도전이 빛나는 이번 대회를 통해 장애인 체육의 가치와 가능성이 더욱 널리 알려지기를 바랍니다. 앞으로도 장애인의 체육활동 참....... <img src=\"https://blogthumb.pstatic.net/MjAyNjEwMzBfNSAg/MDAxNzkzMzM2ODQ1MDM2.b26Wviu5089AZJrQ26ENYiO2BPqOs4aiaX-xkxUIfjMg.EuJoh7j4liaATB3HjZHiPFnHFFTvAy_X_SwvxS8oDd8g.JPEG/0.jpg?type=s3\" /><br><img src=\"images/blog/blog_20bee2e325ef.jpg\"><br><img src=\"images/blog/blog_a9a26a228223.png\"><br><img src=\"images/blog/blog_63d160148382.jpg\"><br><img src=\"images/blog/blog_173fbf751c55.jpg\"><br><img src=\"images/blog/blog_d60c975e526a.jpg\"><br><img src=\"images/blog/blog_4922230570c3.jpg\"><br><img src=\"images/blog/blog_5406a4aeb600.jpg\"><br><img src=\"images/blog/blog_df4a5698769f.jpg\"><br><img src=\"images/blog/blog_718fe210b40d.jpg\"><br><img src=\"images/blog/blog_ae8bcd6646e6.jpg\"><br><img src=\"images/blog/blog_42ff6a5a5fc3.jpg\"><br><img src=\"images/blog/blog_869133489559.jpg\"><br><img src=\"images/blog/blog_58caef27f917.jpg\"><br><img src=\"images/blog/blog_222fbb01aa65.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224459017739?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 114,
     "category": "장애어르신 쉼마루",
     "title": "안산 지체 장애어르신 쉼마루                           \"화훼 교실\"",
