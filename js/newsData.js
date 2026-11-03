@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 117,
+    "category": "자유게시판",
+    "title": "안전보건 교육자료(MSDS)",
+    "date": "2026.11.02",
+    "image": "https://blogthumb.pstatic.net/MjAyNjExMDJfMjE1/MDAxNzkzNjA1MTQzMTQz.64vXlrqfp_PFGevh8pAT6vBXtsm8MpVm3Ng2s9eu5Xcg.LGGiyeJOJ1TcCbr3mCOgbo3Pj50B3Su7Jtd5HtqOXFog.JPEG/20261102105528_00001.jpg?type=s3",
+    "summary": "",
+    "content": "<img src=\"https://blogthumb.pstatic.net/MjAyNjExMDJfMjE1/MDAxNzkzNjA1MTQzMTQz.64vXlrqfp_PFGevh8pAT6vBXtsm8MpVm3Ng2s9eu5Xcg.LGGiyeJOJ1TcCbr3mCOgbo3Pj50B3Su7Jtd5HtqOXFog.JPEG/20261102105528_00001.jpg?type=s3\" /><br><img src=\"images/blog/blog_536bd1aea4ab.jpg\"><br><img src=\"images/blog/blog_b70389f49f70.jpg\"><br><img src=\"images/blog/blog_6cb201482551.jpg\"><br><img src=\"images/blog/blog_b056e824f04f.jpg\"><br><img src=\"images/blog/blog_f68a463be582.jpg\"><br><img src=\"images/blog/blog_370bdfd3152c.jpg\"><br><img src=\"images/blog/blog_5fedd47d9cba.jpg\"><br><img src=\"images/blog/blog_4b062d6c5444.jpg\"><br><img src=\"images/blog/blog_1b87126687db.jpg\"><br><img src=\"images/blog/blog_d6de6b6d7401.jpg\"><br><img src=\"images/blog/blog_65e1f1fc14a0.jpg\"><br><img src=\"images/blog/blog_e7350264217d.jpg\"><br><img src=\"images/blog/blog_1eeb88fc0e5c.jpg\"><br><img src=\"images/blog/blog_e3dd33d33d56.jpg\"><br><img src=\"images/blog/blog_856645fcaae0.jpg\"><br><img src=\"images/blog/blog_903b65fdad50.jpg\"><br><img src=\"images/blog/blog_4439275c9766.jpg\"><br><img src=\"images/blog/blog_82228ec4b0b8.jpg\"><br><img src=\"images/blog/blog_9ceaa864f00d.jpg\"><br><img src=\"images/blog/blog_a5deb97fe201.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224462417950?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 116,
     "category": "공지사항",
     "title": "\"한국열린사이버대학교를 통해                 새로운 배움에 도전하세요\"",
