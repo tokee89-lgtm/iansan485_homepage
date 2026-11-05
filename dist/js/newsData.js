@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 118,
+    "category": "장애어르신 쉼마루",
+    "title": "안산시 지체 장애어르신 쉼마루                       \"노래 1반교실\"",
+    "date": "2026.11.04",
+    "image": "https://blogthumb.pstatic.net/MjAyNjExMDRfMTYw/MDAxNzkzNzc2ODI5NDAy.gvg8hSSHNCEdTpisH4cO9lGDAC5AKbCQTVf2qMy06ksg.CeR0taXDR9Esuc3IKfuCBqKxfmPFsR5o4pdOYiDXM5kg.JPEG/KakaoTalk_20261104_141203071.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 11.04.(수) 안산시 지체 장애어르신 쉼마루 노래 1반교실 29차 수업을 진행하였습니다. 오늘의 수업 지도는 미스김님의 옆구리 노래입니다. 신나는 ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026. 11.04.(수) 안산시 지체 장애어르신 쉼마루 노래 1반교실 29차 수업을 진행하였습니다. 오늘의 수업 지도는 미스김님의 옆구리 노래입니다. 신나는 EDM 비트와 재미있는 가사, 거기에 율동까지 같이 배우니 회원님들의 반응이 뜨겁네요. 언제나 신체적 및 건강한 웃음을 함께 얻어갈수 있는 노래교실입니다 ~^^ <img src=\"https://blogthumb.pstatic.net/MjAyNjExMDRfMTYw/MDAxNzkzNzc2ODI5NDAy.gvg8hSSHNCEdTpisH4cO9lGDAC5AKbCQTVf2qMy06ksg.CeR0taXDR9Esuc3IKfuCBqKxfmPFsR5o4pdOYiDXM5kg.JPEG/KakaoTalk_20261104_141203071.jpg?type=s3\" /><br><img src=\"images/blog/blog_6c02aff0e725.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224464843289?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 117,
     "category": "자유게시판",
     "title": "안전보건 교육자료(MSDS)",
