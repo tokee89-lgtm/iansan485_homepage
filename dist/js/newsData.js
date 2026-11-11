@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 119,
+    "category": "장애인합동고희잔치",
+    "title": "제12회 안산시 장애어르신 합동 고희잔치",
+    "date": "2026.11.10",
+    "image": "https://blogthumb.pstatic.net/MjAyNjExMTBfMTUy/MDAxNzk0Mjk0OTg0ODc2.OKU81v2JD5JG6ughhVOvXh1jRXc2w9J0hXES-QksxX0g.PKQE5V0jNrg5BsvsMP8Hm3IOBNYRWKaG4PpeLjbit80g.JPEG/902044244_122145986955206201_4688287131822425328_n.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 11월 10일(화), 한양대학교 ERICA 컨벤션센터에서 내빈 및 회원 등 350여 명이 참석한 가운데 「제12회 안산시 장애어르신 합동 고희잔치」를 ...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 11월 10일(화), 한양대학교 ERICA 컨벤션센터에서 내빈 및 회원 등 350여 명이 참석한 가운데 「제12회 안산시 장애어르신 합동 고희잔치」를 성황리에 개최하였습니다. 이번 행사는 지역사회 장애 어르신들에게 효와 사랑의 의미를 전하고, 평소 여러 가지 어려움으로 인해 고희잔치를 마련하기 힘들었던 어르신들께 소중한 추억과 기쁨을 선물하고자 마련되었습니다. 특히 오늘의 주인공이신 여덟 분의 어르신들께서 가족과 내빈, 그리고 많은 분들의 축하 속에서 행복하고 뜻깊은 하루를 보내셨기를 바랍니다. 아울러 어르신들의 건강과 행복을 기원하며, 앞으로도 무병장수하시....... <img src=\"https://blogthumb.pstatic.net/MjAyNjExMTBfMTUy/MDAxNzk0Mjk0OTg0ODc2.OKU81v2JD5JG6ughhVOvXh1jRXc2w9J0hXES-QksxX0g.PKQE5V0jNrg5BsvsMP8Hm3IOBNYRWKaG4PpeLjbit80g.JPEG/902044244_122145986955206201_4688287131822425328_n.jpg?type=s3\" /><br><img src=\"images/blog/blog_d157f8759027.jpg\"><br><img src=\"images/blog/blog_b97aa340a117.jpg\"><br><img src=\"images/blog/blog_1c731826dfe0.jpg\"><br><img src=\"images/blog/blog_a8f49bbecb68.jpg\"><br><img src=\"images/blog/blog_2e95530ff563.jpg\"><br><img src=\"images/blog/blog_a6ea48068d56.jpg\"><br><img src=\"images/blog/blog_494955c870a3.jpg\"><br><img src=\"images/blog/blog_f18e11846903.jpg\"><br><img src=\"images/blog/blog_88e2b00a6338.jpg\"><br><img src=\"images/blog/blog_1c31ac9f26c7.jpg\"><br><img src=\"images/blog/blog_1410106c354b.jpg\"><br><img src=\"images/blog/blog_6a9385f72183.jpg\"><br><img src=\"images/blog/blog_d9e8cc16942b.jpg\"><br><img src=\"images/blog/blog_69fbf3b42415.jpg\"><br><img src=\"images/blog/blog_5e49656060ac.jpg\"><br><img src=\"images/blog/blog_de2aa366192f.jpg\"><br><img src=\"images/blog/blog_4de652d0efab.jpg\"><br><img src=\"images/blog/blog_aa329cf290c8.jpg\"><br><img src=\"images/blog/blog_8cba5fb97999.jpg\"><br><img src=\"images/blog/blog_bded97f48d44.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224471794817?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 118,
     "category": "장애어르신 쉼마루",
     "title": "안산시 지체 장애어르신 쉼마루                       \"노래 1반교실\"",
