@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 120,
+    "category": "경기도장애인파크골프대회",
+    "title": "제1회 경기도지체장애인스포츠연맹회장배 전국 지체장애인 파크골프대회",
+    "date": "2026.11.16",
+    "image": "https://blogthumb.pstatic.net/MjAyNjExMTZfMjMg/MDAxNzk0Nzk1Mjk2MTIy.WXlCl5rMzIPP8MsXCESrtIjyxb9ruhaUjpuiJeP28nUg.h2H2jiCBs3ec_uh8vILKcI7-YS6h9d3bwHdXKe_De_cg.JPEG/905001338_122146296237206201_4608208306146716544_n.jpg?type=s3",
+    "summary": "사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 11월 13일(금) 양평파크골프장에서 개최된「제1회 경기도지체장애인스포츠연맹회장배(회장 김원종) 전국 지체장애인 파크골프대회」에 참가하였습니다. 이번 대...",
+    "content": "사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 11월 13일(금) 양평파크골프장에서 개최된「제1회 경기도지체장애인스포츠연맹회장배(회장 김원종) 전국 지체장애인 파크골프대회」에 참가하였습니다. 이번 대회에 안산시지회는 김재활 지회장 포함, 총 6명으로 선수단을 구성하여 출전하였으며, 그동안 갈고닦은 기량을 마음껏 펼치며 열정과 도전 정신을 보여주었습니다. 전국 각지에서 모인 선수들이 한자리에 모여 선의의 경쟁을 펼치고, 스포츠를 통해 화합과 우정을 나누는 뜻깊은 시간이 되었습니다. 대회에 참가한 안산시지회 선수단 6명 모두에게 힘찬 박수를 보내며, 대회 개최를 위해 애써주신 경기도지체장애인스포츠....... <img src=\"https://blogthumb.pstatic.net/MjAyNjExMTZfMjMg/MDAxNzk0Nzk1Mjk2MTIy.WXlCl5rMzIPP8MsXCESrtIjyxb9ruhaUjpuiJeP28nUg.h2H2jiCBs3ec_uh8vILKcI7-YS6h9d3bwHdXKe_De_cg.JPEG/905001338_122146296237206201_4608208306146716544_n.jpg?type=s3\" /><br><img src=\"images/blog/blog_f4f5a6bd5afe.jpg\"><br><img src=\"images/blog/blog_7979aa6a3f9e.jpg\"><br><img src=\"images/blog/blog_7fd777024c12.jpg\"><br><img src=\"images/blog/blog_52ab40fbaa8f.jpg\"><br><img src=\"images/blog/blog_7891be455d5c.jpg\"><br><img src=\"images/blog/blog_fbd80de5fd96.jpg\"><br><img src=\"images/blog/blog_21b750279e64.jpg\"><br><img src=\"images/blog/blog_52b9a841fd77.jpg\"><br><img src=\"images/blog/blog_01e5e7acd27c.jpg\"><br><img src=\"images/blog/blog_911207773def.jpg\"><br><img src=\"images/blog/blog_c078ce1f33a1.jpg\"><br><img src=\"images/blog/blog_3f324a1d20dc.jpg\"><br><img src=\"images/blog/blog_486c3983354e.jpg\"><br><img src=\"images/blog/blog_4a1f0288e7c5.jpg\"><br><img src=\"images/blog/blog_2e6a017b91f1.jpg\"><br><img src=\"images/blog/blog_8a5bf928ad7f.jpg\"><br><img src=\"images/blog/blog_50b340e811b8.jpg\"><br><img src=\"images/blog/blog_81d81aff7b95.jpg\"><br><img src=\"images/blog/blog_856198d273e9.jpg\"><br><img src=\"images/blog/blog_ef26db9cdb9d.jpg\"><br><img src=\"images/blog/blog_6ab2f9a6abe1.jpg\"><br><img src=\"images/blog/blog_25bcedd61172.jpg\"><br><img src=\"images/blog/blog_3b3d3b1970d9.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224478856590?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 119,
     "category": "장애인합동고희잔치",
     "title": "제12회 안산시 장애어르신 합동 고희잔치",
