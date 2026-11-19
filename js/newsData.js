@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 121,
+    "category": "안산시지회 뉴스",
+    "title": "\"도비 삭감 결사반대!",
+    "date": "2026.11.19",
+    "image": "https://blogthumb.pstatic.net/MjAyNjExMTlfMTUg/MDAxNzk1MDQ4OTI1NTQz.PyKwN6K2pjOY9nEiZqMotmARs0GUcHNoWyqkgMkjVlQg.r015RuKhnrHN_LyxmiOqMHm-13buj7FGioJHIY91hOkg.JPEG/911746616_122146872615206201_6493614930038700200_n.jpg?type=s3",
+    "summary": "\"도비 삭감 결사반대!\" 시군편의센터 및 DB조사사업은 장애인의 일상과 직결된 필수 사업입니다. 현장의 생존권을 보장하고 장애인의 정당한 편의권을 반드시 지켜내겠습니다! (사)경기도지체장애인협회 안산시지회(지회장 김...",
+    "content": "\"도비 삭감 결사반대!\" 시군편의센터 및 DB조사사업은 장애인의 일상과 직결된 필수 사업입니다. 현장의 생존권을 보장하고 장애인의 정당한 편의권을 반드시 지켜내겠습니다! (사)경기도지체장애인협회 안산시지회(지회장 김재활) 장애인편의증진기술지원센터 일동 <img src=\"https://blogthumb.pstatic.net/MjAyNjExMTlfMTUg/MDAxNzk1MDQ4OTI1NTQz.PyKwN6K2pjOY9nEiZqMotmARs0GUcHNoWyqkgMkjVlQg.r015RuKhnrHN_LyxmiOqMHm-13buj7FGioJHIY91hOkg.JPEG/911746616_122146872615206201_6493614930038700200_n.jpg?type=s3\" /><br><img src=\"images/blog/blog_ccedc3c3b1ac.jpg\"><br><img src=\"images/blog/blog_f074ff6d8e3e.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224483038336?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 120,
     "category": "경기도장애인파크골프대회",
     "title": "제1회 경기도지체장애인스포츠연맹회장배 전국 지체장애인 파크골프대회",
