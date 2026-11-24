@@ -1,5 +1,15 @@
 const newsData = [
   {
+    "id": 122,
+    "category": "안산시지회 뉴스",
+    "title": "장애인복지예산 삭감 반대 궐기대회(26.11.20)",
+    "date": "2026.11.23",
+    "image": "https://blogthumb.pstatic.net/MjAyNjExMjNfMjE4/MDAxNzk1NDE2MTA2MDk1.sptlV9Y0Sh1N6ZM4mxzqS6-jkH2gKzO43N6v2IGepNog.jkFeIs5HmqvfiqVICOTzqdQQaHVSMZUByTusoc5eeRUg.JPEG/916946283_122147059251206201_6761229052609628388_n.jpg?type=s3",
+    "summary": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 11월 20일, 경기도청에서 진행되는 장애인복지예산 삭감 반대 궐기대회에 함께하고 있습니다. 장애인복지예산 삭감은 단순한 예산의 문제가 아닙니다. 장애...",
+    "content": "(사)경기도지체장애인협회 안산시지회(지회장 김재활)는 2026년 11월 20일, 경기도청에서 진행되는 장애인복지예산 삭감 반대 궐기대회에 함께하고 있습니다. 장애인복지예산 삭감은 단순한 예산의 문제가 아닙니다. 장애인의 일상과 삶의 질, 이동권과 자립생활, 그리고 당연히 보장받아야 할 권리를 위협하는 문제입니다. 장애인의 권리가 예산 삭감의 대상이 되어서는 안 됩니다! 장애인복지사업이 안정적으로 추진되고, 장애인의 삶과 권리가 보장될 수 있도록 장애인복지예산 확보와 삭감 반대를 강력히 촉구합니다. 우리의 목소리가 정책이 되고, 우리의 투쟁이 변화가 될 때까지 함께하겠습니다. <img src=\"https://blogthumb.pstatic.net/MjAyNjExMjNfMjE4/MDAxNzk1NDE2MTA2MDk1.sptlV9Y0Sh1N6ZM4mxzqS6-jkH2gKzO43N6v2IGepNog.jkFeIs5HmqvfiqVICOTzqdQQaHVSMZUByTusoc5eeRUg.JPEG/916946283_122147059251206201_6761229052609628388_n.jpg?type=s3\" /><br><img src=\"images/blog/blog_8d01b03b00d0.jpg\"><br><img src=\"images/blog/blog_7768bca99892.jpg\"><br><img src=\"images/blog/blog_841a373673f6.jpg\"><br><img src=\"images/blog/blog_26defad29c4d.jpg\"><br><img src=\"images/blog/blog_3f8ec87cc07e.jpg\"><br><img src=\"images/blog/blog_b9b61441b9a2.jpg\"><br><img src=\"images/blog/blog_cc2fc05cb47e.jpg\">",
+    "link": "https://blog.naver.com/iansan485/224488495705?fromRss=true&trackingCode=rss"
+  },
+  {
     "id": 121,
     "category": "안산시지회 뉴스",
     "title": "\"도비 삭감 결사반대!",
